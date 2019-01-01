@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>applications on </title>
+    <link>//dzoladz.github.io/website/tags/applications/</link>
+    <description>Recent content in applications on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Derek C. Zoladz</copyright>
+    <lastBuildDate>Mon, 31 Dec 2018 11:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//dzoladz.github.io/website/tags/applications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apps I&#39;m Taking into 2019</title>
+      <link>//dzoladz.github.io/website/post/2018apps/</link>
+      <pubDate>Mon, 31 Dec 2018 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/post/2018apps/</guid>
+      <description>I should probably start off with a bit of a caveat.
+Okay. Now that we have that out of the way, here are a few of the apps that I&amp;rsquo;ve discovered over the last 365 days that I&amp;rsquo;ll be taking with me into 2019.
+PyCharm
+PyCharm is a Python IDE with an extensive collection of plugins. I&amp;rsquo;m using the community edition to develop Python scripts in support the Consortium of Ohio Libraries, mainly to interact with the Evergreen ILS.</description>
+    </item>
+    
+  </channel>
+</rss>

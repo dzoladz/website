@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//dzoladz.github.io/website/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Derek C. Zoladz</copyright>
+    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/website/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Apps I&#39;m Taking into 2019</title>
+      <link>//dzoladz.github.io/website/post/2018apps/</link>
+      <pubDate>Mon, 31 Dec 2018 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/post/2018apps/</guid>
+      <description>&lt;p&gt;I should probably start off with a bit of a caveat.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/TTRyEOT.jpg&#34; alt=&#34;image of Steve Jobs calling all categories of computer program an app.&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Okay. Now that we have that out of the way, here are a few of the apps that I&amp;rsquo;ve discovered over the last 365 days that I&amp;rsquo;ll be taking with me into 2019.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.jetbrains.com/pycharm/&#34; target=&#34;_blank&#34;&gt;PyCharm&lt;/a&gt;&lt;br /&gt;
+PyCharm is a Python IDE with an extensive collection of plugins. I&amp;rsquo;m using the community edition to develop Python scripts in support the Consortium of Ohio Libraries, mainly to interact with the Evergreen ILS. PyCharm includes a useful testing suite and refactoring tools, while also providing straightforward integration with GitHub and seamless implementation of pipenv virtual environments. Simple on-boarding for new python developers, but feature rich and extensible as your needs grow.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.iterm2.com/&#34; target=&#34;_blank&#34;&gt;iTerm2&lt;/a&gt;&lt;br /&gt;
+Essentially, a terminal replacement for the native terminal application that shipped with my MacBook Pro. I find the ability to split terminal panes both vertically and horizontally an advantage for different tasks. I&amp;rsquo;ve also made use of the integrated search feature quite a bit. With colorized output, it&amp;rsquo;s beautiful to use. There are also a slew of other powerful features that I rarely make use of (in 2018, at least).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.sequelpro.com/&#34; target=&#34;_blank&#34;&gt;Sequel Pro&lt;/a&gt;&lt;br /&gt;
+A MacOS native application for interacting with MySQL and MariaDB and a replacement phpMyAdmin. Enough said.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/sqlitebrowser/sqlitebrowser&#34; target=&#34;_blank&#34;&gt;DB browser for SQLite&lt;/a&gt;&lt;br /&gt;
+Open source application to create and edit SQLite database files. My main use case is to import Excel worksheets and be able to execute SQL commands on the data. Maybe more importantly is the ability to import multiple Excel worksheets, join them together, and query across them. This tool said me quite a bit of time when working with the Academic Library Association of Ohio (ALAO) this past year.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://brave.com/&#34; target=&#34;_blank&#34;&gt;Brave&lt;/a&gt;&lt;br /&gt;
+A web browser built on Chromium and the Blink rendering engine, a fork of WebKit. It&amp;rsquo;s my drop-in replacement for Google Chrome at the moment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/robbyrussell/oh-my-zsh&#34; target=&#34;_blank&#34;&gt;Oh My Zsh&lt;/a&gt;&lt;br /&gt;
+I&amp;rsquo;ve abandoned Bash and began using the Z shell on my MacBook Pro. I&amp;rsquo;m a very big fan of the available themes, which have assisted with git workflow and generally made working in the terminal a much more pleasant and enjoyable experience. Highly recommended.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/berick/pysip2&#34; target=&#34;_blank&#34;&gt;PySip2&lt;/a&gt;&lt;br /&gt;
+A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve used this tool for testing SIP connectivity during the statewide implementation of Lynda.com, while establishing authentication for the Ohio Digital Library, for new subscriptions to Hoopla, and also while implementing a PC management system at one on the COOL libraries. Outstanding little application.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ohio Digital Network Launches</title>
+      <link>//dzoladz.github.io/website/post/dpla/</link>
+      <pubDate>Fri, 02 Mar 2018 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/post/dpla/</guid>
+      <description>&lt;p&gt;Participating in the early group for the technical infrastructure for this project - simply called &amp;lsquo;DPLA Ohio&amp;rsquo; at the time - shaped the trajectory of my career firmly towards technology. Check out the &lt;a href=&#34;https://library.ohio.gov/news/ohio-digital-network-collections-debuts-dpla/&#34; target=&#34;_blank&#34;&gt;State Library of Ohio&amp;rsquo;s announcement&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And the, visit the &lt;a href=&#34;https://ohiodigitalnetwork.org/&#34; target=&#34;_blank&#34;&gt;Ohio Digital Network&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beam Me Up, Scotty: Migrating into an Evergreen Consortium</title>
+      <link>//dzoladz.github.io/website/publication/rightclick2017/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/publication/rightclick2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality at Columbus State Library [Photo Essay]</title>
+      <link>//dzoladz.github.io/website/project/thurgood/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/project/thurgood/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Thurgood Marshall and the Supreme Court&lt;/em&gt; was an interactive exhibit at the Columbus State Library in 2015. Posters were brought to life using the augmented reality app &lt;a href=&#34;https://www.aurasma.com/&#34; target=&#34;_blank&#34;&gt;Aurasma&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Using emerging technology, team members created the exhibit and online guide that was enjoyed and appreciated by the community, ranging from 5th graders to local business leaders. With the help of many collaborators, the team went beyond the exhibit to create a wide range of programs including a film series, an art exhibit, a lecture series, and a companion display and programming in the Bookstore. This innovative and extraordinary program of exhibits and events provided the campus and community with the opportunity to learn more deeply about events and individuals that have had an impact on the way we live today.&amp;rdquo; - &lt;strong&gt;CSCC Quality Team Award, Gold 2016&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/thurgood/exhibit-poster.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Announcement board for the exhibit&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/thurgood/thurgood-1.jpg&#34; alt=&#34;Post-Award Photo of the Major Library Staff Contributors to the Project.&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;(from left to right) Frank Neutzling, Daryl Brown, Derek Zoladz&lt;/h4&gt;
+  &lt;p&gt;
+    Post-Award Photo of the Major Library Staff Contributors to the Project.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/thurgood/thurgood-2.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;View of Exhibit from Main Entrance&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/thurgood/thurgood-3.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Display at Columbus State Bookstore&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an example of a triggered augmented reality layer for one of the case posters. There is no audio on this clip.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/hJRJTxkP7tY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Know the Lingo: How ILEAD Ohio Influenced Library Collaboration and Discovery for Patrons</title>
+      <link>//dzoladz.github.io/website/publication/know-the-lingo/</link>
+      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/publication/know-the-lingo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lingo</title>
+      <link>//dzoladz.github.io/website/project/lingo/</link>
+      <pubDate>Sun, 23 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/project/lingo/</guid>
+      <description>&lt;p&gt;Ohio’s first ILEAD USA was a multi-state immersive continuing education program that develops library leaders through projects based on community needs via the application of participatory technology tools. Ohio participants joined others from Colorado, Illinois, Iowa, and Utah in this national initiative. ILEAD USA was funded by a Laura Bush 21st Century Librarian Program grant to the State Library of Illinois from the Institute of Museum and Library Services.&lt;/p&gt;
+
+&lt;p&gt;Myself, and a former CSCC colleague Julie Zaveloff, were selected as part of the initial group from Ohio. Our team was rounded out by other librarians from around the state:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kirstin Krumsee, State Library of Ohio&lt;/li&gt;
+&lt;li&gt;Jessica Crossfield McIntosh, Otterbein University&lt;/li&gt;
+&lt;li&gt;David Green, OhioNET&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/lingo/zoladz-zaveloff.jpg&#34; alt=&#34;Columbus State Librarians selected for ILEAD USA - OHIO 2013&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Derek Zoladz and Julie Zaveloff&lt;/h4&gt;
+  &lt;p&gt;
+    Columbus State Librarians selected for ILEAD USA - OHIO 2013
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;As part of the first in-person session in March, teams had only a few hours each evening to create short videos explaining their projects.
+[insert initial Lost In Translation video here]&lt;/p&gt;
+
+&lt;p&gt;Our team was called &amp;lsquo;Lost In Translation&amp;rsquo;, as our original idea for the project was to create a dictionary that would demystify library jargon&amp;hellip; but we ended up designing a classification translation tool.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/lingo/lingo-icon.png&#34; alt=&#34;Designed by Lost in Translation team member Kirstin Krumsee&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Application Logo&lt;/h4&gt;
+  &lt;p&gt;
+    Designed by Lost in Translation team member Kirstin Krumsee
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/lingo/lingo-1.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;UI Design Mock-up for Lingo&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;I&amp;rsquo;ve met some lifelong friends during this year. I&amp;rsquo;m sure we&amp;rsquo;ll meet again on a number of future projects. Project code is available on &lt;a href=&#34;https://github.com/dzoladz/know-the-lingo&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;, although unmaintained.&lt;/p&gt;
+
+&lt;p&gt;We made a final pitch of the application to our local library administrations, participating organizations and partners, as well as to the State Library of Ohio Board.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/lingo/board-presentation.jpg&#34; alt=&#34;Describing Lingo and it&amp;#39;s Role&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Derek Zoladz and Kirstin Krumsee&lt;/h4&gt;
+  &lt;p&gt;
+    Describing Lingo and it&amp;rsquo;s Role
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

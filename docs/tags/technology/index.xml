@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology on </title>
+    <link>//dzoladz.github.io/website/tags/technology/</link>
+    <description>Recent content in technology on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Derek C. Zoladz</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//dzoladz.github.io/website/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Augmented Reality at Columbus State Library [Photo Essay]</title>
+      <link>//dzoladz.github.io/website/project/thurgood/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/project/thurgood/</guid>
+      <description>Thurgood Marshall and the Supreme Court was an interactive exhibit at the Columbus State Library in 2015. Posters were brought to life using the augmented reality app Aurasma.
+ &amp;ldquo;Using emerging technology, team members created the exhibit and online guide that was enjoyed and appreciated by the community, ranging from 5th graders to local business leaders. With the help of many collaborators, the team went beyond the exhibit to create a wide range of programs including a film series, an art exhibit, a lecture series, and a companion display and programming in the Bookstore.</description>
+    </item>
+    
+    <item>
+      <title>Lingo</title>
+      <link>//dzoladz.github.io/website/project/lingo/</link>
+      <pubDate>Sun, 23 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/project/lingo/</guid>
+      <description>Ohio’s first ILEAD USA was a multi-state immersive continuing education program that develops library leaders through projects based on community needs via the application of participatory technology tools. Ohio participants joined others from Colorado, Illinois, Iowa, and Utah in this national initiative. ILEAD USA was funded by a Laura Bush 21st Century Librarian Program grant to the State Library of Illinois from the Institute of Museum and Library Services.
+Myself, and a former CSCC colleague Julie Zaveloff, were selected as part of the initial group from Ohio.</description>
+    </item>
+    
+  </channel>
+</rss>
