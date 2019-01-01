@@ -2,7 +2,7 @@
 # Hero Carousel widget.
 widget = "hero_carousel"
 active = false
-date = 2017-10-15T00:00:00
+date = 2018-12-31T00:00:00
 
 # Order that this section will appear in.
 weight = 1

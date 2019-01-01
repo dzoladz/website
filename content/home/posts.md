@@ -4,13 +4,13 @@
 widget = "posts"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
-date = 2016-04-20T00:00:00
+date = 2018-12-31T00:00:00
 
 title = "Recent Posts"
 subtitle = ""
 
 # Number of recent posts to list.
-count = 5
+count = 3
 
 # List format.
 #   0 = Simple
