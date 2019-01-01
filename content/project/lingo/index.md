@@ -39,19 +39,19 @@ Myself, and a former CSCC colleague Julie Zaveloff, were selected as part of the
 - Jessica Crossfield McIntosh, Otterbein University
 - David Green, OhioNET
 
-{{< figure src="/dzoladz/project/lingo/zoladz-zaveloff.jpg" title="Derek Zoladz and Julie Zaveloff" caption="Columbus State Librarians selected for ILEAD USA - OHIO 2013" attr="">}}
+{{< figure src="zoladz-zaveloff.jpg" title="Derek Zoladz and Julie Zaveloff" caption="Columbus State Librarians selected for ILEAD USA - OHIO 2013" attr="">}}
 
   As part of the first in-person session in March, teams had only a few hours each evening to create short videos explaining their projects.
 [insert initial Lost In Translation video here]
 
 Our team was called 'Lost In Translation', as our original idea for the project was to create a dictionary that would demystify library jargon... but we ended up designing a classification translation tool.
 
-{{< figure src="/dzoladz/project/lingo/lingo-icon.png" title="Application Logo" caption="Designed by Lost in Translation team member Kirstin Krumsee" attr="">}}
+{{< figure src="lingo-icon.png" title="Application Logo" caption="Designed by Lost in Translation team member Kirstin Krumsee" attr="">}}
 
-{{< figure src="/dzoladz/project/lingo/lingo-1.png" title="UI Design Mock-up for Lingo" caption="" attr="">}}
+{{< figure src="lingo-1.png" title="UI Design Mock-up for Lingo" caption="" attr="">}}
 
 I've met some lifelong friends during this year. I'm sure we'll meet again on a number of future projects. Project code is available on [GitHub](https://github.com/dzoladz/know-the-lingo), although unmaintained.
 
 We made a final pitch of the application to our local library administrations, participating organizations and partners, as well as to the State Library of Ohio Board.
 
-{{< figure src="/dzoladz/project/lingo/board-presentation.jpg" title="Derek Zoladz and Kirstin Krumsee" caption="Describing Lingo and it's Role" attr="">}}
+{{< figure src="board-presentation.jpg" title="Derek Zoladz and Kirstin Krumsee" caption="Describing Lingo and it's Role" attr="">}}
