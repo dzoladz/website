@@ -1,4 +1,4 @@
-#### Fire up local server to view drafts at http://localhost:1313/dzoladz/
+#### Fire up local server to view drafts at http://localhost:1313/website/
 
 ```
 hugo server -D
@@ -12,5 +12,4 @@ hugo
 ```
 2. Commit the files
 
-Site will be available on [https://dzoladz.github.io/dzoladz/](https://dzoladz.github.io/dzoladz/)
-
+Site will be available on [https://dzoladz.github.io/website/](https://dzoladz.github.io/website/)
