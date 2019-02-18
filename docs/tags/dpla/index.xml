@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dpla on </title>
-    <link>https://www.derekzoladz.com/tags/dpla/</link>
+    <link>//dzoladz.github.io/website/tags/dpla/</link>
     <description>Recent content in dpla on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Derek C. Zoladz</copyright>
     <lastBuildDate>Fri, 02 Mar 2018 11:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.derekzoladz.com/tags/dpla/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//dzoladz.github.io/website/tags/dpla/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ohio Digital Network Launches</title>
-      <link>https://www.derekzoladz.com/post/dpla/</link>
+      <link>//dzoladz.github.io/website/post/dpla/</link>
       <pubDate>Fri, 02 Mar 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/post/dpla/</guid>
+      <guid>//dzoladz.github.io/website/post/dpla/</guid>
       <description>Participating in the early group for the technical infrastructure for this project - simply called &amp;lsquo;DPLA Ohio&amp;rsquo; at the time - shaped the trajectory of my career firmly towards technology. Check out the State Library of Ohio&amp;rsquo;s announcement.
 And the, visit the Ohio Digital Network!</description>
     </item>
