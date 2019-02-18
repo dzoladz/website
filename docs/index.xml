@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>//dzoladz.github.io/website/</link>
+    <link>https://www.derekzoladz.com/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Derek C. Zoladz</copyright>
     <lastBuildDate>Mon, 31 Dec 2018 00:00:00 -0500</lastBuildDate>
-    <atom:link href="/website/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Apps I&#39;m Taking into 2019</title>
-      <link>//dzoladz.github.io/website/post/2018apps/</link>
+      <link>https://www.derekzoladz.com/post/2018apps/</link>
       <pubDate>Mon, 31 Dec 2018 11:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/post/2018apps/</guid>
+      <guid>https://www.derekzoladz.com/post/2018apps/</guid>
       <description>&lt;p&gt;I should probably start off with a bit of a caveat.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/TTRyEOT.jpg&#34; alt=&#34;image of Steve Jobs calling all categories of computer program an app.&#34; /&gt;&lt;/p&gt;
@@ -47,10 +47,10 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
     
     <item>
       <title>Ohio Digital Network Launches</title>
-      <link>//dzoladz.github.io/website/post/dpla/</link>
+      <link>https://www.derekzoladz.com/post/dpla/</link>
       <pubDate>Fri, 02 Mar 2018 11:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/post/dpla/</guid>
+      <guid>https://www.derekzoladz.com/post/dpla/</guid>
       <description>&lt;p&gt;Participating in the early group for the technical infrastructure for this project - simply called &amp;lsquo;DPLA Ohio&amp;rsquo; at the time - shaped the trajectory of my career firmly towards technology. Check out the &lt;a href=&#34;https://library.ohio.gov/news/ohio-digital-network-collections-debuts-dpla/&#34; target=&#34;_blank&#34;&gt;State Library of Ohio&amp;rsquo;s announcement&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;And the, visit the &lt;a href=&#34;https://ohiodigitalnetwork.org/&#34; target=&#34;_blank&#34;&gt;Ohio Digital Network&lt;/a&gt;!&lt;/p&gt;
@@ -59,19 +59,19 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
     
     <item>
       <title>Beam Me Up, Scotty: Migrating into an Evergreen Consortium</title>
-      <link>//dzoladz.github.io/website/publication/rightclick2017/</link>
+      <link>https://www.derekzoladz.com/publication/rightclick2017/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/publication/rightclick2017/</guid>
+      <guid>https://www.derekzoladz.com/publication/rightclick2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Augmented Reality at Columbus State Library [Photo Essay]</title>
-      <link>//dzoladz.github.io/website/project/thurgood/</link>
+      <link>https://www.derekzoladz.com/project/thurgood/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/project/thurgood/</guid>
+      <guid>https://www.derekzoladz.com/project/thurgood/</guid>
       <description>&lt;p&gt;&lt;em&gt;Thurgood Marshall and the Supreme Court&lt;/em&gt; was an interactive exhibit at the Columbus State Library in 2015. Posters were brought to life using the augmented reality app &lt;a href=&#34;https://www.aurasma.com/&#34; target=&#34;_blank&#34;&gt;Aurasma&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -83,7 +83,7 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
 
 &lt;figure&gt;
 
-&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/thurgood/exhibit-poster.png&#34; /&gt;
+&lt;img src=&#34;https://www.derekzoladz.com/dzoladz/project/thurgood/exhibit-poster.png&#34; /&gt;
 
 
 
@@ -99,7 +99,7 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
 
 &lt;figure&gt;
 
-&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/thurgood/thurgood-1.jpg&#34; alt=&#34;Post-Award Photo of the Major Library Staff Contributors to the Project.&#34; /&gt;
+&lt;img src=&#34;https://www.derekzoladz.com/dzoladz/project/thurgood/thurgood-1.jpg&#34; alt=&#34;Post-Award Photo of the Major Library Staff Contributors to the Project.&#34; /&gt;
 
 
 
@@ -120,7 +120,7 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
 
 &lt;figure&gt;
 
-&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/thurgood/thurgood-2.jpg&#34; /&gt;
+&lt;img src=&#34;https://www.derekzoladz.com/dzoladz/project/thurgood/thurgood-2.jpg&#34; /&gt;
 
 
 
@@ -136,7 +136,7 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
 
 &lt;figure&gt;
 
-&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/thurgood/thurgood-3.jpg&#34; /&gt;
+&lt;img src=&#34;https://www.derekzoladz.com/dzoladz/project/thurgood/thurgood-3.jpg&#34; /&gt;
 
 
 
@@ -157,20 +157,73 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
     </item>
     
     <item>
+      <title>Business Resource Tutorials</title>
+      <link>https://www.derekzoladz.com/project/biz-tutorials/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.derekzoladz.com/project/biz-tutorials/</guid>
+      <description>
+
+&lt;h1 id=&#34;business-resource-tutorials-at-the-columbus-state-library&#34;&gt;Business Resource Tutorials at the Columbus State Library&lt;/h1&gt;
+
+&lt;h2 id=&#34;a-small-sample-of-early-tutorials-created-at-the-columbus-state-library&#34;&gt;A small sample of early tutorials created at the Columbus State Library&lt;/h2&gt;
+
+&lt;p&gt;Technologies&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;iMovie&lt;/li&gt;
+&lt;li&gt;QuickTime&lt;/li&gt;
+&lt;li&gt;Zoom H4n&lt;/li&gt;
+&lt;li&gt;2011 MacBook Pro&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr/&gt;
+
+&lt;p&gt;Example 1
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/dHLpq1E1V6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Example 2
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/TZC7M0EKt2Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Example 3
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/_2VVQIoJ0PU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Example 4
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/8KqwZutddR0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Know the Lingo: How ILEAD Ohio Influenced Library Collaboration and Discovery for Patrons</title>
-      <link>//dzoladz.github.io/website/publication/know-the-lingo/</link>
+      <link>https://www.derekzoladz.com/publication/know-the-lingo/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/publication/know-the-lingo/</guid>
+      <guid>https://www.derekzoladz.com/publication/know-the-lingo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lingo</title>
-      <link>//dzoladz.github.io/website/project/lingo/</link>
+      <link>https://www.derekzoladz.com/project/lingo/</link>
       <pubDate>Sun, 23 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/project/lingo/</guid>
+      <guid>https://www.derekzoladz.com/project/lingo/</guid>
       <description>&lt;p&gt;Ohio’s first ILEAD USA was a multi-state immersive continuing education program that develops library leaders through projects based on community needs via the application of participatory technology tools. Ohio participants joined others from Colorado, Illinois, Iowa, and Utah in this national initiative. ILEAD USA was funded by a Laura Bush 21st Century Librarian Program grant to the State Library of Illinois from the Institute of Museum and Library Services.&lt;/p&gt;
 
 &lt;p&gt;Myself, and a former CSCC colleague Julie Zaveloff, were selected as part of the initial group from Ohio. Our team was rounded out by other librarians from around the state:&lt;/p&gt;
@@ -186,7 +239,7 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
 
 &lt;figure&gt;
 
-&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/lingo/zoladz-zaveloff.jpg&#34; alt=&#34;Columbus State Librarians selected for ILEAD USA - OHIO 2013&#34; /&gt;
+&lt;img src=&#34;https://www.derekzoladz.com/dzoladz/project/lingo/zoladz-zaveloff.jpg&#34; alt=&#34;Columbus State Librarians selected for ILEAD USA - OHIO 2013&#34; /&gt;
 
 
 
@@ -212,7 +265,7 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
 
 &lt;figure&gt;
 
-&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/lingo/lingo-icon.png&#34; alt=&#34;Designed by Lost in Translation team member Kirstin Krumsee&#34; /&gt;
+&lt;img src=&#34;https://www.derekzoladz.com/dzoladz/project/lingo/lingo-icon.png&#34; alt=&#34;Designed by Lost in Translation team member Kirstin Krumsee&#34; /&gt;
 
 
 
@@ -233,7 +286,7 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
 
 &lt;figure&gt;
 
-&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/lingo/lingo-1.png&#34; /&gt;
+&lt;img src=&#34;https://www.derekzoladz.com/dzoladz/project/lingo/lingo-1.png&#34; /&gt;
 
 
 
@@ -253,7 +306,7 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
 
 &lt;figure&gt;
 
-&lt;img src=&#34;//dzoladz.github.io/website/dzoladz/project/lingo/board-presentation.jpg&#34; alt=&#34;Describing Lingo and it&amp;#39;s Role&#34; /&gt;
+&lt;img src=&#34;https://www.derekzoladz.com/dzoladz/project/lingo/board-presentation.jpg&#34; alt=&#34;Describing Lingo and it&amp;#39;s Role&#34; /&gt;
 
 
 
