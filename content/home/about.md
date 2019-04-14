@@ -1,39 +1,13 @@
 +++
-# About/Biography widget.
-widget = "about"
-active = true
-date = 2018-12-31T00:00:00
+# About widget.
+widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear in.
 
-# Order that this section will appear in.
-weight = 1
+title = "Biography"
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Libraries & Archives",
-    "DevOps Librarians",
-    "Process Automation",
-    "Systems Integration",
-    "Open Source Projects"
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "MLIS in Information Science"
-  institution = "Kent State University"
-  year = 2010
-
-[[education.courses]]
-  course = "BA in Cultural Studies"
-  institution = "The Ohio State University"
-  year = 2008
-
-[[education.courses]]
-  course = "AA in Humanities"
-  institution = "Columbus State Community College"
-  year = 2006
- 
+# Choose the user profile to display
+# This should be the username of a profile in your `content/author/` folder.
+author = "admin"
 +++
-
-# Biography
-Promoting open source software in libraries with the [Consortium of Ohio Libraries (COOL)](http://info.cool-cat.org/), a collaborative of independent libraries using [Evergreen ILS](https://evergreen-ils.org/) in Ohio. 

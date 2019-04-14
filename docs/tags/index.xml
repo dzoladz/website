@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://www.derekzoladz.com/tags/</link>
+    <link>//dzoladz.github.io/website/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Derek C. Zoladz</copyright>
+    <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
     
-	<atom:link href="https://www.derekzoladz.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//dzoladz.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>applications</title>
-      <link>https://www.derekzoladz.com/tags/applications/</link>
+      <link>//dzoladz.github.io/website/tags/applications/</link>
       <pubDate>Mon, 31 Dec 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/tags/applications/</guid>
+      <guid>//dzoladz.github.io/website/tags/applications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dpla</title>
-      <link>https://www.derekzoladz.com/tags/dpla/</link>
+      <link>//dzoladz.github.io/website/tags/dpla/</link>
       <pubDate>Fri, 02 Mar 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/tags/dpla/</guid>
+      <guid>//dzoladz.github.io/website/tags/dpla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>technology</title>
-      <link>https://www.derekzoladz.com/tags/technology/</link>
+      <link>//dzoladz.github.io/website/tags/technology/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/tags/technology/</guid>
+      <guid>//dzoladz.github.io/website/tags/technology/</guid>
       <description></description>
     </item>
     
