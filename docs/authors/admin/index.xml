@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on </title>
-    <link>https://www.derekzoladz.com/authors/admin/</link>
+    <link>//dzoladz.github.io/website/authors/admin/</link>
     <description>Recent content in admin on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
     
-	<atom:link href="https://www.derekzoladz.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//dzoladz.github.io/website/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://www.derekzoladz.com/author/admin/</link>
+      <link>//dzoladz.github.io/website/author/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/author/admin/</guid>
+      <guid>//dzoladz.github.io/website/author/admin/</guid>
       <description>Promoting open source software in libraries with the Consortium of Ohio Libraries (COOL), a collaborative of independent libraries using Evergreen ILS in Ohio.</description>
     </item>
     
