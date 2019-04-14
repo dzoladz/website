@@ -61,6 +61,11 @@ user_groups = ["Researchers", "Visitors"]
   link = "mailto:derek@derekzoladz.com"
 
 [[social]]
+  icon = "flipboard"
+  icon_pack = "fab"
+  link = "https://flipboard.com/@derekczoladz/digital-librarianship-vor3ke3gz"
+
+[[social]]
   icon = "orcid"
   icon_pack = "ai"
   link = "https://orcid.org/0000-0002-7979-8945"
