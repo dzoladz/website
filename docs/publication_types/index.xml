@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on </title>
-    <link>//dzoladz.github.io/website/publication_types/</link>
+    <link>https://www.derekzoladz.com/publication_types/</link>
     <description>Recent content in Publication_types on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
     <lastBuildDate>Wed, 15 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="//dzoladz.github.io/website/publication_types/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.derekzoladz.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1</title>
-      <link>//dzoladz.github.io/website/publication_types/1/</link>
+      <link>https://www.derekzoladz.com/publication_types/1/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/publication_types/1/</guid>
+      <guid>https://www.derekzoladz.com/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2</title>
-      <link>//dzoladz.github.io/website/publication_types/2/</link>
+      <link>https://www.derekzoladz.com/publication_types/2/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/publication_types/2/</guid>
+      <guid>https://www.derekzoladz.com/publication_types/2/</guid>
       <description></description>
     </item>
     
