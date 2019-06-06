@@ -7,8 +7,35 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
-    <lastBuildDate>Mon, 31 Dec 2018 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 11:00:00 +0000</lastBuildDate>
     <atom:link href="/website/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Farewell, Nano</title>
+      <link>//dzoladz.github.io/website/post/farewell_nano/</link>
+      <pubDate>Thu, 06 Jun 2019 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/post/farewell_nano/</guid>
+      <description>&lt;p&gt;Forever, I&amp;rsquo;ve used &lt;code&gt;nano&lt;/code&gt; as my command-line text editor. I&amp;rsquo;ve never had an issue with it. In fact, it&amp;rsquo;s been so reliable that I&amp;rsquo;ve keep it around much longer than I should have. It still works well for most of my needs, but it&amp;rsquo;s time to expand my suite of skills and learn something new.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s why I&amp;rsquo;m switching to &lt;code&gt;vim&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Out-of-the-box, &lt;code&gt;vim&lt;/code&gt; is a &lt;em&gt;tabula rasa&lt;/em&gt;, a blank slate, and it feels oddly empty. To fill this vacuum, my first step in making the transition was to explore plugin managers. Of course, this is following an introductory period to learn the basics. If I was going to successfully make the switch, I was going to need to first personalize my instance &lt;code&gt;vim&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;I selected Tim Pope&amp;rsquo;s &lt;a href=&#34;https://github.com/tpope/vim-pathogen&#34; target=&#34;_blank&#34;&gt;pathogen.vim&lt;/a&gt; as my plugin manager. &lt;code&gt;pathogen.vim&lt;/code&gt; allows for each plugin to be placed into its own version-controlled directory and loaded at runtime. Installing a plugin is straightforward: &lt;code&gt;git clone&lt;/code&gt; into &lt;code&gt;~/.vim/bundle/&lt;/code&gt;. Simple, maintainable, elegant.&lt;/p&gt;
+
+&lt;p&gt;Here are a few of the plugins that comprise my base:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nanotech/jellybeans.vim&#34; target=&#34;_blank&#34;&gt;jellybeans.vim&lt;/a&gt;: Because everyone needs a cheerful, dark-mode enabled, color scheme.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/scrooloose/nerdtree&#34; target=&#34;_blank&#34;&gt;nerdtree.vim&lt;/a&gt;: If you&amp;rsquo;re going to be using &lt;code&gt;vim&lt;/code&gt; for any amount of time, you&amp;rsquo;ll want to have a file explorer.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tpope/vim-fugitive&#34; target=&#34;_blank&#34;&gt;fugitive.vim&lt;/a&gt;: A way more advanced git wrapper than I currently need, but a rich avenue for exploration and growth. I&amp;rsquo;m basically using this plugin to display git information in the &lt;code&gt;&#39;statusline&#39;&lt;/code&gt; via&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/itchyny/lightline.vim&#34; target=&#34;_blank&#34;&gt;lightline.vim&lt;/a&gt;: In a nutshell, an easy to use and highly configurable &lt;code&gt;&#39;statusline&#39;&lt;/code&gt; plugin.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Feel free to take &lt;a href=&#34;https://github.com/dzoladz/.vim&#34; target=&#34;_blank&#34;&gt;my initial configuration&lt;/a&gt; for a spin!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Apps I&#39;m Taking into 2019</title>
