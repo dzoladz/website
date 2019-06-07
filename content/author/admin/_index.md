@@ -66,9 +66,9 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://flipboard.com/@derekczoladz/digital-librarianship-vor3ke3gz"
 
 [[social]]
-  icon = "orcid"
+  icon = "publons"
   icon_pack = "ai"
-  link = "https://orcid.org/0000-0002-7979-8945"
+  link = "https://publons.com/researcher/2443364/derek-c-zoladz/"
 
 [[social]]
   icon = "github"
