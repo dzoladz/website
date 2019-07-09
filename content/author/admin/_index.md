@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Technology Specialist"
+role = "Library Systems Analyst"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -89,4 +89,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Promoting open source software in libraries with the [Consortium of Ohio Libraries (COOL)](http://info.cool-cat.org/), a collaborative of independent libraries using [Evergreen ILS](https://evergreen-ils.org/) in Ohio.
+Promoting the use of open source technologies in day-to-day library operations. ILS system management, data (and metadata) wrangling, server administration, process automation, and a host of other technical odds-and-ends for the [Consortium of Ohio Libraries (COOL)](http://info.cool-cat.org/), [Ohio Private Academic Libraries (OPAL)](https://opal-libraries.org/), and the [Private Academic Library Network of Indiana (PALNI)](https://www.palni.org/).
