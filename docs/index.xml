@@ -7,8 +7,60 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
-    <lastBuildDate>Thu, 06 Jun 2019 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2019 11:00:00 +0000</lastBuildDate>
     <atom:link href="/website/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why ls is exa</title>
+      <link>//dzoladz.github.io/website/post/exa/</link>
+      <pubDate>Fri, 09 Aug 2019 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/post/exa/</guid>
+      <description>&lt;p&gt;One of the most common commands that I execute in the terminal is simply to list the contents of a directory. Since I do this so often, being able to quickly and easily digest vast amounts of information about the content of the directory is essential. That&amp;rsquo;s where &lt;a href=&#34;https://the.exa.website/&#34; target=&#34;_blank&#34;&gt;exa&lt;/a&gt; shines.&lt;/p&gt;
+
+&lt;p&gt;Out-of-the-box, the default color scheme of &lt;code&gt;exa&lt;/code&gt; is finely tuned. I found the intricate use of subtle color distinctions distracting, rather than informative. As such, I would need to modify the color definitions to suit my personal goals of: (1) being able to easily differentiate between directory content that my current user owns or is a member of the assigned group, (2) rapidly distinguish between files and directories, and (3) generally list common metadata elements that experiencing has shown to be frequently useful in troubleshooting an issue.&lt;/p&gt;
+
+&lt;p&gt;For the moment, here&amp;rsquo;s what I&amp;rsquo;m using:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# ------------------------------
+# exa - Color Scheme Definitions
+# ------------------------------
+
+export EXA_COLORS=&amp;quot;\
+da=38;5;245:\
+di=38;5;14:\
+sn=38;5;28:\
+sb=38;5;28:\
+uu=38;5;40:\
+un=38;5;160:\
+gu=38;5;40:\
+gn=38:5:160:\
+bl=38;5;220:\
+ur=37:\
+uw=37:\
+ux=37:\
+ue=37:\
+gr=37:\
+gw=37:\
+gx=37:\
+tr=37:\
+tw=37:\
+tx=37:\
+su=37:\
+sf=37:\
+xa=37&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;code&gt;exa&lt;/code&gt; has a wide range of configurable settings and features. After barely scratching the surface of exa&amp;rsquo;s functionality, I&amp;rsquo;ve configured a tool that lists directory contents in a clear, and highly meaningful way, that fits my workflow. &lt;a href=&#34;https://the.exa.website/features&#34; target=&#34;_blank&#34;&gt;exa&amp;rsquo;s documentation&lt;/a&gt; provides adequate description to customize output to fix various use cases. For example, I&amp;rsquo;m not using any of the git integration, extended attributes, or unix-like tree expansion of the file system.&lt;/p&gt;
+
+&lt;p&gt;So, what am I using? Well&amp;hellip; it&amp;rsquo;s spelled out in the &lt;code&gt;ls&lt;/code&gt; alias in my &lt;code&gt;.zshrc&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;alias ls=&amp;quot;exa --long --header --links  --inode --blocks --accessed --modified --created --group --all --sort=.name  --group-directories-first&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That&amp;rsquo;s it!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Farewell, Nano</title>
