@@ -23,7 +23,13 @@ On a day-to-day basis, I work with the [Consortium of Ohio Libraries](http://inf
 Evergreen's architecture is designed for multi-tenancy and to scale to very large consortia. For a personal library, it's overkill.
 Developing a personal library is an opportunity to explore the administration of another open-source ILS.
 
-*  well-known [Koha](https://koha-community.org/)
-* experiments with data and cataloging experience
+For my personal library, I chose another well-known open source ILS used by numerous public libraries in the United States: [Koha](https://koha-community.org/).
+
+Goals for the projected included:
+* copy and original MARC cataloging experience
+* experiments with data migration (more on this later)
+* diversify system administration 
+* infrastructue and networking
+
 * Personal collection of library-related books... and metadata
 <video controls src="/website/post/my_library/koha_server.mp4"></video>
