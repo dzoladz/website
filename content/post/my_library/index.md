@@ -31,5 +31,7 @@ Goals for the projected included:
 * diversify system administration 
 * infrastructue and networking
 
-* Personal collection of library-related books... and metadata
+* Personal collection of library-related books
+
+* I'll need to will my collection and it's metadata
 <video controls src="/website/post/my_library/koha_server.mp4"></video>
