@@ -2,9 +2,9 @@
 date = "2019-10-03T11:00:00"
 draft = false
 tags = ["applications"]
-title = "Personal Library"
+title = "Overview of My Personal Library"
 math = false
-summary = "A brief overview of my personal library."
+summary = "Building a personal library from scratch: Hardware, Networking, and ILS."
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
@@ -19,19 +19,18 @@ summary = "A brief overview of my personal library."
 
 +++
 
-On a day-to-day basis, I work with the [Consortium of Ohio Libraries](http://info.cool-cat.org/) on their open-source ILS [Evergreen](https://evergreen-ils.org/).
-Evergreen's architecture is designed for multi-tenancy and to scale to very large consortia. For a personal library, it's overkill.
-Developing a personal library is an opportunity to explore the administration of another open-source ILS.
+On a day-to-day basis, I work with the [Consortium of Ohio Libraries](http://info.cool-cat.org/) on their open-source ILS [Evergreen](https://evergreen-ils.org/). Whether it's configuring new circulation policies, adjusting global system settings, or writing SQL to batch update item attributes, I've explored a significant chunk of Evergreen over the last 3 years. But it's an understatment to say that Evergreen is a massive application. There's still plenty of uncharted functionality.
+   
+Evergreen's architecture is designed for multi-tenancy out-of-the-box and built to scale to very large consortia. In the United States, it's the platform for a number of large public library consortia. For a personal library, it's overkill. Developing a personal library is also an opportunity to explore the setup and administer another ILS.
 
-For my personal library, I chose another well-known open source ILS used by numerous public libraries in the United States: [Koha](https://koha-community.org/).
+For these reasons, I chose another well-known open source ILS used most often by stand-alone public libraries as the foundation for my personal library: [Koha](https://koha-community.org/).
 
-Goals for the projected included:
-* copy and original MARC cataloging experience
-* experiments with data migration (more on this later)
-* diversify system administration 
-* infrastructue and networking
+Goals for the personal library projected included:
 
-* Personal collection of library-related books
+* Low stakes copy and original MARC cataloging experience
+* Developing data migration skills (e.g. Koha to [FOLIO](https://www.folio.org/))
+* Diversifying my ILS administration 
+* Design and build ILS infrastructure and networking from scratch
 
-* I'll need to will my collection and it's metadata
+I'll be cataloging my personal collection of library-related books on my local network using the following hardware.
 <video controls src="/website/post/my_library/koha_server.mp4"></video>
