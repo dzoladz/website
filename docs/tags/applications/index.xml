@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
-    <lastBuildDate>Fri, 09 Aug 2019 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2019 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="//dzoladz.github.io/website/tags/applications/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Overview of My Personal Library</title>
+      <link>//dzoladz.github.io/website/post/my_library/</link>
+      <pubDate>Thu, 03 Oct 2019 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/post/my_library/</guid>
+      <description>On a day-to-day basis, I work with the Consortium of Ohio Libraries on their open-source ILS Evergreen. Whether it&amp;rsquo;s configuring new circulation policies, adjusting global system settings, or writing SQL to batch update item attributes, I&amp;rsquo;ve explored a significant chunk of Evergreen over the last 3 years. But it&amp;rsquo;s an understatment to say that Evergreen is a massive application. There&amp;rsquo;s still plenty of uncharted functionality.
+Evergreen&amp;rsquo;s architecture is designed for multi-tenancy out-of-the-box and built to scale to very large consortia.</description>
+    </item>
     
     <item>
       <title>Why ls is exa</title>
