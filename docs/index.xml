@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Derek Zoladz on Derek Zoladz</title>
+    <link>//dzoladz.github.io/website/</link>
+    <description>Recent content in Derek Zoladz on Derek Zoladz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
+    <lastBuildDate>Sat, 30 Nov 2019 11:00:00 +0000</lastBuildDate>
+    <atom:link href="/website/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Curses, It&#39;s Glances</title>
+      <link>//dzoladz.github.io/website/post/glances/</link>
+      <pubDate>Sat, 30 Nov 2019 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/post/glances/</guid>
+      <description>
+
+&lt;p&gt;There&amp;rsquo;s definitely an argument to be made for using lightweight apps that minimize installed dependencies in an effort to: (1) minimize the surface area for vulnerabilities and attack vectors, and (2) reduce application complexity for  troubleshooting purposes when something inevitably goes wrong. However, there needs to be a balance between security gains and pleasure in using an application, what&amp;rsquo;s the point in installing it in the first place if you aren&amp;rsquo;t going to use it?&lt;/p&gt;
+
+&lt;p&gt;An application that sits in the sweet spot is &lt;a href=&#34;https://nicolargo.github.io/glances/&#34; target=&#34;_blank&#34;&gt;Glances&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Glances uses a plugin archiecture. The documentation contains a &lt;a href=&#34;https://glances.readthedocs.io/en/stable/aoa/index.html&#34; target=&#34;_blank&#34;&gt;current list of available plugins&lt;/a&gt;. One of the plugins that deserves highlighting is the AMP (Application Monitoring Process) plugin. AMPs are simple regex statements written into the Glances main &lt;code&gt;glances.conf&lt;/code&gt; configuration file that allow the user to monitor any running processes. Glances configuration file is written in the human readable INI format.&lt;/p&gt;
+
+&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;
+
+&lt;p&gt;On macOS Catalina, I&amp;rsquo;m using Homebrew as my package manager.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;brew install glances
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That&amp;rsquo;s it. Simple. But if you&amp;rsquo;re like me, you&amp;rsquo;ll want to adjust the default configuration. The glances directory does not exist by default, so you’ll also need to create it by doing:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir /usr/local/etc/glances
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and then,&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cat /usr/local/Cellar/glances/3.1.3/share/doc/glances/glances.conf &amp;gt; /usr/local/etc/glances/glances.conf
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;keybindings-interactive-commands&#34;&gt;Keybindings (Interactive Commands)&lt;/h2&gt;
+
+&lt;p&gt;A sampling of the in-app toggles that I&amp;rsquo;ve found useful.&lt;/p&gt;
+
+&lt;p&gt;&lt;kbd&gt;Shift&lt;/kbd&gt;+&lt;kbd&gt;D&lt;/kbd&gt; &lt;strong&gt;show/hide Docker module&lt;/strong&gt;&lt;br /&gt;
+&lt;kbd&gt;Shift&lt;/kbd&gt;+&lt;kbd&gt;A&lt;/kbd&gt; &lt;strong&gt;show/hide AMPs module&lt;/strong&gt;&lt;br /&gt;
+&lt;kbd&gt;&amp;#8592;&lt;/kbd&gt;&lt;kbd&gt;&amp;#8594;&lt;/kbd&gt; &lt;strong&gt;move through Tasks menus&lt;/strong&gt;&lt;br /&gt;
+&lt;kbd&gt;h&lt;/kbd&gt; &lt;strong&gt;show Help&lt;/strong&gt;&lt;br /&gt;
+&lt;kbd&gt;n&lt;/kbd&gt; &lt;strong&gt;show/hide Networks module&lt;/strong&gt;&lt;br /&gt;
+&lt;kbd&gt;1&lt;/kbd&gt; &lt;strong&gt;toggle global CPU and per-CPU stats&lt;/strong&gt;&lt;br /&gt;
+&lt;kbd&gt;2&lt;/kbd&gt; &lt;strong&gt;show/hide left sidebar&lt;/strong&gt;&lt;br /&gt;
+&lt;kbd&gt;5&lt;/kbd&gt; &lt;strong&gt;show/hide top menu&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;follow-up&#34;&gt;Follow up&lt;/h2&gt;
+
+&lt;p&gt;Of course, &lt;a href=&#34;https://glances.readthedocs.io/en/stable/index.html&#34; target=&#34;_blank&#34;&gt;ReadTheDocs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Glances provides several export options for statistical data. One option is Elasticsearch. Indexing the usage data from macOS to be visualized in Kibana running on localhost is a likely next step.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview of My Personal Library</title>
+      <link>//dzoladz.github.io/website/post/my_library/</link>
+      <pubDate>Thu, 03 Oct 2019 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/post/my_library/</guid>
+      <description>&lt;p&gt;On a day-to-day basis, I work with the &lt;a href=&#34;http://info.cool-cat.org/&#34; target=&#34;_blank&#34;&gt;Consortium of Ohio Libraries&lt;/a&gt; on their open-source ILS &lt;a href=&#34;https://evergreen-ils.org/&#34; target=&#34;_blank&#34;&gt;Evergreen&lt;/a&gt;. Whether it&amp;rsquo;s configuring new circulation policies, adjusting global system settings, or writing SQL to batch update item attributes, I&amp;rsquo;ve explored a significant chunk of Evergreen over the last 3 years. But it&amp;rsquo;s an understatment to say that Evergreen is a massive application. There&amp;rsquo;s still plenty of uncharted functionality.&lt;/p&gt;
+
+&lt;p&gt;Evergreen&amp;rsquo;s architecture is designed for multi-tenancy out-of-the-box and built to scale to very large consortia. In the United States, it&amp;rsquo;s the platform for a number of large public library consortia. For a personal library, it&amp;rsquo;s overkill. Developing a personal library is also an opportunity to explore the setup and administer another ILS.&lt;/p&gt;
+
+&lt;p&gt;For these reasons, I chose another well-known open source ILS used most often by stand-alone public libraries as the foundation for my personal library: &lt;a href=&#34;https://koha-community.org/&#34; target=&#34;_blank&#34;&gt;Koha&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Goals for the personal library projected included:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Low stakes copy and original MARC cataloging experience&lt;/li&gt;
+&lt;li&gt;Developing data migration skills (e.g. Koha to &lt;a href=&#34;https://www.folio.org/&#34; target=&#34;_blank&#34;&gt;FOLIO&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Diversifying my ILS administration&lt;/li&gt;
+&lt;li&gt;Design and build ILS infrastructure and networking from scratch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;ll be cataloging my personal collection of library-related books on my local network using the following hardware.
+&lt;video controls src=&#34;//dzoladz.github.io/website/website/post/my_library/koha_server.mp4&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why ls is exa</title>
+      <link>//dzoladz.github.io/website/post/exa/</link>
+      <pubDate>Fri, 09 Aug 2019 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/post/exa/</guid>
+      <description>&lt;p&gt;One of the most common commands that I execute in the terminal is simply to list the contents of a directory. Since I do this so often, being able to quickly and easily digest vast amounts of information about the content of the directory is essential. That&amp;rsquo;s where &lt;a href=&#34;https://the.exa.website/&#34; target=&#34;_blank&#34;&gt;exa&lt;/a&gt; shines.&lt;/p&gt;
+
+&lt;p&gt;Out-of-the-box, the default color scheme of &lt;code&gt;exa&lt;/code&gt; is finely tuned. I found the intricate use of subtle color distinctions distracting, rather than informative. As such, I would need to modify the color definitions to suit my personal goals of: (1) being able to easily differentiate between directory content that my current user owns or is a member of the assigned group, (2) rapidly distinguish between files and directories, and (3) generally list common metadata elements that experiencing has shown to be frequently useful in troubleshooting an issue.&lt;/p&gt;
+
+&lt;p&gt;For the moment, here&amp;rsquo;s what I&amp;rsquo;m using:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# ------------------------------
+# exa - Color Scheme Definitions
+# ------------------------------
+
+export EXA_COLORS=&amp;quot;\
+da=38;5;245:\
+di=38;5;14:\
+sn=38;5;28:\
+sb=38;5;28:\
+uu=38;5;40:\
+un=38;5;160:\
+gu=38;5;40:\
+gn=38:5:160:\
+bl=38;5;220:\
+ur=37:\
+uw=37:\
+ux=37:\
+ue=37:\
+gr=37:\
+gw=37:\
+gx=37:\
+tr=37:\
+tw=37:\
+tx=37:\
+su=37:\
+sf=37:\
+xa=37&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;code&gt;exa&lt;/code&gt; has a wide range of configurable settings and features. After barely scratching the surface of exa&amp;rsquo;s functionality, I&amp;rsquo;ve configured a tool that lists directory contents in a clear, and highly meaningful way, that fits my workflow. &lt;a href=&#34;https://the.exa.website/features&#34; target=&#34;_blank&#34;&gt;exa&amp;rsquo;s documentation&lt;/a&gt; provides adequate description to customize output to fix various use cases. For example, I&amp;rsquo;m not using any of the git integration, extended attributes, or unix-like tree expansion of the file system.&lt;/p&gt;
+
+&lt;p&gt;So, what am I using? Well&amp;hellip; it&amp;rsquo;s spelled out in the &lt;code&gt;ls&lt;/code&gt; alias in my &lt;code&gt;.zshrc&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;alias ls=&amp;quot;exa --long --header --links  --inode --blocks --accessed --modified --created --group --all --sort=.name  --group-directories-first&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That&amp;rsquo;s it!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Farewell, Nano</title>
+      <link>//dzoladz.github.io/website/post/farewell_nano/</link>
+      <pubDate>Thu, 06 Jun 2019 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/post/farewell_nano/</guid>
+      <description>&lt;p&gt;Forever, I&amp;rsquo;ve used &lt;code&gt;nano&lt;/code&gt; as my command-line text editor. I&amp;rsquo;ve never had an issue with it. In fact, it&amp;rsquo;s been so reliable that I&amp;rsquo;ve keep it around much longer than I should have. It still works well for most of my needs, but it&amp;rsquo;s time to expand my suite of skills and learn something new.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s why I&amp;rsquo;m switching to &lt;code&gt;vim&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Out-of-the-box, &lt;code&gt;vim&lt;/code&gt; is a &lt;em&gt;tabula rasa&lt;/em&gt;, a blank slate, and it feels oddly empty. To fill this vacuum, my first step in making the transition was to explore plugin managers. Of course, this is following an introductory period to learn the basics. If I was going to successfully make the switch, I was going to need to first personalize my instance &lt;code&gt;vim&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;I selected Tim Pope&amp;rsquo;s &lt;a href=&#34;https://github.com/tpope/vim-pathogen&#34; target=&#34;_blank&#34;&gt;pathogen.vim&lt;/a&gt; as my plugin manager. &lt;code&gt;pathogen.vim&lt;/code&gt; allows for each plugin to be placed into its own version-controlled directory and loaded at runtime. Installing a plugin is straightforward: &lt;code&gt;git clone&lt;/code&gt; into &lt;code&gt;~/.vim/bundle/&lt;/code&gt;. Simple, maintainable, elegant.&lt;/p&gt;
+
+&lt;p&gt;Here are a few of the plugins that comprise my base:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nanotech/jellybeans.vim&#34; target=&#34;_blank&#34;&gt;jellybeans.vim&lt;/a&gt;: Because everyone needs a cheerful, dark-mode enabled, color scheme.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/scrooloose/nerdtree&#34; target=&#34;_blank&#34;&gt;nerdtree.vim&lt;/a&gt;: If you&amp;rsquo;re going to be using &lt;code&gt;vim&lt;/code&gt; for any amount of time, you&amp;rsquo;ll want to have a file explorer.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tpope/vim-fugitive&#34; target=&#34;_blank&#34;&gt;fugitive.vim&lt;/a&gt;: A way more advanced git wrapper than I currently need, but a rich avenue for exploration and growth. I&amp;rsquo;m basically using this plugin to display git information in the &lt;code&gt;&#39;statusline&#39;&lt;/code&gt; via&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/itchyny/lightline.vim&#34; target=&#34;_blank&#34;&gt;lightline.vim&lt;/a&gt;: In a nutshell, an easy to use and highly configurable &lt;code&gt;&#39;statusline&#39;&lt;/code&gt; plugin.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Feel free to take &lt;a href=&#34;https://github.com/dzoladz/.vim&#34; target=&#34;_blank&#34;&gt;my initial configuration&lt;/a&gt; for a spin!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apps I&#39;m Taking into 2019</title>
+      <link>//dzoladz.github.io/website/post/2018apps/</link>
+      <pubDate>Mon, 31 Dec 2018 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/post/2018apps/</guid>
+      <description>&lt;p&gt;I should probably start off with a bit of a caveat.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/TTRyEOT.jpg&#34; alt=&#34;image of Steve Jobs calling all categories of computer program an app.&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Okay. Now that we have that out of the way, here are a few of the apps that I&amp;rsquo;ve discovered over the last 365 days that I&amp;rsquo;ll be taking with me into 2019.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.jetbrains.com/pycharm/&#34; target=&#34;_blank&#34;&gt;PyCharm&lt;/a&gt;&lt;br /&gt;
+PyCharm is a Python IDE with an extensive collection of plugins. I&amp;rsquo;m using the community edition to develop Python scripts in support the Consortium of Ohio Libraries, mainly to interact with the Evergreen ILS. PyCharm includes a useful testing suite and refactoring tools, while also providing straightforward integration with GitHub and seamless implementation of pipenv virtual environments. Simple on-boarding for new python developers, but feature rich and extensible as your needs grow.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.iterm2.com/&#34; target=&#34;_blank&#34;&gt;iTerm2&lt;/a&gt;&lt;br /&gt;
+Essentially, a terminal replacement for the native terminal application that shipped with my MacBook Pro. I find the ability to split terminal panes both vertically and horizontally an advantage for different tasks. I&amp;rsquo;ve also made use of the integrated search feature quite a bit. With colorized output, it&amp;rsquo;s beautiful to use. There are also a slew of other powerful features that I rarely make use of (in 2018, at least).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.sequelpro.com/&#34; target=&#34;_blank&#34;&gt;Sequel Pro&lt;/a&gt;&lt;br /&gt;
+A MacOS native application for interacting with MySQL and MariaDB and a replacement phpMyAdmin. Enough said.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/sqlitebrowser/sqlitebrowser&#34; target=&#34;_blank&#34;&gt;DB browser for SQLite&lt;/a&gt;&lt;br /&gt;
+Open source application to create and edit SQLite database files. My main use case is to import Excel worksheets and be able to execute SQL commands on the data. Maybe more importantly is the ability to import multiple Excel worksheets, join them together, and query across them. This tool said me quite a bit of time when working with the Academic Library Association of Ohio (ALAO) this past year.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://brave.com/&#34; target=&#34;_blank&#34;&gt;Brave&lt;/a&gt;&lt;br /&gt;
+A web browser built on Chromium and the Blink rendering engine, a fork of WebKit. It&amp;rsquo;s my drop-in replacement for Google Chrome at the moment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/robbyrussell/oh-my-zsh&#34; target=&#34;_blank&#34;&gt;Oh My Zsh&lt;/a&gt;&lt;br /&gt;
+I&amp;rsquo;ve abandoned Bash and began using the Z shell on my MacBook Pro. I&amp;rsquo;m a very big fan of the available themes, which have assisted with git workflow and generally made working in the terminal a much more pleasant and enjoyable experience. Highly recommended.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/berick/pysip2&#34; target=&#34;_blank&#34;&gt;PySip2&lt;/a&gt;&lt;br /&gt;
+A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve used this tool for testing SIP connectivity during the statewide implementation of Lynda.com, while establishing authentication for the Ohio Digital Library, for new subscriptions to Hoopla, and also while implementing a PC management system at one on the COOL libraries. Outstanding little application.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ohio Digital Network Launches</title>
+      <link>//dzoladz.github.io/website/post/dpla/</link>
+      <pubDate>Fri, 02 Mar 2018 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/post/dpla/</guid>
+      <description>&lt;p&gt;Participating in the early group for the technical infrastructure for this project - simply called &amp;lsquo;DPLA Ohio&amp;rsquo; at the time - shaped the trajectory of my career firmly towards technology. Check out the &lt;a href=&#34;https://library.ohio.gov/news/ohio-digital-network-collections-debuts-dpla/&#34; target=&#34;_blank&#34;&gt;State Library of Ohio&amp;rsquo;s announcement&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And the, visit the &lt;a href=&#34;https://ohiodigitalnetwork.org/&#34; target=&#34;_blank&#34;&gt;Ohio Digital Network&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beam Me Up, Scotty: Migrating into an Evergreen Consortium</title>
+      <link>//dzoladz.github.io/website/publication/rightclick2017/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/publication/rightclick2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality at Columbus State Library [Photo Essay]</title>
+      <link>//dzoladz.github.io/website/project/thurgood/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/project/thurgood/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Thurgood Marshall and the Supreme Court&lt;/em&gt; was an interactive exhibit at the Columbus State Library in 2015. Posters were brought to life using the augmented reality app &lt;a href=&#34;https://www.aurasma.com/&#34; target=&#34;_blank&#34;&gt;Aurasma&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Using emerging technology, team members created the exhibit and online guide that was enjoyed and appreciated by the community, ranging from 5th graders to local business leaders. With the help of many collaborators, the team went beyond the exhibit to create a wide range of programs including a film series, an art exhibit, a lecture series, and a companion display and programming in the Bookstore. This innovative and extraordinary program of exhibits and events provided the campus and community with the opportunity to learn more deeply about events and individuals that have had an impact on the way we live today.&amp;rdquo; - &lt;strong&gt;CSCC Quality Team Award, Gold 2016&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;exhibit-poster.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Announcement board for the exhibit&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;thurgood-1.jpg&#34; alt=&#34;Post-Award Photo of the Major Library Staff Contributors to the Project.&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;(from left to right) Frank Neutzling, Daryl Brown, Derek Zoladz&lt;/h4&gt;
+  &lt;p&gt;
+    Post-Award Photo of the Major Library Staff Contributors to the Project.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;thurgood-2.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;View of Exhibit from Main Entrance&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;thurgood-3.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Display at Columbus State Bookstore&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an example of a triggered augmented reality layer for one of the case posters. There is no audio on this clip.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/hJRJTxkP7tY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Business Resource Tutorials</title>
+      <link>//dzoladz.github.io/website/project/biz-tutorials/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/project/biz-tutorials/</guid>
+      <description>
+
+&lt;h1 id=&#34;business-resource-tutorials-at-the-columbus-state-library&#34;&gt;Business Resource Tutorials at the Columbus State Library&lt;/h1&gt;
+
+&lt;h2 id=&#34;a-small-sample-of-early-tutorials-created-at-the-columbus-state-library&#34;&gt;A small sample of early tutorials created at the Columbus State Library&lt;/h2&gt;
+
+&lt;p&gt;Technologies&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;iMovie&lt;/li&gt;
+&lt;li&gt;QuickTime&lt;/li&gt;
+&lt;li&gt;Zoom H4n&lt;/li&gt;
+&lt;li&gt;2011 MacBook Pro&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr/&gt;
+
+&lt;p&gt;Example 1
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/dHLpq1E1V6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Example 2
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/TZC7M0EKt2Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Example 3
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/_2VVQIoJ0PU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Example 4
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/8KqwZutddR0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Know the Lingo: How ILEAD Ohio Influenced Library Collaboration and Discovery for Patrons</title>
+      <link>//dzoladz.github.io/website/publication/know-the-lingo/</link>
+      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/publication/know-the-lingo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lingo</title>
+      <link>//dzoladz.github.io/website/project/lingo/</link>
+      <pubDate>Sun, 23 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/project/lingo/</guid>
+      <description>&lt;p&gt;Ohio’s first ILEAD USA was a multi-state immersive continuing education program that develops library leaders through projects based on community needs via the application of participatory technology tools. Ohio participants joined others from Colorado, Illinois, Iowa, and Utah in this national initiative. ILEAD USA was funded by a Laura Bush 21st Century Librarian Program grant to the State Library of Illinois from the Institute of Museum and Library Services.&lt;/p&gt;
+
+&lt;p&gt;Myself, and a former CSCC colleague Julie Zaveloff, were selected as part of the initial group from Ohio. Our team was rounded out by other librarians from around the state:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kirstin Krumsee, State Library of Ohio&lt;/li&gt;
+&lt;li&gt;Jessica Crossfield McIntosh, Otterbein University&lt;/li&gt;
+&lt;li&gt;David Green, OhioNET&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;zoladz-zaveloff.jpg&#34; alt=&#34;Columbus State Librarians selected for ILEAD USA - OHIO 2013&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Derek Zoladz and Julie Zaveloff&lt;/h4&gt;
+  &lt;p&gt;
+    Columbus State Librarians selected for ILEAD USA - OHIO 2013
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;As part of the first in-person session in March, teams had only a few hours each evening to create short videos explaining their projects.
+[insert initial Lost In Translation video here]&lt;/p&gt;
+
+&lt;p&gt;Our team was called &amp;lsquo;Lost In Translation&amp;rsquo;, as our original idea for the project was to create a dictionary that would demystify library jargon&amp;hellip; but we ended up designing a classification translation tool.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;lingo-icon.png&#34; alt=&#34;Designed by Lost in Translation team member Kirstin Krumsee&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Application Logo&lt;/h4&gt;
+  &lt;p&gt;
+    Designed by Lost in Translation team member Kirstin Krumsee
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;lingo-1.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;UI Design Mock-up for Lingo&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;I&amp;rsquo;ve met some lifelong friends during this year. I&amp;rsquo;m sure we&amp;rsquo;ll meet again on a number of future projects. Project code is available on &lt;a href=&#34;https://github.com/dzoladz/know-the-lingo&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;, although unmaintained.&lt;/p&gt;
+
+&lt;p&gt;We made a final pitch of the application to our local library administrations, participating organizations and partners, as well as to the State Library of Ohio Board.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;board-presentation.jpg&#34; alt=&#34;Describing Lingo and it&amp;#39;s Role&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Derek Zoladz and Kirstin Krumsee&lt;/h4&gt;
+  &lt;p&gt;
+    Describing Lingo and it&amp;rsquo;s Role
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

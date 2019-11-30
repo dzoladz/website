@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Derek Zoladz</title>
+    <link>//dzoladz.github.io/website/tags/</link>
+    <description>Recent content in Tags on Derek Zoladz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
+    
+	<atom:link href="//dzoladz.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>applications</title>
+      <link>//dzoladz.github.io/website/tags/applications/</link>
+      <pubDate>Sat, 30 Nov 2019 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/tags/applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dpla</title>
+      <link>//dzoladz.github.io/website/tags/dpla/</link>
+      <pubDate>Fri, 02 Mar 2018 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/tags/dpla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>//dzoladz.github.io/website/tags/technology/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
