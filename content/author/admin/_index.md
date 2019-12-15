@@ -16,7 +16,7 @@ role = "Library Systems Analyst"
 organizations = [ { name = "OhioNET", url = "https://www.ohionet.org/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = ""
+bio = "Focusing on cultural heritage institutions: discovery applications, data (and metadata) wrangling, web development, process automation, and system integration."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -60,27 +60,36 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fas"
   link = "mailto:derek@derekzoladz.com"
 
+# Copy your resume/CV to `static/files/cv.pdf`
 [[social]]
-  icon = "flipboard"
-  icon_pack = "fab"
-  link = "https://flipboard.com/@derekczoladz/digital-librarianship-vor3ke3gz"
-
-[[social]]
-  icon = "publons"
+  icon = "cv"
   icon_pack = "ai"
-  link = "https://publons.com/researcher/2443364/derek-c-zoladz/"
+  link = "files/cv.pdf"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
   link = "//github.com/dzoladz"
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[social]]
-  icon = "cv"
+  icon = "flipboard"
+  icon_pack = "fab"
+  link = "//flipboard.com/@derekczoladz/digital-librarianship-vor3ke3gz"
+
+[[social]]
+  icon = "publons"
   icon_pack = "ai"
-  link = "files/cv.pdf"
+  link = "//publons.com/researcher/2443364/derek-c-zoladz/"
+
+[[social]]
+  icon = "gitlab"
+  icon_pack = "fab"
+  link = "//gitlab.com/dzoladz"
+
+[[social]]
+  icon = "docker"
+  icon_pack = "fab"
+  link = "//hub.docker.com/u/dzoladz"
 
 +++
 
