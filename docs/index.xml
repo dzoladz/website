@@ -7,8 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
-    <lastBuildDate>Sat, 30 Nov 2019 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2019 11:00:00 +0000</lastBuildDate>
     <atom:link href="/website/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Apps I&#39;m Taking into 2020</title>
+      <link>//dzoladz.github.io/website/post/2019apps/</link>
+      <pubDate>Mon, 30 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/post/2019apps/</guid>
+      <description>&lt;p&gt;While it&amp;rsquo;s a major challenge to identify all of the scripts, command line tools, and web-based applications that have influenced my thoughts and workflow over the previous year,
+here&amp;rsquo;s a set of applications that I&amp;rsquo;m excited to take with me into the new year.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/laurent22/joplin&#34; target=&#34;_blank&#34;&gt;Joplin&lt;/a&gt;&lt;br /&gt;
+Built upon node.js and electron, Joplin is an open source note taking application. At the moment, I&amp;rsquo;m using it as a well-structured notebook to recall quotes and collect ideas of all sorts. With the ability to sync notebooks to both &lt;a href=&#34;https://owncloud.org/&#34; target=&#34;_blank&#34;&gt;OwnCloud&lt;/a&gt; and &lt;a href=&#34;https://nextcloud.com/&#34; target=&#34;_blank&#34;&gt;NextCloud&lt;/a&gt; - as well as several other storage solutions - the availability of my notebooks across multiple OSes and environments makes it an application that I&amp;rsquo;ll enjoy on many occasions in 2020+.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dockstation.io/&#34; target=&#34;_blank&#34;&gt;Dockstation&lt;/a&gt;&lt;br /&gt;
+If you want: (1) a gentle, graphical, introduction to engineering microservice-based applications with Docker Compose, (2) an interface to the container registry of Docker Hub, and (3) the ability to expose your container logs with the click of a button, DockStation is a wonderful gateway into the world of containers. I develop all of my &lt;code&gt;docker-compose.yml&lt;/code&gt; files using Dockstation on macOS.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://pi-hole.net/&#34; target=&#34;_blank&#34;&gt;Pi-Hole&lt;/a&gt;&lt;br /&gt;
+Running on a raspberry pi 3 on my home LAN, Pi-Hole provides DNS-level ad blocking on the network. I&amp;rsquo;m using Pi-hole as my DHCP server to assign IP addresses to clients on the LAN.  Via &lt;a href=&#34;https://wiki.debian.org/dnsmasq&#34; target=&#34;_blank&#34;&gt;dnsmasq&lt;/a&gt;, Pi-hole is also responsible for resolving a few host names on the LAN for applications like my Koha instance and backup server.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://jekyllrb.com/&#34; target=&#34;_blank&#34;&gt;Jekyll&lt;/a&gt;&lt;br /&gt;
+While working with the Code4Lib web team on the 2020 (Pittsburgh, PA) conference website, I&amp;rsquo;ve become acquainted with this ruby-based static site generator. I&amp;rsquo;ve been using &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; for my personal website, as well as for the &lt;a href=&#34;http://info.cool-cat.org/&#34; target=&#34;_blank&#34;&gt;Consortium of Ohio Libraries&lt;/a&gt; website, for roughly 2 years. Hugo has been reliable, but Jekyll as several themes for software project documentation and product marketing that have simple, yet complete, designs. I&amp;rsquo;ll likely explore these themes for other projects in 2020.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://bitwarden.com/&#34; target=&#34;_blank&#34;&gt;Bitwarden&lt;/a&gt;&lt;br /&gt;
+As I&amp;rsquo;m currently using LastPass, I&amp;rsquo;ve only begun to evaluate the full potential of BitWarden. I prefer open source applications, but this password management solution falls into the aspirational category for the coming year.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gitlab.com/&#34; target=&#34;_blank&#34;&gt;GitLab&lt;/a&gt;&lt;br /&gt;
+According to the project website, &amp;ldquo;GitLab is a complete DevOps platform&amp;rdquo;. My main reason for creating a GitLab account is to explore the broader range of open source projects, whose primary source code repository might live within the GitLab ecosystem. As an example, the Evergreen ILS community writes documentation using &lt;a href=&#34;http://asciidoc.org/&#34; target=&#34;_blank&#34;&gt;Asciidoc&lt;/a&gt;. Experiments have begun using &lt;a href=&#34;https://antora.org/&#34; target=&#34;_blank&#34;&gt;Antora&lt;/a&gt; for generating Evergreen documentation. Antora&amp;rsquo;s source code resides on GitLab.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Curses, It&#39;s Glances</title>
