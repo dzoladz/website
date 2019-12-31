@@ -90,6 +90,11 @@ user_groups = ["Researchers", "Visitors"]
   icon = "docker"
   icon_pack = "fab"
   link = "//hub.docker.com/u/dzoladz"
+  
+[[social]]
+  icon = "osf"
+  icon_pack = "ai"
+  link = "//osf.io/4k8vd/"
 
 +++
 
