@@ -4,7 +4,7 @@ draft = false
 tags = ["applications"]
 title = "code{4}lib Pittsburgh, PA"
 math = false
-summary = "My first code{4}lib in the middle of a global pandemic"
+summary = "My first code{4}lib in the middle of a global pandemic."
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
