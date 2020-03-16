@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
-    <lastBuildDate>Mon, 30 Dec 2019 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="//dzoladz.github.io/website/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>code{4}lib - Pittsburgh, PA</title>
+      <link>//dzoladz.github.io/website/post/2020code4lib/</link>
+      <pubDate>Sat, 14 Mar 2020 11:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/post/2020code4lib/</guid>
+      <description>Lots of Firsts at Code{4}lib 2020 Code{4}lib is the only major conference that I&amp;rsquo;ve attend that&amp;rsquo;s had a single track which all attendees experience. At most conferences, attendees experience the same keynote presentation to kick-off the event, but then develop a self-selected path through multiple, simultaneously occurring presentations. When all attendees experience the same sessions, lightening talks, breakouts, and keynotes, there&amp;rsquo;s a definitively stronger sense of community that emerges. There&amp;rsquo;s also a deeper understanding of each topic that develops, as attendees discuss sessions over breakfast and snack breaks through the filters of their own local context and professional focus.</description>
+    </item>
     
     <item>
       <title>Apps I&#39;m Taking into 2020</title>

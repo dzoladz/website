@@ -3,6 +3,12 @@
   
     <url>
     
+      <loc>//dzoladz.github.io/website/post/2020code4lib/</loc>
+      <lastmod>2020-03-14T11:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>//dzoladz.github.io/website/post/2019apps/</loc>
       <lastmod>2019-12-30T11:00:00+00:00</lastmod>
     </url>
@@ -94,6 +100,13 @@
   
     <url>
     
+      <loc>//dzoladz.github.io/website/tags/applications/</loc>
+      <lastmod>2020-03-14T11:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>//dzoladz.github.io/website/author/</loc>
       <priority>0</priority>
     </url>
@@ -113,7 +126,7 @@
     <url>
     
       <loc>//dzoladz.github.io/website/</loc>
-      <lastmod>2019-12-30T11:00:00+00:00</lastmod>
+      <lastmod>2020-03-14T11:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -148,7 +161,7 @@
     <url>
     
       <loc>//dzoladz.github.io/website/post/</loc>
-      <lastmod>2019-12-30T11:00:00+00:00</lastmod>
+      <lastmod>2020-03-14T11:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -179,6 +192,7 @@
     <url>
     
       <loc>//dzoladz.github.io/website/tags/</loc>
+      <lastmod>2020-03-14T11:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -192,6 +206,13 @@
     
       <loc>//dzoladz.github.io/website/tags/applications/</loc>
       <lastmod>2019-12-30T11:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>//dzoladz.github.io/website/tags/conferences/</loc>
+      <lastmod>2020-03-14T11:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
