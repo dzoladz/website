@@ -9,8 +9,8 @@ title = "Derek Zoladz"
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-#baseurl = "//dzoladz.github.io/website/"  # End your URL with a `/` trailing slash. Github Deploy.
-baseurl = "https://www.derekzoladz.com/" # End your URL with a `/` trailing slash. Production Deploy.
+baseurl = "//dzoladz.github.io/website/"  # End your URL with a `/` trailing slash. Github Deploy.
+#baseurl = "https://www.derekzoladz.com/" # End your URL with a `/` trailing slash. Production Deploy.
 publishDir = "docs"
 
 # Enter a copyright notice to display in the site footer.
