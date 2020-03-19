@@ -52,7 +52,7 @@ As such, I stopped by the [Samvera](https://samvera.org/) community table during
 
 ![Hexagon-shaped sticker showing Hyku for Consortia logo](/website/post/2020code4lib/hyku_for_consortia.png "Hexagon-shaped sticker showing Hyku for Consortia logo")
 
-The main focus of the Hyku for Consortia work is to implement a series of changes to the permissions of Hyku. While Hyku is architected as a multi-tenant application right out of the box, there is no current method to provide a group of users with the ability to work across tenants. The Hyku for Consortia project aims to create this feature to facility cross-consortial collaborations, as well as allowing the development of administrative governance bodies, say "a standards and review body", which could provide guidance and assistance throughout all of the tenants hosted on a single Hyku instance. The project has partnered with [Notch8](https://www.notch8.com/) out of San Diego to complete the feature development.
+The main focus of the Hyku for Consortia work is to implement a series of changes to the permissions of Hyku. While Hyku is architected as a multi-tenant application right out of the box, there is no current method to provide a group of users with the ability to work across tenants. The Hyku for Consortia project aims to create this feature to facilitate cross-consortial collaborations, as well as allowing the development of administrative governance bodies, say "a standards and review body", which could provide guidance and assistance throughout all of the tenants hosted on a single Hyku instance. The project has partnered with [Notch8](https://www.notch8.com/) out of San Diego to complete the feature development.
 
 ### ... Just a Few Others
 So many tools, so little time.
