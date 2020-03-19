@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Derek Zoladz</title>
-    <link>//dzoladz.github.io/website/publication/</link>
+    <link>https://www.derekzoladz.com/publication/</link>
     <description>Recent content in Publications on Derek Zoladz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
     <lastBuildDate>Wed, 15 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="//dzoladz.github.io/website/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.derekzoladz.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Beam Me Up, Scotty: Migrating into an Evergreen Consortium</title>
-      <link>//dzoladz.github.io/website/publication/rightclick2017/</link>
+      <link>https://www.derekzoladz.com/publication/rightclick2017/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/publication/rightclick2017/</guid>
+      <guid>https://www.derekzoladz.com/publication/rightclick2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Know the Lingo: How ILEAD Ohio Influenced Library Collaboration and Discovery for Patrons</title>
-      <link>//dzoladz.github.io/website/publication/know-the-lingo/</link>
+      <link>https://www.derekzoladz.com/publication/know-the-lingo/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/publication/know-the-lingo/</guid>
+      <guid>https://www.derekzoladz.com/publication/know-the-lingo/</guid>
       <description></description>
     </item>
     
