@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>conferences on Derek Zoladz</title>
-    <link>https://www.derekzoladz.com/tags/conferences/</link>
+    <link>//dzoladz.github.io/website/tags/conferences/</link>
     <description>Recent content in conferences on Derek Zoladz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
     <lastBuildDate>Sat, 14 Mar 2020 11:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.derekzoladz.com/tags/conferences/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//dzoladz.github.io/website/tags/conferences/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>code{4}lib - Pittsburgh, PA</title>
-      <link>https://www.derekzoladz.com/post/2020code4lib/</link>
+      <link>//dzoladz.github.io/website/post/2020code4lib/</link>
       <pubDate>Sat, 14 Mar 2020 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/post/2020code4lib/</guid>
+      <guid>//dzoladz.github.io/website/post/2020code4lib/</guid>
       <description>Lots of Firsts at Code{4}lib 2020 Code{4}lib is the only major conference that I&amp;rsquo;ve attend with a single track. Most conferences are multi-track. At a multi-track conference, attendees gather for a keynote presentation to kick-off the event. But after that collective experience, everyone develops a self-selected path through simultaneously occurring presentations and activities. At Code{4}lib, all attendees experience the same sequence of sessions, lightning talks, breakouts, and keynotes presentations. There&amp;rsquo;s a definitively stronger sense of community that emerges with a single-track conference.</description>
     </item>
     
