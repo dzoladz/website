@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Derek Zoladz</title>
-    <link>//dzoladz.github.io/website/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Authors on Derek Zoladz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
     
-	<atom:link href="//dzoladz.github.io/website/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Derek Zoladz</title>
-      <link>//dzoladz.github.io/website/authors/derek-zoladz/</link>
+      <link>/authors/derek-zoladz/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/authors/derek-zoladz/</guid>
+      <guid>/authors/derek-zoladz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jessica Crossfield McIntosh</title>
-      <link>//dzoladz.github.io/website/authors/jessica-crossfield-mcintosh/</link>
+      <link>/authors/jessica-crossfield-mcintosh/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/authors/jessica-crossfield-mcintosh/</guid>
+      <guid>/authors/jessica-crossfield-mcintosh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Julie Zaveloff</title>
-      <link>//dzoladz.github.io/website/authors/julie-zaveloff/</link>
+      <link>/authors/julie-zaveloff/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/authors/julie-zaveloff/</guid>
+      <guid>/authors/julie-zaveloff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kirstin Krumsee</title>
-      <link>//dzoladz.github.io/website/authors/kirstin-krumsee/</link>
+      <link>/authors/kirstin-krumsee/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/authors/kirstin-krumsee/</guid>
+      <guid>/authors/kirstin-krumsee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>admin</title>
-      <link>//dzoladz.github.io/website/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description></description>
     </item>
     
