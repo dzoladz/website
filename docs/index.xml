@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Derek Zoladz on Derek Zoladz</title>
-    <link>/</link>
+    <link>//dzoladz.github.io/website/</link>
     <description>Recent content in Derek Zoladz on Derek Zoladz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
     <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="/website/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Speculative Design &amp; Libraries</title>
-      <link>/project/tedsig2020/</link>
+      <link>//dzoladz.github.io/website/project/tedsig2020/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/project/tedsig2020/</guid>
+      <guid>//dzoladz.github.io/website/project/tedsig2020/</guid>
       <description>&lt;p&gt;As Co-Chair of the &lt;a href=&#34;https://www.alaoweb.org/igs/tedsig/index.html&#34; target=&#34;_blank&#34;&gt;Technical, Electronic, and Digital Services Interest Group&lt;/a&gt; (TEDSIG) - a community within the Academic Library Association of Ohio (ALAO) - my professional experiences have circumvented the shared set of historical struggles that define the group&amp;rsquo;s identity.&lt;/p&gt;
 
 &lt;p&gt;TEDSIG was founded in 1993 as the Technical Services Interest Group (TSIG). The interest group’s name and scope was changed in June 2007 to Technical, Electronic, and Digital Services Interest Group (TEDSIG) to better reflect the evolving status of the group’s constituents in traditional and emerging technologies. By the time that I began working at Columbus State Community College in 2008, it was evidently clear that the traditional role of technical service librarians was on the decline. As a new professional with a bias towards the use of technology in day-to-day library practices, I couldn&amp;rsquo;t understand why - or how -  the technological aspects of the profession were&amp;hellip; &lt;em&gt;on the way out&lt;/em&gt;?&lt;/p&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>code{4}lib - Pittsburgh, PA</title>
-      <link>/post/2020code4lib/</link>
+      <link>//dzoladz.github.io/website/post/2020code4lib/</link>
       <pubDate>Sat, 14 Mar 2020 11:00:00 +0000</pubDate>
       
-      <guid>/post/2020code4lib/</guid>
+      <guid>//dzoladz.github.io/website/post/2020code4lib/</guid>
       <description>
 
 &lt;h3 id=&#34;lots-of-firsts-at-code-4-lib-2020&#34;&gt;Lots of Firsts at Code{4}lib 2020&lt;/h3&gt;
@@ -85,7 +85,7 @@
 
 &lt;p&gt;As such, I stopped by the &lt;a href=&#34;https://samvera.org/&#34; target=&#34;_blank&#34;&gt;Samvera&lt;/a&gt; community table during one the breaks for a brief chat about the &lt;a href=&#34;https://www.hykuforconsortia.org/&#34; target=&#34;_blank&#34;&gt;Hyku for Consortia&lt;/a&gt; project.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/website/post/2020code4lib/hyku_for_consortia.png&#34; alt=&#34;Hexagon-shaped sticker showing Hyku for Consortia logo&#34; title=&#34;Hexagon-shaped sticker showing Hyku for Consortia logo&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//dzoladz.github.io/website/website/post/2020code4lib/hyku_for_consortia.png&#34; alt=&#34;Hexagon-shaped sticker showing Hyku for Consortia logo&#34; title=&#34;Hexagon-shaped sticker showing Hyku for Consortia logo&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;{{&#34; alt=&#34;Hexagon-shaped sticker showing Hyku for Consortia logo&#34; title=&#34;hyku_for_consortia.png&amp;quot; | relURL }} &amp;quot;Hexagon-shaped sticker showing Hyku for Consortia logo&#34; /&gt;&lt;/p&gt;
 
@@ -114,10 +114,10 @@ An alternative to &lt;a href=&#34;https://www.selenium.dev/&#34; target=&#34;_bl
     
     <item>
       <title>Apps I&#39;m Taking into 2020</title>
-      <link>/post/2019apps/</link>
+      <link>//dzoladz.github.io/website/post/2019apps/</link>
       <pubDate>Mon, 30 Dec 2019 11:00:00 +0000</pubDate>
       
-      <guid>/post/2019apps/</guid>
+      <guid>//dzoladz.github.io/website/post/2019apps/</guid>
       <description>&lt;p&gt;While it&amp;rsquo;s a major challenge to identify all of the scripts, command line tools, and web-based applications that have influenced my thoughts and workflow over the previous year,
 here&amp;rsquo;s a set of applications that I&amp;rsquo;m excited to take with me into the new year.&lt;/p&gt;
 
@@ -143,10 +143,10 @@ According to the project website, &amp;ldquo;GitLab is a complete DevOps platfor
     
     <item>
       <title>Curses, It&#39;s Glances</title>
-      <link>/post/glances/</link>
+      <link>//dzoladz.github.io/website/post/glances/</link>
       <pubDate>Sat, 30 Nov 2019 11:00:00 +0000</pubDate>
       
-      <guid>/post/glances/</guid>
+      <guid>//dzoladz.github.io/website/post/glances/</guid>
       <description>
 
 &lt;p&gt;There&amp;rsquo;s definitely an argument to be made for using lightweight apps that minimize installed dependencies in an effort to: (1) minimize the surface area for vulnerabilities and attack vectors, and (2) reduce application complexity for  troubleshooting purposes when something inevitably goes wrong. However, there needs to be a balance between security gains and pleasure in using an application, what&amp;rsquo;s the point in installing it in the first place if you aren&amp;rsquo;t going to use it?&lt;/p&gt;
@@ -195,10 +195,10 @@ According to the project website, &amp;ldquo;GitLab is a complete DevOps platfor
     
     <item>
       <title>Overview of My Personal Library</title>
-      <link>/post/my_library/</link>
+      <link>//dzoladz.github.io/website/post/my_library/</link>
       <pubDate>Thu, 03 Oct 2019 11:00:00 +0000</pubDate>
       
-      <guid>/post/my_library/</guid>
+      <guid>//dzoladz.github.io/website/post/my_library/</guid>
       <description>&lt;p&gt;On a day-to-day basis, I work with the &lt;a href=&#34;http://info.cool-cat.org/&#34; target=&#34;_blank&#34;&gt;Consortium of Ohio Libraries&lt;/a&gt; on their open-source ILS &lt;a href=&#34;https://evergreen-ils.org/&#34; target=&#34;_blank&#34;&gt;Evergreen&lt;/a&gt;. Whether it&amp;rsquo;s configuring new circulation policies, adjusting global system settings, or writing SQL to batch update item attributes, I&amp;rsquo;ve explored a significant chunk of Evergreen over the last 3 years. But it&amp;rsquo;s an understatment to say that Evergreen is a massive application. There&amp;rsquo;s still plenty of uncharted functionality.&lt;/p&gt;
 
 &lt;p&gt;Evergreen&amp;rsquo;s architecture is designed for multi-tenancy out-of-the-box and built to scale to very large consortia. In the United States, it&amp;rsquo;s the platform for a number of large public library consortia. For a personal library, it&amp;rsquo;s overkill. Developing a personal library is also an opportunity to explore the setup and administer another ILS.&lt;/p&gt;
@@ -215,16 +215,16 @@ According to the project website, &amp;ldquo;GitLab is a complete DevOps platfor
 &lt;/ul&gt;
 
 &lt;p&gt;I&amp;rsquo;ll be cataloging my personal collection of library-related books on my local network using the following hardware.
-&lt;video controls src=&#34;/website/post/my_library/koha_server.mp4&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;video controls src=&#34;//dzoladz.github.io/website/website/post/my_library/koha_server.mp4&#34;&gt;&lt;/video&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Why ls is exa</title>
-      <link>/post/exa/</link>
+      <link>//dzoladz.github.io/website/post/exa/</link>
       <pubDate>Fri, 09 Aug 2019 11:00:00 +0000</pubDate>
       
-      <guid>/post/exa/</guid>
+      <guid>//dzoladz.github.io/website/post/exa/</guid>
       <description>&lt;p&gt;One of the most common commands that I execute in the terminal is simply to list the contents of a directory. Since I do this so often, being able to quickly and easily digest vast amounts of information about the content of the directory is essential. That&amp;rsquo;s where &lt;a href=&#34;https://the.exa.website/&#34; target=&#34;_blank&#34;&gt;exa&lt;/a&gt; shines.&lt;/p&gt;
 
 &lt;p&gt;Out-of-the-box, the default color scheme of &lt;code&gt;exa&lt;/code&gt; is finely tuned. I found the intricate use of subtle color distinctions distracting, rather than informative. As such, I would need to modify the color definitions to suit my personal goals of: (1) being able to easily differentiate between directory content that my current user owns or is a member of the assigned group, (2) rapidly distinguish between files and directories, and (3) generally list common metadata elements that experiencing has shown to be frequently useful in troubleshooting an issue.&lt;/p&gt;
@@ -273,10 +273,10 @@ xa=37&amp;quot;
     
     <item>
       <title>Farewell, Nano</title>
-      <link>/post/farewell_nano/</link>
+      <link>//dzoladz.github.io/website/post/farewell_nano/</link>
       <pubDate>Thu, 06 Jun 2019 11:00:00 +0000</pubDate>
       
-      <guid>/post/farewell_nano/</guid>
+      <guid>//dzoladz.github.io/website/post/farewell_nano/</guid>
       <description>&lt;p&gt;Forever, I&amp;rsquo;ve used &lt;code&gt;nano&lt;/code&gt; as my command-line text editor. I&amp;rsquo;ve never had an issue with it. In fact, it&amp;rsquo;s been so reliable that I&amp;rsquo;ve keep it around much longer than I should have. It still works well for most of my needs, but it&amp;rsquo;s time to expand my suite of skills and learn something new.&lt;/p&gt;
 
 &lt;p&gt;That&amp;rsquo;s why I&amp;rsquo;m switching to &lt;code&gt;vim&lt;/code&gt;.&lt;/p&gt;
@@ -300,10 +300,10 @@ xa=37&amp;quot;
     
     <item>
       <title>Apps I&#39;m Taking into 2019</title>
-      <link>/post/2018apps/</link>
+      <link>//dzoladz.github.io/website/post/2018apps/</link>
       <pubDate>Mon, 31 Dec 2018 11:00:00 +0000</pubDate>
       
-      <guid>/post/2018apps/</guid>
+      <guid>//dzoladz.github.io/website/post/2018apps/</guid>
       <description>&lt;p&gt;I should probably start off with a bit of a caveat.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/TTRyEOT.jpg&#34; alt=&#34;image of Steve Jobs calling all categories of computer program an app.&#34; /&gt;&lt;/p&gt;
@@ -335,10 +335,10 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
     
     <item>
       <title>Ohio Digital Network Launches</title>
-      <link>/post/dpla/</link>
+      <link>//dzoladz.github.io/website/post/dpla/</link>
       <pubDate>Fri, 02 Mar 2018 11:00:00 +0000</pubDate>
       
-      <guid>/post/dpla/</guid>
+      <guid>//dzoladz.github.io/website/post/dpla/</guid>
       <description>&lt;p&gt;Participating in the early group for the technical infrastructure for this project - simply called &amp;lsquo;DPLA Ohio&amp;rsquo; at the time - shaped the trajectory of my career firmly towards technology. Check out the &lt;a href=&#34;https://library.ohio.gov/news/ohio-digital-network-collections-debuts-dpla/&#34; target=&#34;_blank&#34;&gt;State Library of Ohio&amp;rsquo;s announcement&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;And the, visit the &lt;a href=&#34;https://ohiodigitalnetwork.org/&#34; target=&#34;_blank&#34;&gt;Ohio Digital Network&lt;/a&gt;!&lt;/p&gt;
@@ -347,19 +347,19 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
     
     <item>
       <title>Beam Me Up, Scotty: Migrating into an Evergreen Consortium</title>
-      <link>/publication/rightclick2017/</link>
+      <link>//dzoladz.github.io/website/publication/rightclick2017/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/rightclick2017/</guid>
+      <guid>//dzoladz.github.io/website/publication/rightclick2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Augmented Reality at Columbus State Library [Photo Essay]</title>
-      <link>/project/thurgood/</link>
+      <link>//dzoladz.github.io/website/project/thurgood/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/thurgood/</guid>
+      <guid>//dzoladz.github.io/website/project/thurgood/</guid>
       <description>&lt;p&gt;&lt;em&gt;Thurgood Marshall and the Supreme Court&lt;/em&gt; was an interactive exhibit at the Columbus State Library in 2015. Posters were brought to life using the augmented reality app &lt;a href=&#34;https://www.aurasma.com/&#34; target=&#34;_blank&#34;&gt;Aurasma&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -446,10 +446,10 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
     
     <item>
       <title>Business Resource Tutorials</title>
-      <link>/project/biz-tutorials/</link>
+      <link>//dzoladz.github.io/website/project/biz-tutorials/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/biz-tutorials/</guid>
+      <guid>//dzoladz.github.io/website/project/biz-tutorials/</guid>
       <description>
 
 &lt;h1 id=&#34;business-resource-tutorials-at-the-columbus-state-library&#34;&gt;Business Resource Tutorials at the Columbus State Library&lt;/h1&gt;
@@ -499,19 +499,19 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
     
     <item>
       <title>Know the Lingo: How ILEAD Ohio Influenced Library Collaboration and Discovery for Patrons</title>
-      <link>/publication/know-the-lingo/</link>
+      <link>//dzoladz.github.io/website/publication/know-the-lingo/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/know-the-lingo/</guid>
+      <guid>//dzoladz.github.io/website/publication/know-the-lingo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lingo</title>
-      <link>/project/lingo/</link>
+      <link>//dzoladz.github.io/website/project/lingo/</link>
       <pubDate>Sun, 23 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>/project/lingo/</guid>
+      <guid>//dzoladz.github.io/website/project/lingo/</guid>
       <description>&lt;p&gt;Ohio’s first ILEAD USA was a multi-state immersive continuing education program that develops library leaders through projects based on community needs via the application of participatory technology tools. Ohio participants joined others from Colorado, Illinois, Iowa, and Utah in this national initiative. ILEAD USA was funded by a Laura Bush 21st Century Librarian Program grant to the State Library of Illinois from the Institute of Museum and Library Services.&lt;/p&gt;
 
 &lt;p&gt;Myself, and a former CSCC colleague Julie Zaveloff, were selected as part of the initial group from Ohio. Our team was rounded out by other librarians from around the state:&lt;/p&gt;
