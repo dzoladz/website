@@ -1,7 +1,7 @@
 +++
 # Date this page was created.
 date = "2020-07-14"
-draft = false
+active = true
 
 # Project title.
 title = "Speculative Design & Libraries"
