@@ -2,6 +2,7 @@
 # Date this page was created.
 date = "2016-04-27"
 active = false
+draft = true
 
 # Project title.
 title = "Business Resource Tutorials"
