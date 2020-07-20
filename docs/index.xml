@@ -7,8 +7,17 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
-    <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/website/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contextualizing EZproxy for Improved Troubleshooting and Problem Reports</title>
+      <link>//dzoladz.github.io/website/publication/contextualizing_ezproxy/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//dzoladz.github.io/website/publication/contextualizing_ezproxy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Speculative Design &amp; Libraries</title>
@@ -439,59 +448,6 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/hJRJTxkP7tY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Business Resource Tutorials</title>
-      <link>//dzoladz.github.io/website/project/biz-tutorials/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>//dzoladz.github.io/website/project/biz-tutorials/</guid>
-      <description>
-
-&lt;h1 id=&#34;business-resource-tutorials-at-the-columbus-state-library&#34;&gt;Business Resource Tutorials at the Columbus State Library&lt;/h1&gt;
-
-&lt;h2 id=&#34;a-small-sample-of-early-tutorials-created-at-the-columbus-state-library&#34;&gt;A small sample of early tutorials created at the Columbus State Library&lt;/h2&gt;
-
-&lt;p&gt;Technologies&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;iMovie&lt;/li&gt;
-&lt;li&gt;QuickTime&lt;/li&gt;
-&lt;li&gt;Zoom H4n&lt;/li&gt;
-&lt;li&gt;2011 MacBook Pro&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr/&gt;
-
-&lt;p&gt;Example 1
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/dHLpq1E1V6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Example 2
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/TZC7M0EKt2Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Example 3
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/_2VVQIoJ0PU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Example 4
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/8KqwZutddR0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
