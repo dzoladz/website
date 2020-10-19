@@ -77,6 +77,11 @@ user_groups = ["Researchers", "Visitors"]
   link = "//flipboard.com/@derekczoladz/digital-librarianship-vor3ke3gz"
 
 [[social]]
+  icon = "instagram"
+  icon_pack = "fab"
+  link = "//www.instagram.com/dzoladz"
+  
+[[social]]
   icon = "publons"
   icon_pack = "ai"
   link = "//publons.com/researcher/2443364/derek-c-zoladz/"
@@ -100,6 +105,7 @@ user_groups = ["Researchers", "Visitors"]
   icon = "twitter"
   icon_pack = "fab"
   link = "//twitter.com/derek_zoladz"
+  
 
 +++
 
