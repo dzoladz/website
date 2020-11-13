@@ -1,3 +1,15 @@
+#### Work-in-Progress
+Posts
+- [ ] 2021apps
+- [ ] 2020alao
+- [ ] latitude_reading_group
+- [ ] readings_ballard
+- [ ] readings_cover_art
+- [ ] readings_explorations
+- [ ] teddy_award
+Projects
+- [ ] tedsig_futures
+
 #### Fire up local server to view drafts at http://localhost:1313/website/
 
 ```
