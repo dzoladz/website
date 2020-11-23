@@ -2,9 +2,9 @@
 date = "2020-10-28T11:00:00"
 draft = true
 tags = ["conferences"]
-title = "ALAO 2020"
+title = "2020... the year of the great learning"
 math = false
-summary = "Resilience: Sustainable & Thriving Academic Libraries for the Future"
+summary = "Tools & Services for a virtual conference"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
@@ -19,7 +19,9 @@ summary = "Resilience: Sustainable & Thriving Academic Libraries for the Future"
 
 +++
 
-# It's 2020. Critical Technologie
+One upside of 2020 has been the expansion of learning opportunities that have become real opportunities, as library and library-adjacent conference and workshops transition to an online delivery. I've registered for three times as many conference as I would in a normal year, but I've also not attended just as many of those events because I've has other work that I found more interesting to pursue. I guess that's a consequence of free registration - although I'm not sure how it's been possible for these events to have no associated fees to attend, when putting on a conference of any size has tangible costs associated with it.  Anyway... that's all a divergence from the intent of this post, which is to reflect upon my work for the [2020 ALAO Conference](https://2020.alaoweb.org/)
+
+Another upside to 2020 has been the number of opportunities to put the spectrum of my technical abilities into practice, as the great learning continues to bloom.
 
 Serving as the Chair of the Website Working Group and Technical Lead for the Academic Library Association of Ohio (ALAO) annual conference - ALAO's first ever fully online conference - has been a highlight of my 2020. While unexpected, it was a wonderful opportunity to:
 
@@ -33,11 +35,11 @@ Volunteer projects like this one always provide an opportunity to exercise and d
 ### Team
 The 2020 ALAO Conference website was themed, customized, enhanced, and maintained by the Website Working Group. Members of the 2020 Website Working Group are as follows:
 
-- Ken Irwin (Miami University)
-- Zach Walton (The Ohio State University)
 - David Green (State Library of Ohio)
-- Ryan Scott (Columbus State)
 - Melissa Hill (Ohio Wesleyan University)
+- Ken Irwin (Miami University)
+- Ryan Scott (Columbus State Community College)
+- Zach Walton (The Ohio State University)
 
 Our primary method of communication was the `#conference-website` channel of the ALAO Slack workspace. Project management was mainly facilitated through Github’s native tooling, via issue creation, issue assignment of responsibilities, and a wiki for setting each meeting's agenda.
 
@@ -66,15 +68,19 @@ Total loc: 505996
 
 Ken Irwin from Miami University will be the Technical Lead for the ALAO 2021, Website Working Group.
 
-# Tools & Services
-Designing a virtual conference requires a collection of technological dependencies and services to be aligned and working in parallel. Although there are many all-inclusive virtual conference platforms that have sprouted up over the previous year ([hopin](https://hopin.com/), [Remo](https://remo.co/), and [Whova](https://whova.com/) come to mind),
+# Tools & Services  
+There are many all-inclusive virtual conference platforms that have sprouted up over the previous year or so ([hopin](https://hopin.com/), [Remo](https://remo.co/), and [Whova](https://whova.com/) immediately come to mind). However, there are a few reasons that you might be inclined to roll-your-own assemblage of services to host a virtual conference.
 
-Doing it on the cheap - when your organization is stuck footing a bill for a conference contract with Nationwide Hotel & Conference Center that can be nullified for cancellation due to COVID-19 restrictions -
+First: If you already purchase several of the needed components to host a virtual conference. As an example, ALAO has a professional subscription to the association management platform - Wild Apricot. Interacting with Wild Apricot is a familiar experience for ALAO membership, and Wild Apricot has a built-in event registration features, making it an obvious choice for handling conference registrations and payment.
 
-The underpinning of the conference website are built upon an (abandoned?) projected for the 2014 GDG Devfest called [Project Zeppelin](https://github.com/gdg-x/zeppelin).
+Second: Building your organization's overall technical capacity can encourage the expansion of services and opportunities made available to membership. While hard skills take time to develop, knowledge sharing and mentorship of colleagues are immediate benefit. Strengthening the organizations sense of internal community can encourage members to take on leadership roles as they become available.
+
+Third: If your organization has a multi-year contract with a venue to hold the annual conference, and COVID-19 requires the cancellation of any face-to-face events for the year, you may still be contractually-obligated to pay a hefty cancellation fee. To minimize organizational losses, "Doing it on the cheap" may become the motto for the year. 
+
+Although the underpinning of our conference website are built upon an (abandoned?) projected for the 2014 GDG Devfest called [Project Zeppelin](https://github.com/gdg-x/zeppelin), designing a virtual conference requires a careful selection of technologies and hosted services to be properly aligned and smoothly working in a parallel direction. When you organization's membership very clearly sees the annual conference the value of - and primary reason for renewing - their membership, doing it on your own is not a decision to take lightly.
 
 ### Tools
-Below is a list of the development tools and technologies that were required to develop the 2020 ALAO Conference - ALAO's first fully online conference.
+One of the key considerations in making a decision to take the DIY approach is whether or not you have someone willing and - perhaps most importantly - able to take the lead for the project. The project lead will need to allocate considerable volunteer time, possess solid project management fundamentals, and have an intermediate set of technical skills. Below is a list of the development tools and technologies that were required to develop the 2020 ALAO Conference - ALAO's first fully online conference. [[source code](https://github.com/alaoweb/2020.alaoweb.org)]
 
 |     |     |
 | --- | --- |
