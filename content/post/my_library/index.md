@@ -33,4 +33,4 @@ Goals for the personal library projected included:
 * Design and build ILS infrastructure and networking from scratch
 
 I'll be cataloging my personal collection of library-related books on my local network using the following hardware.
-<video controls src="/website/post/my_library/koha_server.mp4"></video>
+<video controls src="/post/my_library/koha_server.mp4"></video>
