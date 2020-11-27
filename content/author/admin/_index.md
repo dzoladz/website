@@ -65,6 +65,11 @@ user_groups = ["Researchers", "Visitors"]
   icon = "cv"
   icon_pack = "ai"
   link = "files/cv.pdf"
+  
+[[social]]
+  icon = "book-reader"
+  icon_pack = "fas"
+  link = "//dzoladz-koha.ngrok.io"
 
 [[social]]
   icon = "github"
