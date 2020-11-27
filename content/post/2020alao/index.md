@@ -35,7 +35,7 @@ Volunteer projects like this one always provide an opportunity to exercise and d
 ### Team
 Members of the 2020 Website Working Group are as follows:
 
-- David Green (State Library of Ohio)
+- David W. Green (State Library of Ohio)
 - Melissa Hill (Ohio Wesleyan University)
 - Ken Irwin (Miami University)
 - Ryan Scott (Columbus State Community College)
