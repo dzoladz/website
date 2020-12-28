@@ -111,6 +111,11 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fab"
   link = "//twitter.com/derek_zoladz"
   
+[[social]]
+  icon = "dungeon"
+  icon_pack = "fas"
+  link = "//dzoladz.github.io/curiousitarium/"
+  
 
 +++
 
