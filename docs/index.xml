@@ -7,8 +7,186 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
-    <lastBuildDate>Wed, 28 Oct 2020 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2021 11:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Apps I&#39;m Taking into 2021</title>
+      <link>https://www.derekzoladz.com/post/2021apps/</link>
+      <pubDate>Fri, 01 Jan 2021 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.derekzoladz.com/post/2021apps/</guid>
+      <description>
+
+&lt;p&gt;While it&amp;rsquo;s a major challenge to identify all of the scripts, command line tools, and web-based applications that have influenced my thoughts and workflow over the previous year,
+here&amp;rsquo;s a set of applications that I&amp;rsquo;m excited to take with me into the new year.&lt;/p&gt;
+
+&lt;h3 id=&#34;wax-https-github-com-minicomp-wax&#34;&gt;&lt;a href=&#34;https://github.com/minicomp/wax&#34; target=&#34;_blank&#34;&gt;Wax&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Using &lt;a href=&#34;https://go-dh.github.io/mincomp/&#34; target=&#34;_blank&#34;&gt;minimal computing principles&lt;/a&gt;, Wax is a project that aims to facilitate the creation of digital exhibits using static site technologies. For librarians exploring digital technologies at cash-strapped institutions without a formal digital initiatives program, Wax is a lightweight and cheap (in terms of cost and maintenance) solution.&lt;/p&gt;
+
+&lt;p&gt;Initially, there&amp;rsquo;s a rather significant technical hurdle, but the skills can be easily repurposed for use in other data-intensive projects, web development using static sites, and other metadata or library-adjacent workflows. Here are a few of the underpinning of Wax:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://jekyllrb.com/&#34; target=&#34;_blank&#34;&gt;Jekyll&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Static Site Generator&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://sass-lang.com/documentation/syntax&#34; target=&#34;_blank&#34;&gt;SCSS&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;CSS Pre-processer&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://bundler.io/&#34; target=&#34;_blank&#34;&gt;Bundler&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Gem Dependency Management&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://shopify.github.io/liquid/&#34; target=&#34;_blank&#34;&gt;Liquid&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Templating Language&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://yaml.org/&#34; target=&#34;_blank&#34;&gt;YAML&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Data Serialization Standard&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://getbootstrap.com/&#34; target=&#34;_blank&#34;&gt;Bootstrap&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Front-End Frameworks&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ruby-lang.org/en/&#34; target=&#34;_blank&#34;&gt;Ruby&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Programming Language&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.markdownguide.org/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Plain-Text Markup Language&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.json.org/json-en.html&#34; target=&#34;_blank&#34;&gt;JSON&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Data Interchange Format&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Software Version Control&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34;&gt;Github Pages&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Static Site Hosting Service&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;It&amp;rsquo;s also a great way to learn about the International Image Interoperability Framework™ [a.k.a &lt;a href=&#34;https://iiif.io/&#34; target=&#34;_blank&#34;&gt;iiif&lt;/a&gt; or &amp;ldquo;Triple-I-F&amp;rdquo;] and its associated manifest files and viewer applications like &lt;a href=&#34;https://projectmirador.org/&#34; target=&#34;_blank&#34;&gt;Mirador&lt;/a&gt; and &lt;a href=&#34;https://openseadragon.github.io/&#34; target=&#34;_blank&#34;&gt;OpenSeadragon&lt;/a&gt;. Until I started using Wax, I hadn&amp;rsquo;t considered full-text search in Javascript, which Wax provide via &lt;a href=&#34;http://elasticlunr.com/&#34; target=&#34;_blank&#34;&gt;Elasticlunr.js&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img style=&#34;border: 1px solid #bfbfbf;&#34; src=&#34;wax_workflow.jpg&#34;&gt;
+  &lt;figcaption style=&#34;color:grey;&#34;&gt;Wax Workflow ⟶ see &lt;a href=&#34;https://minicomp.github.io/wiki/wax/#so-what-does-wax-look-like&#34;&gt;[documentation]&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;To get acquainted with the Wax workflow, a photographed several of my few favorite book covers from my personal collection and created an exhibit space called the &lt;a href=&#34;https://dzoladz.github.io/curiousitarium/collection/&#34;&gt;Curiousitarium&lt;sup&gt;DCZ&lt;/sup&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img style=&#34;border: 1px solid #bfbfbf;&#34; src=&#34;curiousitarium.png&#34;&gt;
+  &lt;figcaption style=&#34;color:grey;&#34;&gt;Example: Book Cover Exhibit Using Wax&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;graphviz-https-graphviz-org&#34;&gt;&lt;a href=&#34;https://graphviz.org/&#34; target=&#34;_blank&#34;&gt;graphviz&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Graphviz is an open source graph visualization software. Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks. It has important applications in networking, bioinformatics, software engineering, database and web design, machine learning, and in visual interfaces for other technical domains.&lt;/p&gt;
+
+&lt;p&gt;Writing diagrams using a familiar syntax - and working in an IDE, text editor, or any another code-like environment - just feels comfortably at home. Here&amp;rsquo;s the &lt;code&gt;.dot&lt;/code&gt; file that generates the graph below &lt;a href=&#34;contextualizing-ezproxy.txt&#34; target=&#34;_blank&#34;&gt;contextualizing-ezproxy.dot&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&#34;contextualizing-ezproxy.png&#34;&gt;
+  &lt;figcaption style=&#34;color:grey;&#34;&gt;Resultant Graphs are Crisply-defined and Visually Appealing&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It also makes it easy to drop in a Python utility script that takes the &lt;code&gt;.dot&lt;/code&gt; input and generates a visual representation as a &lt;code&gt;.png&lt;/code&gt; file&amp;hellip; which can be quickly and easily integrated into presentation software or any number of other productivity applications.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from graphviz import Source
+import os
+
+input_file = &#39;contextualizing-ezproxy&#39; + &#39;.dot&#39;
+output_file = &#39;contextualizing-ezproxy&#39; + &#39;.png&#39;
+
+os.system(&#39;dot -Tpng &#39; + input_file + &#39; -o &#39; + output_file)
+
+source = Source.from_file(input_file)
+source.view()
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Here are a few tools to explore:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Graphviz application use case - &lt;a href=&#34;https://ohionet.github.io/ohiolink-webinar/#/&#34; target=&#34;_blank&#34;&gt;Contextualizing EZproxy, OhioLINK Webinar Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;No installation required online tool - &lt;a href=&#34;http://magjac.com/graphviz-visual-editor/&#34; target=&#34;_blank&#34;&gt;Web-based Dot File Editor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Quick start &lt;code&gt;.dot&lt;/code&gt; cheat sheet - &lt;a href=&#34;https://graphs.grevian.org/reference&#34; target=&#34;_blank&#34;&gt;Graphviz Reference Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;pa11y-dashboard-https-github-com-pa11y-pa11y-dashboard&#34;&gt;&lt;a href=&#34;https://github.com/pa11y/pa11y-dashboard&#34; target=&#34;_blank&#34;&gt;Pa11y Dashboard&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Pa11y Dashboard is a web-based user interface for the underlying Pa11y accessibility reporting service. The dashboard simplifies the process of actively and continuously monitoring the accessibility status of a library&amp;rsquo;s service platforms.&lt;/p&gt;
+
+&lt;p&gt;Pa11y is an open source tool for running automated accessibility tests. Pa11y supports several common accessibility standards, including the W3C&amp;rsquo;s Web Content Accessibility Guidelines 2.0 (WCAG2A, WCAG2AA, or WCAG2AAA) and the United States GSA Section 508 standards. The &lt;a href=&#34;https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md&#34; target=&#34;_blank&#34;&gt;aXe-core rule set&lt;/a&gt; is Pa11y&amp;rsquo;s default test runner suite.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img style=&#34;border: 1px solid #bfbfbf;&#34; src=&#34;pa11y-dashboard.png&#34;&gt;
+  &lt;figcaption style=&#34;color:grey;&#34;&gt;Example Dashboard&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;If you&amp;rsquo;re familiar with Docker, you can clone the following GitHub repository and have a working version of &lt;a href=&#34;https://github.com/dzoladz/pa11y-docker&#34; target=&#34;_blank&#34;&gt;Pa11y Dashboard in 5 minutes!&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;traefik-proxy-https-traefik-io-traefik&#34;&gt;&lt;a href=&#34;https://traefik.io/traefik/&#34; target=&#34;_blank&#34;&gt;Traefik Proxy&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;One of my goals for 2020 was to create a small scale application hosting platform, where I could continue my exploration into the use of containerized applications within libraries and cultural heritage institutions. In early June, a working prototype was up-and-running on a general purpose t3.large EC2 instance. Code named, Esmeralda.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Esmeralda&lt;/strong&gt; is a platform for running containerized applications behind the enterprise-class reverse proxy Traefik. Containers are orchestrated via docker-compose files and &lt;a href=&#34;https://www.portainer.io/products/community-edition&#34; target=&#34;_blank&#34;&gt;Portainer&lt;/a&gt; is used to provide a graphical interface into the entire environment.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&#34;traefik-diagram.webp&#34;&gt;
+  &lt;figcaption style=&#34;color:grey;&#34;&gt;Diagram of Basic Traefik Workflows&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Traefik proxy handles:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;HTTP request resolution to each container service&lt;/li&gt;
+&lt;li&gt;SSL termination&lt;/li&gt;
+&lt;li&gt;SSL certificate issuance, renewal, and installation via &lt;a href=&#34;https://letsencrypt.org/&#34; target=&#34;_blank&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Traefik also provides a suite of middleware to upgrade connections to HTTPS, provide basic authentication services, among many other functions. Traefik instructions can be written directly into an application&amp;rsquo;s docker-compose file, which means Traefik can configure itself automatically and dynamically as new containerized applications are deployed to Esmeralda.&lt;/p&gt;
+
+&lt;h3 id=&#34;ngrok-https-ngrok-com&#34;&gt;&lt;a href=&#34;https://ngrok.com/&#34; target=&#34;_blank&#34;&gt;ngrok&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;ngrok is a cross-platform application that enables a locally-hosted web server to be exposed to the internet. Installing ngrok on the host machine is quick and simple. Once you specify the listening port of the web server, the ngrok client will: (1) initiate a secure connection to the ngrok server, (2) create a TCP tunnel on an &lt;code&gt;.ngrok.io&lt;/code&gt; subdomain, and (3) route all HTTP traffic hitting the unique ngrok address to the specified port of your local host&amp;hellip; essentially bypassing firewall restrictions and NAT mappings to expose your local machine to the internet. Pretty cool! 😎
+&lt;figure&gt;
+  &lt;img style=&#34;border: 1px solid #bfbfbf;&#34; src=&#34;koha-personal.png&#34;&gt;
+  &lt;figcaption style=&#34;color:grey;&#34;&gt;Cataloging My Personal Library in Koha&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;ve made it this far, feel free to run a search or two for items in my personal &lt;a href=&#34;https://dzoladz-koha.ngrok.io/&#34; target=&#34;_blank&#34;&gt;Library Catalog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m using &lt;a href=&#34;https://koha-community.org/&#34; target=&#34;_blank&#34;&gt;Koha&lt;/a&gt; as my ILS and ngrok to expose it to the internet. I&amp;rsquo;ve only cataloged about 100+ items related to libraries, archives, and book history. Select you keywords accordingly. Sorry, no lending privileges yet&amp;hellip; that&amp;rsquo;s for another year.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2020... the year of the great learning</title>
@@ -767,15 +945,6 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Know the Lingo: How ILEAD Ohio Influenced Library Collaboration and Discovery for Patrons</title>
-      <link>https://www.derekzoladz.com/publication/know-the-lingo/</link>
-      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.derekzoladz.com/publication/know-the-lingo/</guid>
-      <description></description>
     </item>
     
   </channel>
