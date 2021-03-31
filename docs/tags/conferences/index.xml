@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>conferences on Derek Zoladz</title>
-    <link>https://www.derekzoladz.com/tags/conferences/</link>
+    <link>//dzoladz.github.io/website/tags/conferences/</link>
     <description>Recent content in conferences on Derek Zoladz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
     <lastBuildDate>Wed, 28 Oct 2020 11:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.derekzoladz.com/tags/conferences/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//dzoladz.github.io/website/tags/conferences/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2020... the year of the great learning</title>
-      <link>https://www.derekzoladz.com/post/2020alao/</link>
+      <link>//dzoladz.github.io/website/post/2020alao/</link>
       <pubDate>Wed, 28 Oct 2020 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/post/2020alao/</guid>
+      <guid>//dzoladz.github.io/website/post/2020alao/</guid>
       <description>One upside of 2020 has been the expansion of learning opportunities. Conferences with pricey registration fees or cost-prohibitive for travel reasons have become real opportunities, as library and library-adjacent conferences and workshops transition to online delivery. I&amp;rsquo;ve registered for three times as many conference as I would in a typical year, but I&amp;rsquo;ve also not attended most of those events. When the event actually gets here, there&amp;rsquo;s always other work that I find a better use my time.</description>
     </item>
     
     <item>
       <title>code{4}lib - Pittsburgh, PA</title>
-      <link>https://www.derekzoladz.com/post/2020code4lib/</link>
+      <link>//dzoladz.github.io/website/post/2020code4lib/</link>
       <pubDate>Sat, 14 Mar 2020 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/post/2020code4lib/</guid>
+      <guid>//dzoladz.github.io/website/post/2020code4lib/</guid>
       <description>Lots of Firsts at Code{4}lib 2020 Code{4}lib is the only major conference that I&amp;rsquo;ve attend with a single track. Most conferences are multi-track. At a multi-track conference, attendees gather for a keynote presentation to kick-off the event. But after that collective experience, everyone develops a self-selected path through simultaneously occurring presentations and activities. At Code{4}lib, all attendees experience the same sequence of sessions, lightning talks, breakouts, and keynotes presentations. There&amp;rsquo;s a definitively stronger sense of community that emerges with a single-track conference.</description>
     </item>
     

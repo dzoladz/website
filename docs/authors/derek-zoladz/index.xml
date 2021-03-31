@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Derek Zoladz</title>
-    <link>https://www.derekzoladz.com/authors/derek-zoladz/</link>
+    <link>//dzoladz.github.io/website/authors/derek-zoladz/</link>
     <description>Recent content on Derek Zoladz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
     <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.derekzoladz.com/authors/derek-zoladz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//dzoladz.github.io/website/authors/derek-zoladz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contextualizing EZproxy for Improved Troubleshooting and Problem Reports</title>
-      <link>https://www.derekzoladz.com/publication/contextualizing_ezproxy/</link>
+      <link>//dzoladz.github.io/website/publication/contextualizing_ezproxy/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/publication/contextualizing_ezproxy/</guid>
+      <guid>//dzoladz.github.io/website/publication/contextualizing_ezproxy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beam Me Up, Scotty: Migrating into an Evergreen Consortium</title>
-      <link>https://www.derekzoladz.com/publication/rightclick2017/</link>
+      <link>//dzoladz.github.io/website/publication/rightclick2017/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/publication/rightclick2017/</guid>
+      <guid>//dzoladz.github.io/website/publication/rightclick2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Know the Lingo: How ILEAD Ohio Influenced Library Collaboration and Discovery for Patrons</title>
-      <link>https://www.derekzoladz.com/publication/know-the-lingo/</link>
+      <link>//dzoladz.github.io/website/publication/know-the-lingo/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/publication/know-the-lingo/</guid>
+      <guid>//dzoladz.github.io/website/publication/know-the-lingo/</guid>
       <description></description>
     </item>
     

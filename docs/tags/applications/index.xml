@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>applications on Derek Zoladz</title>
-    <link>https://www.derekzoladz.com/tags/applications/</link>
+    <link>//dzoladz.github.io/website/tags/applications/</link>
     <description>Recent content in applications on Derek Zoladz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
     <lastBuildDate>Fri, 01 Jan 2021 11:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.derekzoladz.com/tags/applications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//dzoladz.github.io/website/tags/applications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Apps I&#39;m Taking into 2021</title>
-      <link>https://www.derekzoladz.com/post/2021apps/</link>
+      <link>//dzoladz.github.io/website/post/2021apps/</link>
       <pubDate>Fri, 01 Jan 2021 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/post/2021apps/</guid>
+      <guid>//dzoladz.github.io/website/post/2021apps/</guid>
       <description>While it&amp;rsquo;s a major challenge to identify all of the scripts, command line tools, and web-based applications that have influenced my thoughts and workflow over the previous year, here&amp;rsquo;s a set of applications that I&amp;rsquo;m excited to take with me into the new year.
 Wax Using minimal computing principles, Wax is a project that aims to facilitate the creation of digital exhibits using static site technologies. For librarians exploring digital technologies at cash-strapped institutions without a formal digital initiatives program, Wax is a lightweight and cheap (in terms of cost and maintenance) solution.</description>
     </item>
     
     <item>
       <title>code{4}lib - Pittsburgh, PA</title>
-      <link>https://www.derekzoladz.com/post/2020code4lib/</link>
+      <link>//dzoladz.github.io/website/post/2020code4lib/</link>
       <pubDate>Sat, 14 Mar 2020 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/post/2020code4lib/</guid>
+      <guid>//dzoladz.github.io/website/post/2020code4lib/</guid>
       <description>Lots of Firsts at Code{4}lib 2020 Code{4}lib is the only major conference that I&amp;rsquo;ve attend with a single track. Most conferences are multi-track. At a multi-track conference, attendees gather for a keynote presentation to kick-off the event. But after that collective experience, everyone develops a self-selected path through simultaneously occurring presentations and activities. At Code{4}lib, all attendees experience the same sequence of sessions, lightning talks, breakouts, and keynotes presentations. There&amp;rsquo;s a definitively stronger sense of community that emerges with a single-track conference.</description>
     </item>
     
     <item>
       <title>Apps I&#39;m Taking into 2020</title>
-      <link>https://www.derekzoladz.com/post/2019apps/</link>
+      <link>//dzoladz.github.io/website/post/2019apps/</link>
       <pubDate>Mon, 30 Dec 2019 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/post/2019apps/</guid>
+      <guid>//dzoladz.github.io/website/post/2019apps/</guid>
       <description>While it&amp;rsquo;s a major challenge to identify all of the scripts, command line tools, and web-based applications that have influenced my thoughts and workflow over the previous year, here&amp;rsquo;s a set of applications that I&amp;rsquo;m excited to take with me into the new year.
 Joplin
 Built upon node.js and electron, Joplin is an open source note taking application. At the moment, I&amp;rsquo;m using it as a well-structured notebook to recall quotes and collect ideas of all sorts.</description>
@@ -44,39 +44,39 @@ Built upon node.js and electron, Joplin is an open source note taking applicatio
     
     <item>
       <title>Curses, It&#39;s Glances</title>
-      <link>https://www.derekzoladz.com/post/glances/</link>
+      <link>//dzoladz.github.io/website/post/glances/</link>
       <pubDate>Sat, 30 Nov 2019 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/post/glances/</guid>
+      <guid>//dzoladz.github.io/website/post/glances/</guid>
       <description>There&amp;rsquo;s definitely an argument to be made for using lightweight apps that minimize installed dependencies in an effort to: (1) minimize the surface area for vulnerabilities and attack vectors, and (2) reduce application complexity for troubleshooting purposes when something inevitably goes wrong. However, there needs to be a balance between security gains and pleasure in using an application, what&amp;rsquo;s the point in installing it in the first place if you aren&amp;rsquo;t going to use it?</description>
     </item>
     
     <item>
       <title>Overview of My Personal Library</title>
-      <link>https://www.derekzoladz.com/post/my_library/</link>
+      <link>//dzoladz.github.io/website/post/my_library/</link>
       <pubDate>Thu, 03 Oct 2019 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/post/my_library/</guid>
+      <guid>//dzoladz.github.io/website/post/my_library/</guid>
       <description>On a day-to-day basis, I work with the Consortium of Ohio Libraries on their open-source ILS Evergreen. Whether it&amp;rsquo;s configuring new circulation policies, adjusting global system settings, or writing SQL to batch update item attributes, I&amp;rsquo;ve explored a significant chunk of Evergreen over the last 3 years. But it&amp;rsquo;s an understatment to say that Evergreen is a massive application. There&amp;rsquo;s still plenty of uncharted functionality.
 Evergreen&amp;rsquo;s architecture is designed for multi-tenancy out-of-the-box and built to scale to very large consortia.</description>
     </item>
     
     <item>
       <title>Why ls is exa</title>
-      <link>https://www.derekzoladz.com/post/exa/</link>
+      <link>//dzoladz.github.io/website/post/exa/</link>
       <pubDate>Fri, 09 Aug 2019 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/post/exa/</guid>
+      <guid>//dzoladz.github.io/website/post/exa/</guid>
       <description>One of the most common commands that I execute in the terminal is simply to list the contents of a directory. Since I do this so often, being able to quickly and easily digest vast amounts of information about the content of the directory is essential. That&amp;rsquo;s where exa shines.
 Out-of-the-box, the default color scheme of exa is finely tuned. I found the intricate use of subtle color distinctions distracting, rather than informative.</description>
     </item>
     
     <item>
       <title>Farewell, Nano</title>
-      <link>https://www.derekzoladz.com/post/farewell_nano/</link>
+      <link>//dzoladz.github.io/website/post/farewell_nano/</link>
       <pubDate>Thu, 06 Jun 2019 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/post/farewell_nano/</guid>
+      <guid>//dzoladz.github.io/website/post/farewell_nano/</guid>
       <description>Forever, I&amp;rsquo;ve used nano as my command-line text editor. I&amp;rsquo;ve never had an issue with it. In fact, it&amp;rsquo;s been so reliable that I&amp;rsquo;ve keep it around much longer than I should have. It still works well for most of my needs, but it&amp;rsquo;s time to expand my suite of skills and learn something new.
 That&amp;rsquo;s why I&amp;rsquo;m switching to vim.
 Out-of-the-box, vim is a tabula rasa, a blank slate, and it feels oddly empty.</description>
@@ -84,10 +84,10 @@ Out-of-the-box, vim is a tabula rasa, a blank slate, and it feels oddly empty.</
     
     <item>
       <title>Apps I&#39;m Taking into 2019</title>
-      <link>https://www.derekzoladz.com/post/2018apps/</link>
+      <link>//dzoladz.github.io/website/post/2018apps/</link>
       <pubDate>Mon, 31 Dec 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/post/2018apps/</guid>
+      <guid>//dzoladz.github.io/website/post/2018apps/</guid>
       <description>I should probably start off with a bit of a caveat.
 Okay. Now that we have that out of the way, here are a few of the apps that I&amp;rsquo;ve discovered over the last 365 days that I&amp;rsquo;ll be taking with me into 2019.
 PyCharm

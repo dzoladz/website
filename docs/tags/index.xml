@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Derek Zoladz</title>
-    <link>https://www.derekzoladz.com/tags/</link>
+    <link>//dzoladz.github.io/website/tags/</link>
     <description>Recent content in Tags on Derek Zoladz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
     <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.derekzoladz.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//dzoladz.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ALAO</title>
-      <link>https://www.derekzoladz.com/tags/alao/</link>
+      <link>//dzoladz.github.io/website/tags/alao/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/tags/alao/</guid>
+      <guid>//dzoladz.github.io/website/tags/alao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code4Lib</title>
-      <link>https://www.derekzoladz.com/tags/code4lib/</link>
+      <link>//dzoladz.github.io/website/tags/code4lib/</link>
       <pubDate>Sat, 14 Mar 2020 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/tags/code4lib/</guid>
+      <guid>//dzoladz.github.io/website/tags/code4lib/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TEDSIG</title>
-      <link>https://www.derekzoladz.com/tags/tedsig/</link>
+      <link>//dzoladz.github.io/website/tags/tedsig/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/tags/tedsig/</guid>
+      <guid>//dzoladz.github.io/website/tags/tedsig/</guid>
       <description></description>
     </item>
     
     <item>
       <title>applications</title>
-      <link>https://www.derekzoladz.com/tags/applications/</link>
+      <link>//dzoladz.github.io/website/tags/applications/</link>
       <pubDate>Fri, 01 Jan 2021 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/tags/applications/</guid>
+      <guid>//dzoladz.github.io/website/tags/applications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>conferences</title>
-      <link>https://www.derekzoladz.com/tags/conferences/</link>
+      <link>//dzoladz.github.io/website/tags/conferences/</link>
       <pubDate>Wed, 28 Oct 2020 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/tags/conferences/</guid>
+      <guid>//dzoladz.github.io/website/tags/conferences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dpla</title>
-      <link>https://www.derekzoladz.com/tags/dpla/</link>
+      <link>//dzoladz.github.io/website/tags/dpla/</link>
       <pubDate>Fri, 02 Mar 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/tags/dpla/</guid>
+      <guid>//dzoladz.github.io/website/tags/dpla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>speculative</title>
-      <link>https://www.derekzoladz.com/tags/speculative/</link>
+      <link>//dzoladz.github.io/website/tags/speculative/</link>
       <pubDate>Thu, 22 Oct 2020 11:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/tags/speculative/</guid>
+      <guid>//dzoladz.github.io/website/tags/speculative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>technology</title>
-      <link>https://www.derekzoladz.com/tags/technology/</link>
+      <link>//dzoladz.github.io/website/tags/technology/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.derekzoladz.com/tags/technology/</guid>
+      <guid>//dzoladz.github.io/website/tags/technology/</guid>
       <description></description>
     </item>
     
