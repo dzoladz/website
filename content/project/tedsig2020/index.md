@@ -13,7 +13,7 @@ summary = "Where traditional design attempts to solve problems, speculative desi
 image_preview = "tedsig2020/featured.png"
 
 # Tags: can be used for filtering projects.
-tags = ["technology"]
+tags = ["technology", "TEDSIG", "ALAO"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""

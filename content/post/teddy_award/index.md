@@ -1,7 +1,7 @@
 +++
 date = "2020-10-29T11:00:00"
 draft = true
-tags = ["conferences", "Applications"]
+tags = ["conferences", "applications"]
 title = "TEDDY Award"
 math = false
 summary = ""

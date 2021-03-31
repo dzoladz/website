@@ -14,7 +14,7 @@ summary = "A yearlong exploration of speculative design and libraries by TEDSIG"
 image_preview = "tedsig_futures/featured.png"
 
 # Tags: can be used for filtering projects.
-tags = ["technology", "TEDSIG"]
+tags = ["technology", "TEDSIG", "ALAO"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""
