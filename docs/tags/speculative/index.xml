@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>speculative on Derek Zoladz</title>
-    <link>//dzoladz.github.io/website/tags/speculative/</link>
+    <link>https://www.derekzoladz.com/tags/speculative/</link>
     <description>Recent content in speculative on Derek Zoladz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
     <lastBuildDate>Thu, 22 Oct 2020 11:00:00 +0000</lastBuildDate>
     
-	<atom:link href="//dzoladz.github.io/website/tags/speculative/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.derekzoladz.com/tags/speculative/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Design After the End of the World</title>
-      <link>//dzoladz.github.io/website/post/latitude_reading_group/</link>
+      <link>https://www.derekzoladz.com/post/latitude_reading_group/</link>
       <pubDate>Thu, 22 Oct 2020 11:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/post/latitude_reading_group/</guid>
+      <guid>https://www.derekzoladz.com/post/latitude_reading_group/</guid>
       <description>Intro After the success of TEDSIG|2020, TEDSIG membership was invited to participate in a speculative design reading group. Lead by Renee Albrecht-Mallinger - a design strategist, storyteller, educator, and futurist useing human-centered design methods to address problems of all sizes - and John Jung - a computer programmer and design methods workshop facilitator, the &amp;ldquo;Design After the End of the World: Speculative Design and Climate Reading Group&amp;rdquo; was opened for registration.</description>
     </item>
     

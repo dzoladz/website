@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Derek Zoladz on Derek Zoladz</title>
-    <link>//dzoladz.github.io/website/</link>
+    <link>https://www.derekzoladz.com/</link>
     <description>Recent content in Derek Zoladz on Derek Zoladz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
     <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/website/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Speculative Library Futures</title>
-      <link>//dzoladz.github.io/website/project/tedsig_futures/</link>
+      <link>https://www.derekzoladz.com/project/tedsig_futures/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/project/tedsig_futures/</guid>
+      <guid>https://www.derekzoladz.com/project/tedsig_futures/</guid>
       <description>
 
 &lt;div&gt;
@@ -78,10 +78,10 @@
     
     <item>
       <title>Apps I&#39;m Taking into 2021</title>
-      <link>//dzoladz.github.io/website/post/2021apps/</link>
+      <link>https://www.derekzoladz.com/post/2021apps/</link>
       <pubDate>Fri, 01 Jan 2021 11:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/post/2021apps/</guid>
+      <guid>https://www.derekzoladz.com/post/2021apps/</guid>
       <description>
 
 &lt;p&gt;While it&amp;rsquo;s a major challenge to identify all of the scripts, command line tools, and web-based applications that have influenced my thoughts and workflow over the previous year,
@@ -256,10 +256,10 @@ source.view()
     
     <item>
       <title>2020... the year of the great learning</title>
-      <link>//dzoladz.github.io/website/post/2020alao/</link>
+      <link>https://www.derekzoladz.com/post/2020alao/</link>
       <pubDate>Wed, 28 Oct 2020 11:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/post/2020alao/</guid>
+      <guid>https://www.derekzoladz.com/post/2020alao/</guid>
       <description>
 
 &lt;p&gt;One upside of 2020 has been the expansion of learning opportunities. Conferences with pricey registration fees or cost-prohibitive for travel reasons have become real opportunities, as library and library-adjacent conferences and workshops transition to online delivery. I&amp;rsquo;ve registered for three times as many conference as I would in a typical year, but I&amp;rsquo;ve also not attended most of those events. When the event actually gets here, there&amp;rsquo;s always other work that I find a better use my time. I guess that&amp;rsquo;s a consequence of free registration - although I&amp;rsquo;m not sure how it has been possible for so many organizations to offer free registration for their online events this year. There are plenty of tangible costs associated with a delivery of a fully online conference. Anyway&amp;hellip; that&amp;rsquo;s all a divergence from the intent of this post, which is to reflect upon my work for the &lt;a href=&#34;https://2020.alaoweb.org/&#34; target=&#34;_blank&#34;&gt;2020 ALAO Conference&lt;/a&gt;&lt;/p&gt;
@@ -508,10 +508,10 @@ Production and staging deployments of the 2020 conference website were handled b
     
     <item>
       <title>Design After the End of the World</title>
-      <link>//dzoladz.github.io/website/post/latitude_reading_group/</link>
+      <link>https://www.derekzoladz.com/post/latitude_reading_group/</link>
       <pubDate>Thu, 22 Oct 2020 11:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/post/latitude_reading_group/</guid>
+      <guid>https://www.derekzoladz.com/post/latitude_reading_group/</guid>
       <description>
 
 &lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
@@ -572,19 +572,19 @@ Production and staging deployments of the 2020 conference website were handled b
     
     <item>
       <title>Contextualizing EZproxy for Improved Troubleshooting and Problem Reports</title>
-      <link>//dzoladz.github.io/website/publication/contextualizing_ezproxy/</link>
+      <link>https://www.derekzoladz.com/publication/contextualizing_ezproxy/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/publication/contextualizing_ezproxy/</guid>
+      <guid>https://www.derekzoladz.com/publication/contextualizing_ezproxy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speculative Design &amp; Libraries</title>
-      <link>//dzoladz.github.io/website/project/tedsig2020/</link>
+      <link>https://www.derekzoladz.com/project/tedsig2020/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/project/tedsig2020/</guid>
+      <guid>https://www.derekzoladz.com/project/tedsig2020/</guid>
       <description>&lt;p&gt;As Co-Chair of the &lt;a href=&#34;https://www.alaoweb.org/igs/tedsig/index.html&#34; target=&#34;_blank&#34;&gt;Technical, Electronic, and Digital Services Interest Group&lt;/a&gt; (TEDSIG) - a community within the Academic Library Association of Ohio (ALAO) - my professional experiences have circumvented the shared set of historical struggles that define the group&amp;rsquo;s identity.&lt;/p&gt;
 
 &lt;p&gt;TEDSIG was founded in 1993 as the Technical Services Interest Group (TSIG). The interest group’s name and scope was changed in June 2007 to Technical, Electronic, and Digital Services Interest Group (TEDSIG) to better reflect the evolving status of the group’s constituents in traditional and emerging technologies. By the time that I began working at Columbus State Community College in 2008, it was evidently clear that the traditional role of technical service librarians was on the decline. As a new professional with a bias towards the use of technology in day-to-day library practices, I couldn&amp;rsquo;t understand why - or how -  the technological aspects of the profession were&amp;hellip; &lt;em&gt;on the way out&lt;/em&gt;?&lt;/p&gt;
@@ -615,10 +615,10 @@ Production and staging deployments of the 2020 conference website were handled b
     
     <item>
       <title>code{4}lib - Pittsburgh, PA</title>
-      <link>//dzoladz.github.io/website/post/2020code4lib/</link>
+      <link>https://www.derekzoladz.com/post/2020code4lib/</link>
       <pubDate>Sat, 14 Mar 2020 11:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/post/2020code4lib/</guid>
+      <guid>https://www.derekzoladz.com/post/2020code4lib/</guid>
       <description>
 
 &lt;h3 id=&#34;lots-of-firsts-at-code-4-lib-2020&#34;&gt;Lots of Firsts at Code{4}lib 2020&lt;/h3&gt;
@@ -654,7 +654,7 @@ Production and staging deployments of the 2020 conference website were handled b
 
 &lt;p&gt;As such, I stopped by the &lt;a href=&#34;https://samvera.org/&#34; target=&#34;_blank&#34;&gt;Samvera&lt;/a&gt; community table during one the breaks for a brief chat about the &lt;a href=&#34;https://www.hykuforconsortia.org/&#34; target=&#34;_blank&#34;&gt;Hyku for Consortia&lt;/a&gt; project.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;//dzoladz.github.io/website/website/post/2020code4lib/hyku_for_consortia.png&#34; alt=&#34;Hexagon-shaped sticker showing Hyku for Consortia logo&#34; title=&#34;Hexagon-shaped sticker showing Hyku for Consortia logo&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.derekzoladz.com/website/post/2020code4lib/hyku_for_consortia.png&#34; alt=&#34;Hexagon-shaped sticker showing Hyku for Consortia logo&#34; title=&#34;Hexagon-shaped sticker showing Hyku for Consortia logo&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;{{&#34; alt=&#34;Hexagon-shaped sticker showing Hyku for Consortia logo&#34; title=&#34;hyku_for_consortia.png&amp;quot; | relURL }} &amp;quot;Hexagon-shaped sticker showing Hyku for Consortia logo&#34; /&gt;&lt;/p&gt;
 
@@ -683,10 +683,10 @@ An alternative to &lt;a href=&#34;https://www.selenium.dev/&#34; target=&#34;_bl
     
     <item>
       <title>Apps I&#39;m Taking into 2020</title>
-      <link>//dzoladz.github.io/website/post/2019apps/</link>
+      <link>https://www.derekzoladz.com/post/2019apps/</link>
       <pubDate>Mon, 30 Dec 2019 11:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/post/2019apps/</guid>
+      <guid>https://www.derekzoladz.com/post/2019apps/</guid>
       <description>&lt;p&gt;While it&amp;rsquo;s a major challenge to identify all of the scripts, command line tools, and web-based applications that have influenced my thoughts and workflow over the previous year,
 here&amp;rsquo;s a set of applications that I&amp;rsquo;m excited to take with me into the new year.&lt;/p&gt;
 
@@ -712,10 +712,10 @@ According to the project website, &amp;ldquo;GitLab is a complete DevOps platfor
     
     <item>
       <title>Curses, It&#39;s Glances</title>
-      <link>//dzoladz.github.io/website/post/glances/</link>
+      <link>https://www.derekzoladz.com/post/glances/</link>
       <pubDate>Sat, 30 Nov 2019 11:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/post/glances/</guid>
+      <guid>https://www.derekzoladz.com/post/glances/</guid>
       <description>
 
 &lt;p&gt;There&amp;rsquo;s definitely an argument to be made for using lightweight apps that minimize installed dependencies in an effort to: (1) minimize the surface area for vulnerabilities and attack vectors, and (2) reduce application complexity for  troubleshooting purposes when something inevitably goes wrong. However, there needs to be a balance between security gains and pleasure in using an application, what&amp;rsquo;s the point in installing it in the first place if you aren&amp;rsquo;t going to use it?&lt;/p&gt;
@@ -764,10 +764,10 @@ According to the project website, &amp;ldquo;GitLab is a complete DevOps platfor
     
     <item>
       <title>Overview of My Personal Library</title>
-      <link>//dzoladz.github.io/website/post/my_library/</link>
+      <link>https://www.derekzoladz.com/post/my_library/</link>
       <pubDate>Thu, 03 Oct 2019 11:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/post/my_library/</guid>
+      <guid>https://www.derekzoladz.com/post/my_library/</guid>
       <description>&lt;p&gt;On a day-to-day basis, I work with the &lt;a href=&#34;http://info.cool-cat.org/&#34; target=&#34;_blank&#34;&gt;Consortium of Ohio Libraries&lt;/a&gt; on their open-source ILS &lt;a href=&#34;https://evergreen-ils.org/&#34; target=&#34;_blank&#34;&gt;Evergreen&lt;/a&gt;. Whether it&amp;rsquo;s configuring new circulation policies, adjusting global system settings, or writing SQL to batch update item attributes, I&amp;rsquo;ve explored a significant chunk of Evergreen over the last 3 years. But it&amp;rsquo;s an understatment to say that Evergreen is a massive application. There&amp;rsquo;s still plenty of uncharted functionality.&lt;/p&gt;
 
 &lt;p&gt;Evergreen&amp;rsquo;s architecture is designed for multi-tenancy out-of-the-box and built to scale to very large consortia. In the United States, it&amp;rsquo;s the platform for a number of large public library consortia. For a personal library, it&amp;rsquo;s overkill. Developing a personal library is also an opportunity to explore the setup and administer another ILS.&lt;/p&gt;
@@ -784,16 +784,16 @@ According to the project website, &amp;ldquo;GitLab is a complete DevOps platfor
 &lt;/ul&gt;
 
 &lt;p&gt;I&amp;rsquo;ll be cataloging my personal collection of library-related books on my local network using the following hardware.
-&lt;video controls src=&#34;//dzoladz.github.io/website/post/my_library/koha_server.mp4&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;video controls src=&#34;https://www.derekzoladz.com/post/my_library/koha_server.mp4&#34;&gt;&lt;/video&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Why ls is exa</title>
-      <link>//dzoladz.github.io/website/post/exa/</link>
+      <link>https://www.derekzoladz.com/post/exa/</link>
       <pubDate>Fri, 09 Aug 2019 11:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/post/exa/</guid>
+      <guid>https://www.derekzoladz.com/post/exa/</guid>
       <description>&lt;p&gt;One of the most common commands that I execute in the terminal is simply to list the contents of a directory. Since I do this so often, being able to quickly and easily digest vast amounts of information about the content of the directory is essential. That&amp;rsquo;s where &lt;a href=&#34;https://the.exa.website/&#34; target=&#34;_blank&#34;&gt;exa&lt;/a&gt; shines.&lt;/p&gt;
 
 &lt;p&gt;Out-of-the-box, the default color scheme of &lt;code&gt;exa&lt;/code&gt; is finely tuned. I found the intricate use of subtle color distinctions distracting, rather than informative. As such, I would need to modify the color definitions to suit my personal goals of: (1) being able to easily differentiate between directory content that my current user owns or is a member of the assigned group, (2) rapidly distinguish between files and directories, and (3) generally list common metadata elements that experiencing has shown to be frequently useful in troubleshooting an issue.&lt;/p&gt;
@@ -842,10 +842,10 @@ xa=37&amp;quot;
     
     <item>
       <title>Farewell, Nano</title>
-      <link>//dzoladz.github.io/website/post/farewell_nano/</link>
+      <link>https://www.derekzoladz.com/post/farewell_nano/</link>
       <pubDate>Thu, 06 Jun 2019 11:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/post/farewell_nano/</guid>
+      <guid>https://www.derekzoladz.com/post/farewell_nano/</guid>
       <description>&lt;p&gt;Forever, I&amp;rsquo;ve used &lt;code&gt;nano&lt;/code&gt; as my command-line text editor. I&amp;rsquo;ve never had an issue with it. In fact, it&amp;rsquo;s been so reliable that I&amp;rsquo;ve keep it around much longer than I should have. It still works well for most of my needs, but it&amp;rsquo;s time to expand my suite of skills and learn something new.&lt;/p&gt;
 
 &lt;p&gt;That&amp;rsquo;s why I&amp;rsquo;m switching to &lt;code&gt;vim&lt;/code&gt;.&lt;/p&gt;
@@ -869,10 +869,10 @@ xa=37&amp;quot;
     
     <item>
       <title>Apps I&#39;m Taking into 2019</title>
-      <link>//dzoladz.github.io/website/post/2018apps/</link>
+      <link>https://www.derekzoladz.com/post/2018apps/</link>
       <pubDate>Mon, 31 Dec 2018 11:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/post/2018apps/</guid>
+      <guid>https://www.derekzoladz.com/post/2018apps/</guid>
       <description>&lt;p&gt;I should probably start off with a bit of a caveat.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/TTRyEOT.jpg&#34; alt=&#34;image of Steve Jobs calling all categories of computer program an app.&#34; /&gt;&lt;/p&gt;
@@ -904,10 +904,10 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
     
     <item>
       <title>Ohio Digital Network Launches</title>
-      <link>//dzoladz.github.io/website/post/dpla/</link>
+      <link>https://www.derekzoladz.com/post/dpla/</link>
       <pubDate>Fri, 02 Mar 2018 11:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/post/dpla/</guid>
+      <guid>https://www.derekzoladz.com/post/dpla/</guid>
       <description>&lt;p&gt;Participating in the early group for the technical infrastructure for this project - simply called &amp;lsquo;DPLA Ohio&amp;rsquo; at the time - shaped the trajectory of my career firmly towards technology. Check out the &lt;a href=&#34;https://library.ohio.gov/news/ohio-digital-network-collections-debuts-dpla/&#34; target=&#34;_blank&#34;&gt;State Library of Ohio&amp;rsquo;s announcement&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;And the, visit the &lt;a href=&#34;https://ohiodigitalnetwork.org/&#34; target=&#34;_blank&#34;&gt;Ohio Digital Network&lt;/a&gt;!&lt;/p&gt;
@@ -916,10 +916,10 @@ A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve u
     
     <item>
       <title>Beam Me Up, Scotty: Migrating into an Evergreen Consortium</title>
-      <link>//dzoladz.github.io/website/publication/rightclick2017/</link>
+      <link>https://www.derekzoladz.com/publication/rightclick2017/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>//dzoladz.github.io/website/publication/rightclick2017/</guid>
+      <guid>https://www.derekzoladz.com/publication/rightclick2017/</guid>
       <description></description>
     </item>
     
