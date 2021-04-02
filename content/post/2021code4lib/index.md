@@ -47,5 +47,7 @@ Members of the 2021 Website Working Group are as follows:
 ### T-Shirt
 Geometric theme inspired by this year's conference website
 
-![t-shirt](2021-tshirt.png)
+<div style="width: 50%; border: 1px solid black; padding: 2em; margin: auto;">
+  <img src="2021-tshirt.png" style="border: 1px solid red;">
+</div>
 
