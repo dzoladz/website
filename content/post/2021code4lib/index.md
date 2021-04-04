@@ -40,14 +40,34 @@ Members of the 2021 Website Working Group are as follows:
 
 
 ### Major Contributions
-- Dark Mode (80s roller rink) - 
+
+After the routine maintanence and generalized updating the occurs as a conference website moves through the phases of its purpose and utility to conference attendees, there are three areas of focused improvement.
+
+#### Dark Mode
+
+With the 2021 conference being fully online and remote, we didn't have the host city's skyline to guide the tone and choice of colors for the theme.
+During our initial 
+we attempted to retain a sense of place by proposing the use of a fictional city, but eventually settled on a vibrant pastel palette with geometric design.
+Doing so provided us with an opportunity to create a 'dark mode', creating the overall look-and-feel for the site that was reminisent of a 1980s roller rink.
+
+#### Design Page
+
+theme design - typography https://2021.code4lib.org/color-test.html
+
+#### Accessibility Improvements
+
 - 'Skip to content' Links - Accessibility
-- Design Page - theme design - typography https://2021.code4lib.org/color-test.html
 
-### T-Shirt
-Geometric theme inspired by this year's conference website
 
-<div style="width: 50%; border: 1px solid black; padding: 2em; margin: auto;">
-  <img src="2021-tshirt.png" style="border: 1px solid red;">
+
+### Conference T-Shirt
+Directly influenced by the geometric theme of this year's conference website, the winning t-shirt design prominently displayed the icosahedron.
+
+<div style="width: 50%; border: 1px solid black; padding: 1em; margin: 1em auto;">
+  <img src="2021-tshirt.png" style="border: 1px solid red; margin: 0px;">
+  Julia Caffery-Hill's Design
 </div>
 
+<hr/>
+
+If they're in, I'm in. 🚀 TO 🚀 THE 🚀 2022 CONFERENCE 🚀
