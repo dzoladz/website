@@ -52,7 +52,9 @@ Doing so provided us with an opportunity to create a 'dark mode', creating the o
 
 #### Design Page
 
-theme design - typography https://2021.code4lib.org/color-test.html
+theme design and application guidelines to standarize the application of recurring UI elements- typography https://2021.code4lib.org/color-test.html
+
+![a screenshot depicting the primary user interface button colors](theme_guideline.png)
 
 #### Accessibility Improvements
 
