@@ -1,88 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Derek Zoladz</title>
+    <title>Tags | Derek Zoladz</title>
     <link>https://www.derekzoladz.com/tags/</link>
-    <description>Recent content in Tags on Derek Zoladz</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.derekzoladz.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>ALAO</title>
-      <link>https://www.derekzoladz.com/tags/alao/</link>
-      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.derekzoladz.com/tags/alao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Code4Lib</title>
-      <link>https://www.derekzoladz.com/tags/code4lib/</link>
-      <pubDate>Sat, 14 Mar 2020 11:00:00 +0000</pubDate>
-      
-      <guid>https://www.derekzoladz.com/tags/code4lib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TEDSIG</title>
-      <link>https://www.derekzoladz.com/tags/tedsig/</link>
-      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.derekzoladz.com/tags/tedsig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>applications</title>
-      <link>https://www.derekzoladz.com/tags/applications/</link>
-      <pubDate>Fri, 01 Jan 2021 11:00:00 +0000</pubDate>
-      
-      <guid>https://www.derekzoladz.com/tags/applications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>conferences</title>
-      <link>https://www.derekzoladz.com/tags/conferences/</link>
-      <pubDate>Wed, 28 Oct 2020 11:00:00 +0000</pubDate>
-      
-      <guid>https://www.derekzoladz.com/tags/conferences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dpla</title>
-      <link>https://www.derekzoladz.com/tags/dpla/</link>
-      <pubDate>Fri, 02 Mar 2018 11:00:00 +0000</pubDate>
-      
-      <guid>https://www.derekzoladz.com/tags/dpla/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>speculative</title>
-      <link>https://www.derekzoladz.com/tags/speculative/</link>
-      <pubDate>Thu, 22 Oct 2020 11:00:00 +0000</pubDate>
-      
-      <guid>https://www.derekzoladz.com/tags/speculative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>technology</title>
-      <link>https://www.derekzoladz.com/tags/technology/</link>
-      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.derekzoladz.com/tags/technology/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://www.derekzoladz.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Derek C. Zoladz</copyright><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://www.derekzoladz.com/tags/</link>
+    </image>
     
   </channel>
 </rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Derek Zoladz</title>
+    <link>https://www.derekzoladz.com/publication-type/1/</link>
+      <atom:link href="https://www.derekzoladz.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Derek C. Zoladz</copyright><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://www.derekzoladz.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Contextualizing EZproxy for Improved Troubleshooting and Problem Reports</title>
+      <link>https://www.derekzoladz.com/publication/contextualizing_ezproxy/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.derekzoladz.com/publication/contextualizing_ezproxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beam Me Up, Scotty: Migrating into an Evergreen Consortium</title>
+      <link>https://www.derekzoladz.com/publication/rightclick2017/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.derekzoladz.com/publication/rightclick2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -40,6 +40,7 @@ tags = ["technology", "TEDSIG", "ALAO"]
 
 
 <hr/>
+
 - Publication: [Speculative Library Futures | Post-Pandemic Libraries](https://futures.alaoweb.org)
 - doi: [doi.org/10.5281/zenodo.4606860](http://doi.org/10.5281/zenodo.4606860)
 

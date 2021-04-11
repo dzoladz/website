@@ -3,13 +3,14 @@
   <channel>
     <title>Derek Zoladz</title>
     <link>https://www.derekzoladz.com/author/admin/</link>
-    <description>Recent content on Derek Zoladz</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
-    
-	<atom:link href="https://www.derekzoladz.com/author/admin/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.derekzoladz.com/author/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Derek Zoladz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Derek C. Zoladz</copyright>
+    <image>
+      <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_2.png</url>
+      <title>Derek Zoladz</title>
+      <link>https://www.derekzoladz.com/author/admin/</link>
+    </image>
     
   </channel>
 </rss>

@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Derek Zoladz</title>
+    <title>Publication_types | Derek Zoladz</title>
     <link>https://www.derekzoladz.com/publication_types/</link>
-    <description>Recent content in Publication_types on Derek Zoladz</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Derek C. Zoladz</copyright>
-    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.derekzoladz.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>1</title>
-      <link>https://www.derekzoladz.com/publication_types/1/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.derekzoladz.com/publication_types/1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>https://www.derekzoladz.com/publication_types/2/</link>
-      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.derekzoladz.com/publication_types/2/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://www.derekzoladz.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Derek C. Zoladz</copyright><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication_types</title>
+      <link>https://www.derekzoladz.com/publication_types/</link>
+    </image>
     
   </channel>
 </rss>
