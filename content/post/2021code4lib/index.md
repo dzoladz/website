@@ -65,11 +65,9 @@ theme design and application guidelines to standarize the application of recurri
 ### Conference T-Shirt
 Directly influenced by the geometric theme of this year's conference website, the winning t-shirt design prominently displayed the icosahedron.
 
-<div style="width: 50%; border: 1px solid black; padding: 1em; margin: 1em auto;">
-  <img src="2021-tshirt.png" style="border: 1px solid red; margin: 0px;">
-  Julia Caffery-Hill's Design
+<div style="width: 50%; border: 1px solid black; padding: 1em 1em 0 1em; margin: 1em auto; background-color: #f0f0f0;">
+  <img src="2021-tshirt.png" style="border: 1px solid black; margin: 0px; padding: 1em; background-color: white;">
+  <p style="text-align: center; margin: 0px; padding: .5em;">Julia Caffery-Hill's Design</p>
 </div>
 
 <hr/>
-
-If they're in, I'm in. 🚀 TO 🚀 THE 🚀 2022 CONFERENCE 🚀
