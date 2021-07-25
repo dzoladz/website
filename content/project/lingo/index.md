@@ -37,7 +37,7 @@ Myself, and a former CSCC colleague Julie Zaveloff, were selected as part of the
 
 - Kirstin Krumsee, State Library of Ohio
 - Jessica Crossfield McIntosh, Otterbein University
-- David Green, OhioNET
+- David Green, OhioNet
 
 {{< figure src="zoladz-zaveloff.jpg" title="Derek Zoladz and Julie Zaveloff" caption="Columbus State Librarians selected for ILEAD USA - OHIO 2013" attr="">}}
 

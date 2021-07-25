@@ -13,7 +13,7 @@ role = "Library Systems Analyst"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "OhioNET", url = "https://www.ohionet.org/" } ]
+organizations = [ { name = "OhioNet", url = "https://www.ohionet.org/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Focusing on cultural heritage institutions: discovery applications, data (and metadata) wrangling, web development, process automation, and system integration."

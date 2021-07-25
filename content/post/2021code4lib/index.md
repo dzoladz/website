@@ -30,7 +30,7 @@ Site: [https://2021.code4lib.org/](https://2021.code4lib.org/)
 #### Team
 Members of the 2021 Website Working Group are as follows:
 
-- Derek Zoladz (OhioNET, Chair)
+- Derek Zoladz (OhioNet, Chair)
 - Julia Caffrey-Hill (Towson University, Co-Chair)
 - Cary Gordon (Cherry Hill Company, Planning Committee Contact)
 - Jerry Yarnetsky (Miami University, Documentarian)
