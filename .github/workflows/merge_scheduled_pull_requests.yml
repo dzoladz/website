@@ -5,7 +5,7 @@ on:
       - opened
       - edited
   schedule:
-    - cron: 25 21 * * *
+    - cron: 00 03 * * *
 
 jobs:
   merge_scheduled_pull_requests:
