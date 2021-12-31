@@ -5,12 +5,55 @@
     <link>https://www.derekzoladz.com/tag/applications/</link>
       <atom:link href="https://www.derekzoladz.com/tag/applications/index.xml" rel="self" type="application/rss+xml" />
     <description>applications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Derek C. Zoladz</copyright><lastBuildDate>Fri, 01 Jan 2021 11:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Derek C. Zoladz</copyright><lastBuildDate>Fri, 31 Dec 2021 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_2.png</url>
       <title>applications</title>
       <link>https://www.derekzoladz.com/tag/applications/</link>
     </image>
+    
+    <item>
+      <title>2022 Apps, A Bit Differently</title>
+      <link>https://www.derekzoladz.com/post/2022apps/</link>
+      <pubDate>Fri, 31 Dec 2021 11:00:00 +0000</pubDate>
+      <guid>https://www.derekzoladz.com/post/2022apps/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Duane Hanson &lt;em&gt;Janitor&lt;/em&gt;, sculpture at the &lt;a href=&#34;https://mam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Milwaukee Museum of Art&lt;/a&gt; (DCZ, photo taken 2021)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As you turn the corner into the museum&amp;rsquo;s main gallery space, you&amp;rsquo;re greeted with the small, unassuming
+figure of a middle-aged man. Fatigued, dirty, and weary from their labor, a familiar sense of
+exhaustion that arrives towards the end of the work week. For an instant, it&amp;rsquo;s real. And then, without hesitation,
+it becomes hallucinatory. All too quickly, you regain your wits and realize it&amp;rsquo;s a simulation. A gift.
+A hyperreal sculpture from the artist, Duane Hanson.&lt;/p&gt;
+&lt;p&gt;That instant, from hallucination to realization, perfectly describes the speed of the previous two years.
+Time feels impossibly condensed, dehydrated, motionless&amp;hellip; and yet, somehow, more thoroughly exhausting.
+As if the unfolding of the last two years occurred while trying to determine the  nature of the figure
+in the foreground. Once you finally realize that it&amp;rsquo;s a sculpture, you&amp;rsquo;d still be in the same place, but different.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll be making few plans for 2022. It will be a year of recuperation, thinking, rediscovering inspiration,
+and adjustment. That&amp;rsquo;s why I&amp;rsquo;m creating a set of aspirations for the new year, rather than highlighting
+the tools that I&amp;rsquo;ll be &amp;lsquo;taking with me into the new year&amp;rsquo;.&lt;/p&gt;
+&lt;h2 id=&#34;perhaps-ill-find-some-time-to-explore&#34;&gt;Perhaps, I&amp;rsquo;ll find some time to explore&amp;hellip;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.astro.build/getting-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Astro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mongodb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mongodb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://threejs.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Three.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Django, the local library website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://antonz.org/python-packaging/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python Packaging&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;video type=&#34;video/mp4&#34; src=&#34;https://video.twimg.com/tweet_video/E90y027VgAAhMLa.mp4&#34; controls=&#34;true&#34; autoplay=&#34;true&#34; loop=&#34;true&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nicole Fitzgerald, &lt;a href=&#34;https://twitter.com/ninklefitz/status/1431356230056828930&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Experimental Design Language&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;but-ill-be-prioritizing-restorative-practices-consuming-art-reading-philosophy-etc&#34;&gt;But, I&amp;rsquo;ll be prioritizing restorative practices (consuming art, reading philosophy, etc.)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://the-intersection.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Intersection, Superflux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://possibilitystudies.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Possibility Studies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://futurespodcast.net/episodes/37-thomasmoynihan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thomas Moynihan, Futures Podcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://anticipationconference.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anticipation Conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://theconvivialsociety.substack.com/p/the-human-built-world-is-not-built?token=eyJ1c2VyX2lkIjo0MzEwMDA1MywicG9zdF9pZCI6NDM5MzA4MjgsIl8iOiJOVFEwSCIsImlhdCI6MTY0MDM2MTk0MiwiZXhwIjoxNjQwMzY1NTQyLCJpc3MiOiJwdWItNjk4MCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.xnYFQq8Ss_GuHONzJwzHs9cfnQtskgYM7OLPyPiB2iE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Human-Built World Is Not Built For Humans&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Apps I&#39;m Taking into 2021</title>
