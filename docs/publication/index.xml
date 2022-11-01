@@ -5,12 +5,20 @@
     <link>https://www.derekzoladz.com/publication/</link>
       <atom:link href="https://www.derekzoladz.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Derek C. Zoladz</copyright><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Derek C. Zoladz</copyright><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://www.derekzoladz.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Contactless Library Service: Case Studies from Ohio&#39;s Private Libraries</title>
+      <link>https://www.derekzoladz.com/publication/contactless-services/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.derekzoladz.com/publication/contactless-services/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contextualizing EZproxy for Improved Troubleshooting and Problem Reports</title>
