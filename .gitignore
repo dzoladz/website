@@ -5,3 +5,4 @@ __pycache__/
 .atom
 .editorconfig
 resources/
+.hugo_build.lock
