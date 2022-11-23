@@ -107,9 +107,9 @@ user_groups = ["Researchers", "Visitors"]
   link = "//osf.io/4k8vd/"
   
 [[social]]
-  icon = "twitter"
+  icon = "fa-mastodon"
   icon_pack = "fab"
-  link = "//twitter.com/derek_zoladz"
+  link = "//code4lib.social/@derekz"
   
 [[social]]
   icon = "dungeon"
