@@ -107,7 +107,7 @@ user_groups = ["Researchers", "Visitors"]
   link = "//osf.io/4k8vd/"
   
 [[social]]
-  icon = "fa-mastodon"
+  icon = "mastodon"
   icon_pack = "fab"
   link = "//code4lib.social/@derekz"
   
