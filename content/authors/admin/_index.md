@@ -93,9 +93,9 @@ user_groups = ["Researchers", "Visitors"]
   link = "//publons.com/researcher/2443364/derek-c-zoladz/"
 
 [[social]]
-  icon = "gitlab"
+  icon = "linkedin"
   icon_pack = "fab"
-  link = "//gitlab.com/dzoladz"
+  link = "//www.linkedin.com/in/derek-zoladz/"
 
 [[social]]
   icon = "docker"
