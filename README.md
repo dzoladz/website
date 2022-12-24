@@ -1,3 +1,6 @@
+# TO-DO
+- [ ] Add `rel=me` [docs](https://indiewebify.me/validate-rel-me/)
+
 # Troubleshooting
 
 ## failed to resolve output
