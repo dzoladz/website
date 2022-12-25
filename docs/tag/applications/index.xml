@@ -5,12 +5,70 @@
     <link>https://www.derekzoladz.com/tag/applications/</link>
       <atom:link href="https://www.derekzoladz.com/tag/applications/index.xml" rel="self" type="application/rss+xml" />
     <description>applications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Derek C. Zoladz</copyright><lastBuildDate>Fri, 31 Dec 2021 11:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Derek C. Zoladz</copyright><lastBuildDate>Fri, 23 Dec 2022 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
       <title>applications</title>
       <link>https://www.derekzoladz.com/tag/applications/</link>
     </image>
+    
+    <item>
+      <title>Apps I&#39;m Taking into 2023</title>
+      <link>https://www.derekzoladz.com/post/2023apps/</link>
+      <pubDate>Fri, 23 Dec 2022 11:00:00 +0000</pubDate>
+      <guid>https://www.derekzoladz.com/post/2023apps/</guid>
+      <description>&lt;p&gt;While it&amp;rsquo;s a major challenge to identify all of the scripts, command line tools, and web-based applications that have influenced my thoughts and workflow over the previous year,
+here&amp;rsquo;s a set of applications that I&amp;rsquo;m excited to take with me into the new year.&lt;/p&gt;
+&lt;h3 id=&#34;d2httpsd2langcomtourintro&#34;&gt;&lt;a href=&#34;https://d2lang.com/tour/intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;D2&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Visual expressions are a regular and important part of the documentation process. I organize my thoughts and presentations with diagrams, so it&amp;rsquo;s not surprising that I&amp;rsquo;ve discovered another tool to add to my arsenal. Last year, it was &lt;a href=&#34;https://mermaid.js.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mermaind.js&lt;/a&gt;. For this coming year, I&amp;rsquo;ll be exploring D2.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://d2lang.com/tour/intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;D2&lt;/a&gt; is a declarative, diagramming language. In the simplest terms, you describe the end state of a diagram in text, while D2 renders the textual definitions into a image of the diagram.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img style=&#34;border: 1px solid #bfbfbf;&#34; src=&#34;d2-diagram.png&#34;&gt;
+  &lt;figcaption style=&#34;color:grey;&#34;&gt;Diagram Rendered by D2 &lt;a href=&#34;https://d2lang.com/tour/install&#34;&gt;[documentation]&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3 id=&#34;koodo-readerhttpsgithubcomtroyeguokoodo-reader&#34;&gt;&lt;a href=&#34;https://github.com/troyeguo/koodo-reader&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koodo Reader&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Koodo Reader is a cross-platform, open source reader for a variety of common ebook formats and document types. Binaries are available for Windows, macOS, and all Linux distributions. There&amp;rsquo;s also a a web-based implementation, if you prefer to run the reader on localhost. I&amp;rsquo;ve been using this application for several months now. Although there are a few quirks at times with the reflowing to text, the ability to easily access documentation in a book-like manner has been quite fun.&lt;/p&gt;
+&lt;p&gt;Format support:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;EPUB (.epub)&lt;/li&gt;
+&lt;li&gt;Scanned document (.pdf, .djvu)&lt;/li&gt;
+&lt;li&gt;DRM-free Mobipocket (.mobi) and Kindle (.azw3)&lt;/li&gt;
+&lt;li&gt;Plain text (.txt)&lt;/li&gt;
+&lt;li&gt;FictionBook (.fb2)&lt;/li&gt;
+&lt;li&gt;Comic book archive (.cbr, .cbz, .cbt)&lt;/li&gt;
+&lt;li&gt;Rich text (.md, .docx, .rtf)&lt;/li&gt;
+&lt;li&gt;Hyper Text (.html, .xml, .xhtml, .htm)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+  &lt;img style=&#34;border: 1px solid #bfbfbf;&#34; src=&#34;koodo-reader.png&#34;&gt;
+  &lt;figcaption style=&#34;color:grey;&#34;&gt;Koodo Reader Interface &lt;a href=&#34;https://koodo.960960.xyz/en&#34;&gt;[documentation]&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;If you&amp;rsquo;re on macOS and using Brew as your package manager, installation couldn&amp;rsquo;t be simpler.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;brew install --cask koodo-reader
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;giteahttpsgiteaioen-us&#34;&gt;&lt;a href=&#34;https://gitea.io/en-us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gitea&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;For the better part of the last six year, I&amp;rsquo;ve contributed the majority of my code to public and private repositories on Microsoft&amp;rsquo;s GitHub platform. Starting with my employment at the &lt;a href=&#34;https://www.oplin.ohio.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ohio Public Library Information Network&lt;/a&gt;, I&amp;rsquo;ll be contributing a lot more of my code to our internal Gitea instance.&lt;/p&gt;
+&lt;p&gt;Perhaps you&amp;rsquo;ve spotted a trend of using open source solutions, whenever possible. Gitea is no different. Gitea is an open source, git-based version control system. At OPLIN, we self-host a number of applications that faciliate our daily work, monitor our services to Ohio&amp;rsquo;s public libraries, and maintain our internal knowledge base and business processes. While Gitea lacks some of the out-of-the-box features I&amp;rsquo;m familiar with on GitHub, those missing features were value-add rather than mission critical. The improved securty of our internal applications are well worth these minimal tradeoffs.&lt;/p&gt;
+&lt;h3 id=&#34;metatexthttpsgithubcommetabolistmetatext&#34;&gt;&lt;a href=&#34;https://github.com/metabolist/metatext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Metatext&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;With the implosion of the bird-site at the end of 2022, I&amp;rsquo;m moving to a &amp;ldquo;Mastodon first&amp;rdquo; approach. Metatext is the iPhone app that I&amp;rsquo;m using to interact with the fediverse. It&amp;rsquo;s a free, open source &lt;a href=&#34;https://joinmastodon.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mastodon&lt;/a&gt; client. With the rapid, exponential growth of Mastodon&amp;rsquo;s community over the last few weeks, Metatext is looking for new maintainers to ensure the viability of an open source iOS client into the future.&lt;/p&gt;
+&lt;p&gt;Care to connect? You can find me on the extremely small &lt;a href=&#34;https://code4lib.org/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code4Lib&lt;/a&gt; instance at &lt;code&gt;@derekz@code4lib.social&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;vs-codehttpscodevisualstudiocom&#34;&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VS Code&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;During my tenure at OhioNet, I was exclusively working with PyCharm as my integrated development environment. PyCharm is a complete solution for Python development. IntelliJ&amp;rsquo;s philosophy is along the lines of, &amp;ldquo;Here are the best in class tools, go forth&amp;rdquo;. Launch the application and you&amp;rsquo;re ready to write code.&lt;/p&gt;
+&lt;p&gt;Visual Studio Code is more of a &amp;ldquo;Roll your Own&amp;rdquo; solution. Out-of-the-box, it&amp;rsquo;s a blank slate that you customize through extensions. The difficulty is not the availability of customization options. There are a plethora of extensions in the marketplace. The challenge is finding the robust and lightweight set of extensions that possess the features that you require, without too much in the way of creating a time-consuming administrative nightmare.&lt;/p&gt;
+&lt;p&gt;Here are a few extentions I&amp;rsquo;m using:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vscode-sqltools.mteixeira.dev/en/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SQLTools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Microsoft/vscode-python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VS Code Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kbrose/vsc-python-indent&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python Indent&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/oderwat/vscode-indent-rainbow#indent-rainbow&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indent Rainbow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mechatroner/vscode_rainbow_csv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSV Rainbow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+  &lt;img style=&#34;border: 1px solid #bfbfbf;&#34; src=&#34;vscode.png&#34;&gt;
+  &lt;figcaption style=&#34;color:grey;&#34;&gt;Visual Studio Code IDE &lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;[website]&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
     
     <item>
       <title>2022 Apps, A Bit Differently</title>
