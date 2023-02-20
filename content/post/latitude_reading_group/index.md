@@ -1,7 +1,7 @@
 +++
 date = "2020-10-22T11:00:00"
 draft = false
-tags = ["speculative"]
+tags = ["speculative", "TEDSIG", "ALAO", "career"]
 title = "Design After the End of the World"
 math = false
 summary = "Speculative Design & Climate Change"

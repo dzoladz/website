@@ -1,7 +1,7 @@
 +++
 date = "2018-03-02T11:00:00"
 draft = false
-tags = ["dpla"]
+tags = ["dpla", "career"]
 title = "Ohio Digital Network Launches"
 math = false
 summary = "State Library of Ohio announces the launch of the Ohio Digital Network"

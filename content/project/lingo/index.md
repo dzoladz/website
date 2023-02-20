@@ -13,7 +13,7 @@ summary = "Mobile Application Developed for ILEADUSA-OHIO 2013"
 image_preview = "lingo/lingo-cover.png"
 
 # Tags: can be used for filtering projects.
-tags = ["technology"]
+tags = ["technology", "career"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""

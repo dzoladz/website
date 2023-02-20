@@ -1,7 +1,7 @@
 +++
 date = "2020-10-28T11:00:00"
 draft = false
-tags = ["conferences", "ALAO"]
+tags = ["conferences", "ALAO", "career"]
 title = "2020... the year of the great learning"
 math = false
 summary = "Tools & Services for a virtual conference"

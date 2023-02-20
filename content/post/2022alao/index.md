@@ -1,7 +1,7 @@
 +++
 date = "2022-11-04T11:00:00"
 draft = false
-tags = ["alao", "conferences", "technology"]
+tags = ["alao", "conferences", "technology", "career"]
 title = "Contactless Library Services & TEDDY Award"
 math = false
 summary = "A few photos from the 2022 ALAO Conference at the Nationwide Conference Center"

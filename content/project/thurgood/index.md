@@ -10,7 +10,7 @@ title = "Augmented Reality at Columbus State Library [Photo Essay]"
 summary = "Augmented Reality Exhibit at Columbus State Community College Library"
 
 # Tags: can be used for filtering projects.
-tags = ["technology"]
+tags = ["technology", "career"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""
