@@ -5,12 +5,51 @@
     <link>https://www.derekzoladz.com/tag/technology/</link>
       <atom:link href="https://www.derekzoladz.com/tag/technology/index.xml" rel="self" type="application/rss+xml" />
     <description>technology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Derek C. Zoladz</copyright><lastBuildDate>Fri, 04 Nov 2022 11:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Derek C. Zoladz</copyright><lastBuildDate>Mon, 28 Nov 2022 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
       <title>technology</title>
       <link>https://www.derekzoladz.com/tag/technology/</link>
     </image>
+    
+    <item>
+      <title>Hello OPLIN! 🎉</title>
+      <link>https://www.derekzoladz.com/post/oplin/</link>
+      <pubDate>Mon, 28 Nov 2022 11:00:00 +0000</pubDate>
+      <guid>https://www.derekzoladz.com/post/oplin/</guid>
+      <description>&lt;p&gt;After six years at OhioNet, I&#39;m thrilled to announce that I&#39;ve accepted a position as Software Developer 
+at the Ohio Public Library Information Network. In this capacity, I&#39;ll be able to continue building my 
+technical skills (breadth and depth) in support of Ohio&#39;s vibrant public libraries.&lt;/p&gt;
+&lt;p&gt;My initial tasks will be: (1) migrating OPLIN&#39;s legacy ticketing system into an open source platform called 
+&lt;a href=&#34;https://osticket.com/&#34; target=&#34;_blank&#34;&gt;osTicket&lt;/a&gt;, (2) leading &lt;a href=&#34;https://www.oplin.ohio.gov/services/authentication&#34; 
+target=&#34;_blank&#34;&gt;OPLIN&#39;s authentication services&lt;/a&gt; for statewide resource access, and (3) supporting, maintaining, and 
+expanding the code base developed by Karl Jendretsky over the past 18 years. I can&#39;t wait to hit the ground running.&lt;/p&gt; 
+&lt;figure&gt;
+  &lt;img style=&#34;border: 1px solid #bfbfbf;&#34; src=&#34;placard.jpg&#34;&gt;
+  &lt;figcaption style=&#34;color:grey;&#34;&gt;Placard for the OPLIN Office Suite &lt;a href=&#34;https://www.oplin.ohio.gov/buildinginfo&#34;&gt;[website]&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;hr&gt;
+&lt;p&gt;One of my first purchases for the new office?&lt;/p&gt;
+&lt;p&gt;Adding a burr grinder to our assortment of coffee preparation devices. OPLIN has the most extensive collection of 
+coffee making tools that I&#39;ve ever encountered in a office space (e.g., french press, pour-over, chemex). Which, 
+of course, I adore and support 💯. A cup of freshly ground &lt;a href=&#34;https://www.morrisoncoffee.com/&#34; target=&#34;_blank&#34;&gt;
+Morrison Coffee&lt;/a&gt; in the morning is the perfect way to start the morning.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img style=&#34;border: 1px solid #bfbfbf;&#34; src=&#34;coffee.jpg&#34;&gt;
+  &lt;figcaption style=&#34;color:grey;&#34;&gt;Baratza Encore Burr Grinder&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;hr&gt;
+&lt;p&gt;Where is all of this action is going to take place?&lt;/p&gt;
+&lt;p&gt;On my new laptop Apple M1 MacBook Pro! I can&amp;rsquo;t express how stoked I am to have this machine as my daily
+driver. Having spent the last 5 years on a MacBook Pro with those pesky butterfly mechanism issues (e.g., repeating
+characters, unresponsive keystrokes), it&amp;rsquo;s a dream to once again have a rock solid keyboard. I tend to be a heavy
+typer, so I&amp;rsquo;m crossing my fingers that these triggers will perform for years to come.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img style=&#34;border: 1px solid #bfbfbf;&#34; src=&#34;laptop.jpg&#34;&gt;
+  &lt;figcaption style=&#34;color:grey;&#34;&gt;Apple M1 MacBook Pro with Stickers&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
     
     <item>
       <title>Contactless Library Services &amp; TEDDY Award</title>
