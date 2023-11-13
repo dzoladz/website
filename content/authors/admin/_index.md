@@ -13,7 +13,7 @@ role = "Software Developer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "OPLIN", url = "https://www.oplin.ohio.gov/" } ]
+organizations = [ { name = "OPLIN", url = "https://oplin.ohio.gov/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Focusing on cultural heritage institutions: discovery applications, data (and metadata) wrangling, web development, process automation, and system integration."
@@ -110,7 +110,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "mastodon"
   icon_pack = "fab"
-  link = "//code4lib.social/@derekz"
+  link = "//fosstodon.org/@derekz"
   
 [[social]]
   icon = "dungeon"
