@@ -66,11 +66,10 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "ai"
   link = "files/cv.pdf"
 
-# DISABLED - RETIRED NGROK ACCOUNT
-#[[social]]
-#  icon = "book-reader"
-#  icon_pack = "fas"
-#  link = "//dzoladz-koha.ngrok.io"
+[[social]]
+  icon = "book-reader"
+  icon_pack = "fas"
+  link = "//discover.derekzoladz.com:8443"
 
 [[social]]
   icon = "github"
