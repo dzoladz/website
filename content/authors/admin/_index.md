@@ -69,7 +69,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "book-reader"
   icon_pack = "fas"
-  link = "//discover.derekzoladz.com:8443"
+  link = "http://discover.derekzoladz.com:8443"
 
 [[social]]
   icon = "github"
