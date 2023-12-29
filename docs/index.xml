@@ -76,8 +76,8 @@ foundation.&lt;/p&gt;
   allowfullscreen&gt;
   &lt;/iframe&gt;
 &lt;/div&gt;
-&lt;h3 id=&#34;sqlalchemyhttpswwwsqlalchemyorg&#34;&gt;&lt;a href=&#34;https://www.sqlalchemy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sqlalchemy&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.sqlalchemy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sqlalchemy&lt;/a&gt; is a enterprise-grade, high performance toolkit for working with relational databases using either
+&lt;h3 id=&#34;sqlalchemyhttpswwwsqlalchemyorg&#34;&gt;&lt;a href=&#34;https://www.sqlalchemy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SQLAlchemy&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sqlalchemy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SQLAlchemy&lt;/a&gt; is a enterprise-grade, high performance toolkit for working with relational databases using either
 native Python or direct SQL statements. After working with the Evergreen ILS system for several
 years, I&amp;rsquo;ve been using &lt;a href=&#34;https://www.postgresql.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Postgres&lt;/a&gt; as my preferred relational database for almost any task. I&amp;rsquo;m also using the
 latest version of &lt;a href=&#34;https://www.psycopg.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Psycopg&lt;/a&gt; as my Postgres adaptor. Psycopg wraps &lt;a href=&#34;https://www.postgresql.org/docs/current/libpq.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;libpq&lt;/a&gt; and fully-implements &lt;a href=&#34;https://peps.python.org/pep-0249/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PEP 249&lt;/a&gt;.
