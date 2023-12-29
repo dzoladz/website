@@ -68,9 +68,9 @@ foundation.
   </iframe>
 </div>
 
-### [Sqlalchemy](https://www.sqlalchemy.org/)
+### [SQLAlchemy](https://www.sqlalchemy.org/)
 
-[Sqlalchemy](https://www.sqlalchemy.org/) is a enterprise-grade, high performance toolkit for working with relational databases using either 
+[SQLAlchemy](https://www.sqlalchemy.org/) is a enterprise-grade, high performance toolkit for working with relational databases using either 
 native Python or direct SQL statements. After working with the Evergreen ILS system for several 
 years, I've been using [Postgres](https://www.postgresql.org/) as my preferred relational database for almost any task. I'm also using the
 latest version of [Psycopg](https://www.psycopg.org/) as my Postgres adaptor. Psycopg wraps [libpq](https://www.postgresql.org/docs/current/libpq.html) and fully-implements [PEP 249](https://peps.python.org/pep-0249/).
