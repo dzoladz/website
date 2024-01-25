@@ -119,6 +119,12 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Strong advocate for the use of open source technologies in day-to-day library operations. Heavily involved with software development, network management, data (and metadata) wrangling, server administration, process automation and a host of other technical odds-and-ends at the [Ohio Public Library Information Network (OPLIN)](https://www.oplin.ohio.gov/), an independent agency within the [State Library of Ohio](https://library.ohio.gov/).
+Strong advocate for the use of open source technologies in day-to-day library operations. Heavily involved with 
+software development, network management, data (and metadata) wrangling, server administration, process automation 
+and a host of other technical odds-and-ends at the [Ohio Public Library Information Network (OPLIN)](https://oplin.ohio.gov/), an 
+independent agency within the [State Library of Ohio](https://library.ohio.gov/).
 
-Formerly, serving the [Consortium of Ohio Libraries (COOL)](http://info.cool-cat.org/), [Ohio Private Academic Libraries (OPAL)](https://opal-libraries.org/), and the [Private Academic Library Network of Indiana (PALNI)](https://www.palni.org/) and [OhioLINK](https://www.ohiolink.edu/) members at [OhioNet](https://www.ohionet.org/).
+Over 15 years of experience with diverse libraries and consortia, including [OhioNet](https://www.ohionet.org/),
+[Consortium of Ohio Libraries (COOL)](http://info.cool-cat.org/), [Serving Every Ohioan (SEO)](https://servingeveryohioan.org/),
+[Ohio Private Academic Libraries (OPAL)](https://opal-libraries.org/), [Private Academic Library Network of Indiana (PALNI)](https://www.palni.org/),
+[OhioLINK](https://www.ohiolink.edu/), [CLEVNET](https://www.clevnet.org/), and the [Central Library Consortium (CLC)](https://clcohio.org/) 
