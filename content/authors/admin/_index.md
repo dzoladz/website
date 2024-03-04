@@ -77,6 +77,21 @@ user_groups = ["Researchers", "Visitors"]
   link = "//github.com/dzoladz"
 
 [[social]]
+  icon = "osf"
+  icon_pack = "ai"
+  link = "//osf.io/4k8vd/"
+
+[[social]]
+  icon = "acm"
+  icon_pack = "ai"
+  link = "//member.acm.org/~dzoladz"
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "//www.linkedin.com/in/derek-zoladz/"
+
+[[social]]
   icon = "flipboard"
   icon_pack = "fab"
   link = "//flipboard.com/@derekczoladz/digital-librarianship-vor3ke3gz"
@@ -92,19 +107,9 @@ user_groups = ["Researchers", "Visitors"]
   link = "//publons.com/researcher/2443364/derek-c-zoladz/"
 
 [[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
-  link = "//www.linkedin.com/in/derek-zoladz/"
-
-[[social]]
   icon = "docker"
   icon_pack = "fab"
   link = "//hub.docker.com/u/dzoladz"
-  
-[[social]]
-  icon = "osf"
-  icon_pack = "ai"
-  link = "//osf.io/4k8vd/"
   
 [[social]]
   icon = "mastodon"
@@ -124,7 +129,8 @@ software development, network management, data (and metadata) wrangling, server 
 and a host of other technical odds-and-ends at the [Ohio Public Library Information Network (OPLIN)](https://oplin.ohio.gov/), an 
 independent agency within the [State Library of Ohio](https://library.ohio.gov/).
 
-Over 15 years of experience with diverse libraries and consortia, including [OhioNet](https://www.ohionet.org/),
-[Consortium of Ohio Libraries (COOL)](http://info.cool-cat.org/), [Serving Every Ohioan (SEO)](https://servingeveryohioan.org/),
-[Ohio Private Academic Libraries (OPAL)](https://opal-libraries.org/), [Private Academic Library Network of Indiana (PALNI)](https://www.palni.org/),
-[OhioLINK](https://www.ohiolink.edu/), [CLEVNET](https://www.clevnet.org/), and the [Central Library Consortium (CLC)](https://clcohio.org/) 
+Over 15 years of experience providing technology solutions to libraries and consortia, including most recently as
+the Library Systems Analyst at [OhioNet](https://www.ohionet.org/); proudly serving members of [CLEVNET](https://www.clevnet.org/), [OhioLINK](https://www.ohiolink.edu/), 
+[Consortium of Ohio Libraries (COOL)](http://info.cool-cat.org/), [Ohio Private Academic Libraries (OPAL)](https://opal-libraries.org/),
+[Serving Every Ohioan (SEO)](https://servingeveryohioan.org/), [Private Academic Library Network of Indiana (PALNI)](https://www.palni.org/), [Central Library Consortium (CLC)](https://clcohio.org/),
+and the [Cleveland Clinic](https://library.ccf.org/).
