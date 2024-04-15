@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ALAO | Derek Zoladz</title>
+    <link>https://www.derekzoladz.com/tag/alao/</link>
+      <atom:link href="https://www.derekzoladz.com/tag/alao/index.xml" rel="self" type="application/rss+xml" />
+    <description>ALAO</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Nov 2022 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
+      <title>ALAO</title>
+      <link>https://www.derekzoladz.com/tag/alao/</link>
+    </image>
+    
+    <item>
+      <title>Contactless Library Services &amp; TEDDY Award</title>
+      <link>https://www.derekzoladz.com/post/2022alao/</link>
+      <pubDate>Fri, 04 Nov 2022 11:00:00 +0000</pubDate>
+      <guid>https://www.derekzoladz.com/post/2022alao/</guid>
+      <description>&lt;h2 id=&#34;as-you-can-tell-we-had-a-lot-of-fun&#34;&gt;As you can tell, we had a lot of fun!&lt;/h2&gt;
+&lt;p&gt;The &amp;lsquo;we&amp;rsquo; in this section refers to the folks from the &lt;a href=&#34;https://opal-libraries.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OPAL consortium&lt;/a&gt; who agreed to present on the topic of contactless library services, from the point-of-view of their unique institutional context and singularly focused on a specific service.&lt;/p&gt;
+&lt;h3 id=&#34;presenters&#34;&gt;Presenters&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Institutional Affiliation&lt;/th&gt;
+&lt;th&gt;Case Study&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Derek Zoladz&lt;/td&gt;
+&lt;td&gt;OhioNet&lt;/td&gt;
+&lt;td&gt;Introduction &amp;amp; Technical Overview&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Rebecca Raeske-Grinch&lt;/td&gt;
+&lt;td&gt;Otterbein University&lt;/td&gt;
+&lt;td&gt;Self-Service Lockers&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Laura D&amp;rsquo;Amato&lt;/td&gt;
+&lt;td&gt;Baldwin-Wallace University&lt;/td&gt;
+&lt;td&gt;Mobile Credentials&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Noreen Mulcahy&lt;/td&gt;
+&lt;td&gt;Mount Carmel Health Sciences Library&lt;/td&gt;
+&lt;td&gt;Library On Demand&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;While contactless library services have been available for decades, there’s been a distinct shift in the design of and expectations from contactless services in the last few years. Whether accelerated by the pandemic, or by the expansion of contactless services in adjacent industries, there’s an increasing demand for simplicity and convenience of library services. A smooth user experience on the surface often involves complex behind-the-scenes procedures, requiring a depth of technical knowledge, cross-organizational communication skills, and a high level of patience and understanding as the process for creating new service models that remove barriers to accessing library resources can be burdensome.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+  &lt;img style=&#34;border: 1px solid #bfbfbf;&#34; src=&#34;presentation.jpg&#34;&gt;
+  &lt;figcaption style=&#34;color:grey;&#34;&gt;Co-Presenters, Before the Show &lt;a href=&#34;../../publication/assets/contactless-library-services.pdf&#34;&gt;[slides]&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;In my role as Library Systems Anaylst at OhioNet &amp;ndash; and in particular my project work for the OPAL consortium &amp;ndash; I was often tasked with developing scripts and procedures to support disparate system integrations. The previous year included integration projects to grant library patrons the use of mobile credentials and proximity cards to checkout materials, linking records to faciliate the use of self-service lockers for contactless material pick-up outside of regular business hours, and a handful of smaller projects that required crosswalking data between platforms.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Contactless Library Services&lt;/em&gt; was the presentation that allowed us to showcase and share the exceptional capabilities of Ohio&amp;rsquo;s private academic libraries with the greater library community.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img style=&#34;border: 1px solid #bfbfbf;&#34; src=&#34;graphviz-patron-load.png&#34;&gt;
+  &lt;figcaption style=&#34;color:grey;&#34;&gt;A Simplified Patron Load Diagram &lt;a href=&#34;https://dreampuf.github.io/GraphvizOnline/?url=https://gist.githubusercontent.com/dzoladz/d9d7f8f3bf5021f7e983aa7dbfcd339d/raw/9b0445998406fc5f07d8a7abfb1a64c2e7c7a813/simplified-alao2022.gv&#34;&gt;[code]&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;teddy-award&#34;&gt;TEDDY Award&lt;/h2&gt;
+&lt;p&gt;With the 2020 and 2021 conferences being fully online, the 2022 conference was the first opportunity to present TEDS to the previous years&amp;rsquo; award winners. I was selected as the TEDDY award winner in 2020, which was a prolific year of engagement with the Academic Library Association of Ohio. I was in the process of tranisitioning from a presidential appointment on the website team to an elected position as chair of the Technical, Electronic, and Digitial Services interest group.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Here&amp;rsquo;s short list of accomplishments:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://futures.alaoweb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Speculative Library Futures | Post-Pandemic Libraries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tedsig.alaoweb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Critical Design and Libraries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Negotiating funds for the organization&amp;rsquo;s website redesign&lt;/li&gt;
+&lt;li&gt;Centralized control of ALAO web properties&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;In particular, during 2020:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Served on the 2020 Conference Planning Committee&lt;/li&gt;
+&lt;li&gt;Technical lead for all conference-related ALAO projects.&lt;/li&gt;
+&lt;li&gt;Organized a team of librarian from around the state to develop the online conference&amp;rsquo;s platform, see the &lt;a href=&#34;https://2020.alaoweb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 conference site&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;In the words of my nominator:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Derek has worked tirelessly over the last five years to enhance ALAO&amp;rsquo;s technical portfolio and internal processes. From recovering and centralizing the administration of ALAO&amp;rsquo;s web properties, to instituting a role-based model of account creation in order to facilitate knowledge transition and succession planning, Derek&amp;rsquo;s commitment to strengthening Ohio&amp;rsquo;s academic library community through service to ALAO is unmatched. While securing the funding for ALAO&amp;rsquo;s website redesign, and providing the initial guidance for the project, Derek generously shared his knowledge through a hands-on approach to mentoring colleagues. Derek was the project lead for the development of the 2020 Virtual Conference website, whose code has been gifted back to ALAO under an MIT license.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+  &lt;img style=&#34;border: 1px solid #bfbfbf;&#34; src=&#34;teds.jpg&#34;&gt;
+  &lt;figcaption style=&#34;color:grey;&#34;&gt;TEDS, the TEDSIG Mascot &lt;a href=&#34;https://www.alaoweb.org/igs/tedsig/index.html&#34;&gt;[website]&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;It&amp;rsquo;s a honor to be among the winners of the TEDDY. It&amp;rsquo;s a wonderfully, accomplished group that is dedicated to the work of academic libraries and the communities they serve.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contactless Library Service: Case Studies from Ohio&#39;s Private Academic Libraries</title>
+      <link>https://www.derekzoladz.com/publication/contactless-library-services/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.derekzoladz.com/publication/contactless-library-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speculative Library Futures</title>
+      <link>https://www.derekzoladz.com/project/tedsig_futures/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.derekzoladz.com/project/tedsig_futures/</guid>
+      <description>&lt;div&gt;
+  &lt;p style=&#34;text-align: justify;&#34;&gt;
+    &lt;strong&gt;Speculative Library Futures | Post-Pandemic Libraries&lt;/strong&gt; is the culmination of a yearlong exploration of speculative design and libraries by &lt;a href=&#34;https://www.alaoweb.org/igs/tedsig/index.html/&#34;&gt;TEDSIG&lt;/a&gt;, the Technical, Electronic, and Digital Services Interest Group of the &lt;a href=&#34;https://www.alaoweb.org/&#34;&gt;Academic Library Association of Ohio&lt;/a&gt;.
+  &lt;/p&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;ul&gt;
+&lt;li&gt;Publication: &lt;a href=&#34;https://futures.alaoweb.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Speculative Library Futures | Post-Pandemic Libraries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;doi: &lt;a href=&#34;http://doi.org/10.5281/zenodo.4606860&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi.org/10.5281/zenodo.4606860&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;!-- Article Teasers --&gt;
+&lt;p&gt;&lt;a href=&#34;https://futures.alaoweb.org/speculative-deck.html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Speculative Card Deck&lt;/a&gt; by Mackenzie Salisbury and Shannon Marie Robinson integrates Guy Debord&amp;rsquo;s dérive into a beautifully-designed, critical deck of prompts and actions to generate situations that disrupt the traditional use value assigned to the library.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://futures.alaoweb.org/notes-on-a-speculative-design-reading-group.html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notes on a Speculative Design Reading Group&lt;/a&gt; by John Jung reflects on the conversations with artists, designers, and librarians that emerged during “Design After the End of the World”, a speculative design reading group at Chicago’s community lab LATITUDE.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://futures.alaoweb.org/hair-catalog.html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hair Catalog&lt;/a&gt; by Shannon Marie Robinson applies metadata of forensic examination to describe an object, highlighting how traditional metadata, such as title and author, influence discovery and control the development of new knowledges.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://futures.alaoweb.org/alternative-art-history.html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alternative Art History&lt;/a&gt; by Shannon Marie Robinson reconfigures the relations between archival memory, meaning-making, and how we query knowledge, by shifting away from the dominant perspective of the author and towards the preservation of scholarly communication between readers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://futures.alaoweb.org/tech-to-you.html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tech to You&lt;/a&gt; by Myiesha Speight and Bria Sinnott accepts the disintegration of the library as a physical place to explore fundamental questions about the qualifications of librarianship and the definition of impactful public services.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://futures.alaoweb.org/growing-through-the-cracks.html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Growing Through the Cracks&lt;/a&gt; by Heidi Beke-Harrigan and Katie DeJongh asks us to accept stillness as a mode of generative thought, one that encourages optimistic and parallel futures to sprout from a nurturing and reciprocal dialogue between image and haiku.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://futures.alaoweb.org/alexandria.html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexandr.ia&lt;/a&gt; by Calvin Cleary and Liz Lang is a dystopian look at the future of precarity in academic libraries, which takes the form of a satirical pitch to Silicon Valley investors for an app called Alexandr.ia.&lt;/p&gt;
+&lt;!-- Article Teasers --&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
+&lt;p&gt;The origin of this work finds its roots just off of exit 50, southbound interstate 70, in a rural Holiday Inn. It was a late October afternoon – at an oddly remote conference center in Wilmington, Ohio.  I was listening to a presentation from &lt;a href=&#34;https://johnjung.us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Jung&lt;/a&gt; and &lt;a href=&#34;https://kzadrozny.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathy Zadrozny&lt;/a&gt;, both from the University of Chicago, about the use of design fiction – specifically, the creation of believable near-future stories to explore the social, cultural and ethical aspects of technological change. The year was 2016 and this presentation made a deep and lasting impression on me.&lt;/p&gt;
+&lt;div&gt;
+  &lt;img style=&#34;margin-bottom: .5rem;&#34; src=&#34;alao2016_map.png&#34; alt=&#34;open street map aerial view of ohio with an arrow pointing to exit 50&#34;&gt;
+  &lt;p style=&#34;text-align: center; margin-bottom: 2rem; font-size: 14px;&#34;&gt;©2021 OpenStreetMap Contributors | &lt;a href=&#34;https://opendatacommons.org/licenses/odbl/summary/&#34;&gt;ODbL 1.0 license&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;Fast-forward to 2018, when I became co-chair of TEDSIG in July. Taking the interest group in a fresh direction was an intentional decision. Rather than continue to facilitate workshops and schedule learning opportunities that focused on the day-to-day tooling that enables library-specific technical work, I wanted to use this opportunity to reinvigorate our group by reflecting on first principles and foundations. Accepting that many of our existing library systems are reaching the limits of their effectiveness served as a premise to encourage us to consider alternative futures. However, to avoid a future that merely recapitulates both the positive and negative aspects of our present solutions, we needed to think critically about the design of our future.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;diagram of the future cones&#34; srcset=&#34;
+               /project/tedsig_futures/futures_cone_hu3526491f56dcb47dd929bc80192e1a8b_258279_0fc9becb93805061e8e8fb24eaad6a20.webp 400w,
+               /project/tedsig_futures/futures_cone_hu3526491f56dcb47dd929bc80192e1a8b_258279_ed9eb8914e5a10f92125ab40709a71bd.webp 760w,
+               /project/tedsig_futures/futures_cone_hu3526491f56dcb47dd929bc80192e1a8b_258279_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.derekzoladz.com/project/tedsig_futures/futures_cone_hu3526491f56dcb47dd929bc80192e1a8b_258279_0fc9becb93805061e8e8fb24eaad6a20.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;559&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tedsig.alaoweb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TEDSIG 2020&lt;/a&gt; invited John Jung to present an hour-long exploration of Speculative/Critical Design and Libraries. Speculative design attempts to open our minds to new ways of thinking and being, where traditional design attempts to solve problems. Speculative design holds promise for libraries as a way to problematize our present by exposing the pre-existing conditions of our current reality. Thomas Moynihan: &amp;ldquo;We perceive the world as anticipations of its future&amp;rdquo;. It is our capacity to envision the future that propels us forward.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;We perceive the world as anticipations of its future&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Attendees of TEDSIG 2020 were invited to continue the exploration by participating in an 8-week speculative design and climate reading group co-facilitated by &lt;a href=&#34;http://www.reneelynn.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renee Albrecht-Mallinger&lt;/a&gt; and John Jung. Beginning in September 2020, &lt;a href=&#34;https://dzoladz.github.io/2020-reading-group/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Design After the End of the World&lt;/a&gt; was hosted by the artist community space &lt;a href=&#34;https://www.latitudechicago.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LATITUDE | Chicago&lt;/a&gt;. The outcome of this group’s work resulted in the call for proposals for a Speculative Library Futures web-based publication, of which the resulting contributions are included above.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2020... the year of the great learning</title>
+      <link>https://www.derekzoladz.com/post/2020alao/</link>
+      <pubDate>Wed, 28 Oct 2020 11:00:00 +0000</pubDate>
+      <guid>https://www.derekzoladz.com/post/2020alao/</guid>
+      <description>&lt;p&gt;One upside of 2020 has been the expansion of learning opportunities. Conferences with pricey registration fees or cost-prohibitive for travel reasons have become real opportunities, as library and library-adjacent conferences and workshops transition to online delivery. I&amp;rsquo;ve registered for three times as many conference as I would in a typical year, but I&amp;rsquo;ve also not attended most of those events. When the event actually gets here, there&amp;rsquo;s always other work that I find a better use my time. I guess that&amp;rsquo;s a consequence of free registration - although I&amp;rsquo;m not sure how it has been possible for so many organizations to offer free registration for their online events this year. There are plenty of tangible costs associated with a delivery of a fully online conference. Anyway&amp;hellip; that&amp;rsquo;s all a divergence from the intent of this post, which is to reflect upon my work for the &lt;a href=&#34;https://2020.alaoweb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 ALAO Conference&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As the great learning of 2020 continues to bloom, a second upside has been the number of opportunities that have been granted to me to put the complete spectrum of my technical abilities into practice. While unexpected, serving as the Chair of the Website Working Group and Technical Lead for the Academic Library Association of Ohio (ALAO) annual conference - ALAO&amp;rsquo;s first ever fully online conference - has been a highlight for me.&lt;/p&gt;
+&lt;p&gt;Leading the Website Working Group was a wonderful opportunity to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[1] expand the technical capacity and web property portfolio of ALAO&lt;/li&gt;
+&lt;li&gt;[2] establish a GitHub organization to warehouse and share useful scripts and application code between ALAO members&lt;/li&gt;
+&lt;li&gt;[3] obtain a non-profit Slack account for the organization, with additional features and increased limits&lt;/li&gt;
+&lt;li&gt;and, [4] apply for an open source project account with Netlify to host application deployments for the 2020 conference website.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Volunteer projects like this one always provide an opportunity to exercise and develop my leadership abilities, mentor younger colleagues, and further enrich and solidify my project management capabilities.&lt;/p&gt;
+&lt;h3 id=&#34;team&#34;&gt;Team&lt;/h3&gt;
+&lt;p&gt;Members of the 2020 Website Working Group are as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;David W. Green (State Library of Ohio)&lt;/li&gt;
+&lt;li&gt;Melissa Hill (Ohio Wesleyan University)&lt;/li&gt;
+&lt;li&gt;Ken Irwin (Miami University)&lt;/li&gt;
+&lt;li&gt;Ryan Scott (Columbus State Community College)&lt;/li&gt;
+&lt;li&gt;Zach Walton (The Ohio State University)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Website Working Group was responsible for applying the overall conference theme to the website, while adding features and functionality to the source code as gaps were discovered or a new set of needs arose. One of our stated goals was to make the site more plug-and-play for next year&amp;rsquo;s teams. We did this by replacing any hardcoded values throughout the source code with a centrally-located set of variables. In fact, the majority of variables controlling the website&amp;rsquo;s behavior and internal logic are contained in a single file at this point. Ideally, this will result in vastly reduced development times for next year&amp;rsquo;s conference website.&lt;/p&gt;
+&lt;p&gt;Over the course of building the website, our primary method of communication was the &lt;code&gt;#conference-website&lt;/code&gt; channel of the ALAO Slack workspace. Idea exchange, quick triage, and fast feedback were a breeze via Slack. Complex troubleshooting and issues requiring more in-depth discussion were held at our regularly scheduled meeting. Project management was mainly facilitated through Github’s native tooling, via issue creation, issue assignment of responsibilities, and a wiki for setting the agenda for our regular meetings.&lt;/p&gt;
+&lt;p&gt;Our team worked in 3-week sprints over the course of a few months to bring the conference site together. Each sprint would begin with an hour-long meeting to review our progress, discuss any open issues, and set goals and priorities for the next sprint. Since our team was a combination of experienced developers and some folks who were entirely new to static site generators and source code versioning tools, the 3-week pace worked out surprisingly well for the whole team. For the less experienced members of the team, there was enough cushion to begin to explore the source code, generate a list of initial questions, and pursue self-guided learning to get up-to-speed&amp;hellip; while keeping just enough momentum under the project for the more experienced team members to maintain interest and continue to drive the project forward. Unfortunately, there are far too few hands-on mentorship opportunities for librarians to build a rich depth of technical knowledge that rivals the expertise of information technology staff. For the members of the Website Working Group, the experience of sharing knowledge and hard skills during the development of the conference website will slowly manifest in the comprehensiveness and degree of digital projects at each team member&amp;rsquo;s local institution.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s worth noting that I underestimated the time commitment required to complete this project by roughly 30 hours. I anticipated 60 hours, but the actual time was closer to 90 hours. Although a considerable portion of the additional time occurred due to adding features and functionality that were not envisioned at the onset of the project, it&amp;rsquo;s a reminder to myself to do a better job controlling the scope of the project or padding my estimates a bit more generously to allow for some expansion as the project matures.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-buildoutcfg&#34;&gt;➜  2020.alaoweb.org git:(master) git-fame --cost hours
+Processing: 100%|███████████████████████████████████████████████████████████████████████████| 480/480 [00:31&amp;lt;00:00, 15.32file/s]
+Total commits: 831
+Total ctimes: 2866
+Total files: 377
+Total hours: 89.2
+Total loc: 505996
+| Author          |   hrs |    loc |   coms |   fils |  distribution   |
+|:----------------|------:|-------:|-------:|-------:|:----------------|
+| dzoladz         |    51 | 475569 |    445 |    252 | 94.0/53.5/66.8  |
+| Ken Irwin       |    27 |  29319 |    261 |    100 | 5.8/31.4/26.5   |
+| Zach Walton     |     2 |    785 |     13 |      4 | 0.2/ 1.6/ 1.1   |
+| davidg          |     3 |    253 |     16 |     16 | 0.1/ 1.9/ 4.2   |
+| Nassaubound     |     2 |     68 |     16 |      4 | 0.0/ 1.9/ 1.1   |
+| David W. Green  |     2 |      2 |      8 |      1 | 0.0/ 1.0/ 0.3   |
+| Derek C. Zoladz |     2 |      0 |     72 |      0 | 0.0/ 8.7/ 0.0   |
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As illustrated in the above output from &lt;a href=&#34;https://github.com/casperdcl/git-fame&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;git fame&lt;/a&gt;, Ken Irwin made significant contributions to the development of 2020 conference website. Ken&amp;rsquo;s expertise helped the team to resolve several difficult challenges along the way, that otherwise, would have resulted in a less-than-ideal compromise.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s why I&amp;rsquo;m thrilled that &lt;a href=&#34;https://kenirwin.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ken Irwin&lt;/a&gt; will be the Technical Lead for the ALAO 2021, Website Working Group 🎉&lt;/p&gt;
+&lt;h1 id=&#34;tools--services&#34;&gt;Tools &amp;amp; Services&lt;/h1&gt;
+&lt;p&gt;There are many all-inclusive virtual conference platforms that have sprouted up over the previous year or so (&lt;a href=&#34;https://hopin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hopin&lt;/a&gt;, &lt;a href=&#34;https://remo.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Remo&lt;/a&gt;, and &lt;a href=&#34;https://whova.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Whova&lt;/a&gt; to namecheck a few that immediately come to mind). However, there are a few reasons that you might be inclined to roll-your-own assemblage of services to host a virtual conference.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First | Minimizing Duplicate Service Costs&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you already purchase several of the needed components to host a virtual conference, why make a redundant purchase? As an example, ALAO has a professional subscription to the association management platform - Wild Apricot. Interacting with Wild Apricot is a familiar experience for ALAO membership, and Wild Apricot has a built-in event registration features, making it an obvious choice for handling conference registrations and payment options.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Second | Building Capacity and Encouraging Participation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Building your organization&amp;rsquo;s overall technical capacity can encourage the expansion of services and opportunities made available to membership. While hard skills take time to develop, knowledge sharing and mentorship of colleagues are immediate, and lasting, benefits for the entire organization. Strengthening the sense of internal community can encourage members to take risks, become leaders, and pursue open positions as they become available.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Third | Offset Contractual Losses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If your organization has a multi-year contract with a venue to hold the annual conference, and COVID-19 requires the cancellation of any face-to-face events for the year, you may still be contractually-obligated to pay a hefty cancellation fee. To minimize organizational losses, &amp;ldquo;Doing it on the cheap&amp;rdquo; may become the motto for the year.&lt;/p&gt;
+&lt;p&gt;Although the underpinning of the 2020 ALAO conference website were built upon an &lt;em&gt;abandoned?&lt;/em&gt; project for the 2014 GDG Devfest, i.e. &lt;a href=&#34;https://github.com/gdg-x/zeppelin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Zeppelin&lt;/a&gt;, designing a virtual conference requires a careful selection of technologies and hosted services to be properly configured and skillfully aligned in a parallel direction. When you organization&amp;rsquo;s membership very clearly sees the annual conference as the value of - and primary reason for renewing - their membership, doing it on your own is not a decision to take lightly.&lt;/p&gt;
+&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
+&lt;p&gt;One of the key considerations in making the decision to take the DIY approach is whether or not your organization has someone willing and - perhaps most importantly - able to take the lead for the project. The project lead will need to allocate considerable volunteer time, have solid communication and project management fundamentals, and posses an intermediate set of technical skills. Below is a list of the development tools and technologies that were required to develop the 2020 ALAO Conference. [&lt;a href=&#34;https://github.com/alaoweb/2020.alaoweb.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;source code&lt;/a&gt;]&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://jekyllrb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jekyll&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Static Site Generator&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://sass-lang.com/documentation/syntax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCSS&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;CSS Pre-processer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://bundler.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bundler&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Gem Dependency Management&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://shopify.github.io/liquid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Liquid&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Templating Language&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://yaml.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YAML&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Data Serialization Standard&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://getbootstrap.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bootstrap&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Front-End Frameworks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ruby-lang.org/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ruby&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Programming Language&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://rubygems.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ruby Gems&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Ruby Packages (Applications or Libraries)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/ImageOptim/ImageOptim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ImageOptum&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Lossless Image Optimization&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.markdownguide.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Plain-Text Markup Language&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.json.org/json-en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSON&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Data Interchange Format&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Software Version Control&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Of course, there are a number of others (i.e. JavaScript, jQuery) peppered in here and there, but the above is a list of the major components.&lt;/p&gt;
+&lt;h3 id=&#34;services&#34;&gt;Services&lt;/h3&gt;
+&lt;p&gt;Below is a best effort to list the services that were used to create the 2020 ALAO Conference. Each listed component contains a brief description of how it was used during the conference.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zoom.us&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;&lt;br&gt;
+Because of its overall familiarity to Ohio&amp;rsquo;s higher education community, and much-less-so based upon the merits of its feature set and functionality, a decision was made to use Zoom as our streaming platform for the conference.&lt;/p&gt;
+&lt;p&gt;Prior to this decision, the Academic Library Association of Ohio (ALAO) already maintained an annual subscription to Zoom. This subscription was used to facilitate monthly board meetings and for one-off use by ALAO&amp;rsquo;s many interest groups. Because there wasn&amp;rsquo;t a need for additional capacity for the organization as a whole, the Website Working Group elected to purchase a separate, temporary, month-to-month subscription to Zoom, which was used exclusively for conference events. Our temporary subscription included two host licenses and two large meeting add-ons, as we anticipated 100+ attendees at the opening keynote, closing keynote, and annual awards ceremony. While we ultimately purchased the temporary subscription for two months, we could have easily reduced the duration to a single month.&lt;/p&gt;
+&lt;p&gt;Zoom was used for all real-time events, including the pre-conference workshop, trivia night, awards, and the opening and closing keynotes. As these real-time sessions were critical components of a successful conference - and we were dependent upon our notoriously unreliable home wifi connections (i.e. those pandemic work-from-home scenarios) - the two Zoom licenses were used in a host/alternative-host model. That way, if the meeting host&amp;rsquo;s cat disconnected the internet connection in the middle of a keynote, the meeting would seamlessly transition over to the alternative host without noticeable disruption to the conference attendees.&lt;/p&gt;
+&lt;p&gt;Zoom was also used to host all live question and answer sessions that followed each pre-recorded conference talk. The host/alternative-host model was not used for Q&amp;amp;A sessions because each hour block contained two conference talks, each with its own Q&amp;amp;A session that required the use of a Zoom license to host. Of course, almost as soon as the conference was finished up, Zoom announced a new feature that would allow meeting attendees to self-select a breakout room of their own choosing to join. This new feature allows for more small group discussions, like our Q&amp;amp;A sessions, to be facilitated by fewer Zoom licenses.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mailchimp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mailchimp&lt;/a&gt;&lt;br&gt;
+Mailchimp was used to collect email addresses to add to ALAO&amp;rsquo;s mailing list. Mailchimp integration was simple, clean, and provided a vastly superior sign-up experience in comparison to the sign-up process for ALAO&amp;rsquo;s mailing list via Google Groups. The free tier subscription allowed for a single audience with up to 2,000 contacts. More than enough to support the expected number of sign-ups that we&amp;rsquo;d receive at the annual conference.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://uptimerobot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UpTimeRobot&lt;/a&gt;&lt;br&gt;
+Once the conference website was made available to the public, the Website Working Group needed to ensure that the site was available at all times. To alert us of any networking issues, we elected to use the free subscription tier of the website monitoring and notification service - UpTimeRobot.&lt;/p&gt;
+&lt;p&gt;Using UpTimeRobot, we were able to monitor the production and staging environments during the entire development process. Notifications were handled in several ways. First, we built a &lt;a href=&#34;https://status.alaoweb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;public dashboard&lt;/a&gt; to display the status of ALAO&amp;rsquo;s web properties. Although the dashboard is more of an end user tool - as there is a self-service value in answering the question, &amp;ldquo;Am I the only one having an issue?&amp;rdquo; - the dashboard also collects evidence of historical anomalies that can be used for troubleshooting purposes. Second, we used UpTimeRobot&amp;rsquo;s integration with Slack to alert the Website Working Group of any critical events. These notifications turned out to be very useful when Netlify experienced routing issues, as we were able to immediately contact Netlify support to investigate.&lt;/p&gt;
+&lt;p&gt;One caveat with using the free tier of UpTimeRobot with Netlify deployments, it&amp;rsquo;s not possible to define custom service statuses based upon the HTTP response of a server. After Netlify&amp;rsquo;s password-protection was enabled for the conference website, to restrict access to the conference content to only registered conference attendees, this became a monitoring issue for the production site. Netlify returns a HTTP 401 Unauthorized message when password-protection is enabled and basic authentication is unsuccessful. Since password-protection was enabled for the entire conference site, and UpTimeRobot does not provide a useful method for sending authentication credentials to Netlify in a way that Netlify expects, UpTimeRobot reported the conference site as DOWN for the entire duration that password-protection was enabled. To avoid this next year, exploring the use of a Netlify configuration file, i.e. &lt;code&gt;netlify.toml&lt;/code&gt;, to &lt;a href=&#34;https://docs.netlify.com/routing/headers/#syntax-for-the-headers-file&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;selectively apply password-protection&lt;/a&gt; using HTTP headers is advised. Selectively applying password-protection to areas of the conference site with limited-access content will allow an HTTP 200 status to be returned to UpTimeRobot; thus, accurately displaying the status of the website as UP.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://clearlight.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clearlight Communications&lt;/a&gt;&lt;br&gt;
+Clearlight Communications handles domain registration and DNS zone management for the Academic Library Association of Ohio. Netlify custom domains were created and external DNS was applied using CNAME records for &lt;code&gt;2020.alaoweb.org&lt;/code&gt; and &lt;code&gt;2020-staging.alaoweb.org&lt;/code&gt;. The GitHub repository contained a &lt;code&gt;main&lt;/code&gt; branch and a &lt;code&gt;staging&lt;/code&gt; branch. Pushes to the &lt;code&gt;main&lt;/code&gt; branch would trigger a site build and deployment to &lt;a href=&#34;https://2020.alaoweb.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://2020.alaoweb.org&lt;/a&gt;, while pushes to the &lt;code&gt;staging&lt;/code&gt; branch would rebuild the staging site at the above host. One Netlify feature that the Website Working Group found useful was the &amp;lsquo;deployment preview&amp;rsquo;. Netlify creates a clickable URL to preview changes from any pull requests, so it was easy for any team member to see the proposed changes in a live environment without being required to checkout the branch locally and build the site on localhost.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://slack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slack&lt;/a&gt;&lt;br&gt;
+As stated earlier in this post, the primary method of communication and interaction among the Website Working Group was Slack, specifically the &lt;code&gt;#conference-website&lt;/code&gt; channel. Indispensable was the ability to configure Slack to receive messages from other service providers, as our team made use of the &lt;a href=&#34;https://slack.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub integration&lt;/a&gt;, &lt;a href=&#34;https://docs.netlify.com/site-deploys/notifications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netlify integration&lt;/a&gt;, and &lt;a href=&#34;https://uptimerobot.com/integrations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UpTimeRobot integration&lt;/a&gt;. Centralizing all of these messages in Slack proved valuable for keeping everyone aware of development activity, engaged in troubleshooting issues, and promptly reviewing all pull requests.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://disqus.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus&lt;/a&gt;&lt;br&gt;
+Disqus is a service that will host blog-style commenting functionality for any web site or online platform. As far as integration into the ALAO conference website is concerned, the main utility of Disqus was to increase engagement with the poster sessions, by providing a real-time comment and response capabilities on each poster. Although limited in its scope, there&amp;rsquo;s a basic subscription tier that&amp;rsquo;s free. The free tier only provides a single audience - from an analytics perspective, a trackable cohort of users - which was fine in our case, as the only intended audience was 2020 conference attendees and we did not intend to use the Disqus service for marketing purposes. For &lt;code&gt;.edu&lt;/code&gt; sites and non-profits organizations, Disqus advertising on the free subscription tier is optional; otherwise, it&amp;rsquo;s required.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/forms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Forms&lt;/a&gt;&lt;br&gt;
+The venerable Google Forms was used to collect attendee feedback for each pre-recorded session, as well as obtain survey responses for each of the keynotes, the preconference workshops, and any post-conference reflections.&lt;/p&gt;
+&lt;p&gt;As Google&amp;rsquo;s suite of productivity applications and services (i.e. G Suite) is well-known in Ohio&amp;rsquo;s higher education community, I&amp;rsquo;ll only highlight one feature of note. Google Forms has the ability to pre-fill fields. Using the form&amp;rsquo;s link, it&amp;rsquo;s possible to pass a value into a form field by using a URL parameter. Because we were using Jekyll and Liquid templating, we took advantage of this feature of Google Forms to pre-populate the session title in each of the surveys.&lt;/p&gt;
+&lt;p&gt;One advantage of this method is that it reduces the annoyance of requiring conference attendees to select a session from a long list of conference sessions before responding to any questions. Other benefits of populating the session title include: minimizing the likelihood of human error, increasing the response rate by simplifying the submission process, and providing an overall improved sense of trust in the collected data.&lt;/p&gt;
+&lt;p&gt;Below is a snippet from the site&amp;rsquo;s session modal that builds the &lt;code&gt;href&lt;/code&gt; attribute for the Google Form by extracting variables and encoding the &lt;code&gt;session.title&lt;/code&gt; and appending it to the &lt;code&gt;site.sessionFeedbackParameter&lt;/code&gt;. When a user clicks on the survey button, the session title is pre-filled with the value of &lt;code&gt;session.title&lt;/code&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{% if session.subtype == &#39;session&#39; and site.sessionFeedbackForm != null %}
+&amp;lt;div class=&amp;quot;row survey-row&amp;quot;&amp;gt;
+    &amp;lt;div class=&amp;quot;col-md-4&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+    &amp;lt;div class=&amp;quot;col-md-8&amp;quot;&amp;gt;
+        &amp;lt;a href=&amp;quot;{{ site.sessionFeedbackForm }}&amp;amp;{{ site.sessionFeedbackParameter }}={{ session.title | url_encode }}&amp;quot;
+            class=&amp;quot;survey-button btn&amp;quot;
+            aria-label=&amp;quot;Complete the survey for {{ session.title }}}&amp;quot;&amp;gt;{{session.subtype | capitalize }}
+            Feedback
+        &amp;lt;/a&amp;gt;
+    &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+{% endif %}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In the site&amp;rsquo;s main configuration file, i.e. &lt;code&gt;config.yml&lt;/code&gt;, key:value pairs are used to assign the Google Form URL to &lt;code&gt;sessionFeedbackForm&lt;/code&gt; and the parameter name of the form&amp;rsquo;s session title field to &lt;code&gt;sessionFeedbackParameter&lt;/code&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;sessionFeedbackForm:
+sessionFeedbackParameter: &amp;quot;entry.1153076421&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This solution worked perfectly for us.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&lt;br&gt;
+Microsoft-owned GitHub is a hosted software development platform built on top of Git, a distributed version-control system for tracking changes in source code during the development process. The Website Working Group made extensive use of GitHub&amp;rsquo;s features, including: (1) the use of GitHub Teams to manage repository permissions, (2) issue creation for feature enhancement, bug fixes, and the assignment of responsibilities, and (3) to set our meeting agendas with the built-in wiki functionality. Overall, project management was handled almost exclusively through Github’s native tool set.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;&lt;br&gt;
+YouTube was used to stream all pre-recorded content for the conference.&lt;/p&gt;
+&lt;p&gt;YouTube&amp;rsquo;s built-in studio tools automated the process of creating an initial set video captions for human review and editing, reducing the workload for our contributors and speeding up the process to reach a finished product. Ideally, all videos would be uploaded using a set of shared standards. However, we opted to make the process simple for our contributors. We relied on YouTube&amp;rsquo;s desire for consuming video content. Any video file that could be successfully uploaded to YouTube was permitted, even if this produced some discontinuity and fluctuations in video quality.&lt;/p&gt;
+&lt;p&gt;YouTube offers there statuses for an uploaded video: public, unlisted, private. Public videos are searchable and can be viewed by anyone. Unlisted videos can be viewed by anyone with a link to the video. Private videos must be selectively shared with individuals to be viewed. All conference videos were set as unlisted. This allowed the conference videos to reside on our YouTube account, but undiscoverable to a wider audience, while affording the Website Working Group the ability to write the video identifier directly into our source code. Each session modal contained an embedded YouTube player to watch the pre-recorded session video.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netlify&lt;/a&gt;&lt;br&gt;
+Production and staging deployments of the 2020 conference website were handled by Netlify. While it would have been possible to use GitHub Pages for the site - in fact, early builds were hosted on GitHub Pages - Netlify provided several advantages for our team. While both could handle automated builds directly from push events to our GitHub repository, only Netlify offered site previews for every push. Preview notifications were sent to our Slack channel as a clickable URL, allowing anyone on the team to view the proposed code changes. This encouraged rapid feedback from less technical members of the Website Working Group and encouraged participation throughout the entire development process.&lt;/p&gt;
+&lt;p&gt;As the project code was released under an MIT license, ALAO was able to petition Netlify to sponsor us as an &lt;a href=&#34;https://www.netlify.com/legal/open-source-policy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open source project&lt;/a&gt;. Netlify&amp;rsquo;s generous support allowed us to use features within their Pro tier without any additional costs to the organization. We used: (1) Basic authentication to password-protect the site, allowing us to restrict access to only registered conference attendees, (2) Slack deployment notifications, and (3) granted everyone on the team access to our Netlify account, excellent for instant rollbacks to any previous version of the site, in the event of a problematic deployment. Open source sponsorship also granted 400GB/month bandwidth and 1000 build minutes/month, more resources than we would need to host a successful conference.&lt;/p&gt;
+&lt;h1 id=&#34;in-closing&#34;&gt;In Closing&lt;/h1&gt;
+&lt;p&gt;We had a lot of fun with our &lt;a href=&#34;https://github.com/alaoweb/2020.alaoweb.org/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code releases&lt;/a&gt;, as the guidelines for release names show.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Release names will follow an alphabetical nomenclature, similar to the World Meteorological Organization&amp;rsquo;s naming conventions for tropical cyclones. Rather than using gendered names like the WMO, each ALAO release will be named after a spice or herb. The first alpha release being &amp;lsquo;Anise&amp;rsquo;, representing the letter &amp;lsquo;A&amp;rsquo;. If there are more releases in a given year than there are letters in the Latin alphabet, release names should cycle back to the beginning of the Latin alphabet, doubling the letter for the release name (i.e. AA), and follow the rhythmic naming conventions of Ubuntu releases (e.g. &amp;lsquo;Athenian Anise&amp;rsquo;).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I released v1.0.2 of the site on October 17th, 2020; named, &lt;strong&gt;Dandelion&lt;/strong&gt;. And with that, my time was up. Let the seeds fall where they may.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://media.giphy.com/media/2HOMy2lC2YoN2/source.gif&#34; alt=&#34;Blowing a dandelion&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design After the End of the World</title>
+      <link>https://www.derekzoladz.com/post/latitude_reading_group/</link>
+      <pubDate>Thu, 22 Oct 2020 11:00:00 +0000</pubDate>
+      <guid>https://www.derekzoladz.com/post/latitude_reading_group/</guid>
+      <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;After the success of &lt;a href=&#34;https://tedsig.alaoweb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TEDSIG|2020&lt;/a&gt;, TEDSIG membership was invited to participate in a speculative design reading group. Lead by &lt;a href=&#34;https://www.reneelynn.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renee Albrecht-Mallinger&lt;/a&gt; - a design strategist, storyteller, educator, and futurist useing human-centered design methods to address problems of all sizes - and &lt;a href=&#34;https://johnjung.us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Jung&lt;/a&gt; - a computer programmer and design methods workshop facilitator, the &amp;ldquo;Design After the End of the World: Speculative Design and Climate Reading Group&amp;rdquo; was opened for registration. In partnership with &lt;a href=&#34;https://www.latitudechicago.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LATITUDE&lt;/a&gt;, a nonprofit community digital lab in Chicago, the 10 person reading group meet each Thursday, from 6:30-8:30pm CT, between September 3rd and October 22nd to discuss the weekly readings.&lt;/p&gt;
+&lt;h1 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h1&gt;
+&lt;p&gt;As an introduction to the breadth of speculative design, the reading group investigated: the work of &lt;a href=&#34;https://superflux.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Superflux&lt;/a&gt;, read selections from Amitav Ghosh&amp;rsquo;s &lt;em&gt;The Great Derangement&lt;/em&gt; and Stewart Brand&amp;rsquo;s &lt;em&gt;The Clock of the Long Now: Time and Responsibility​&lt;/em&gt;, explored games as a method for idea generation and rapid prototyping, and shared our interpretations and analysis each week.&lt;/p&gt;
+&lt;p&gt;Feel free to review an &lt;a href=&#34;https://dzoladz.github.io/2020-reading-group/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;archive of the syllabus&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;next-steps&#34;&gt;Next Steps&lt;/h1&gt;
+&lt;p&gt;Beginning with TEDSIG 2020 in July, and continued through an inspired Speculative Design and Climate Reading Group with LATITUDE, the culmination of this yearlong exploration of speculative design and libraries was formulated into a call for proposals.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;a href=&#34;https://futures.alaoweb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Speculative Futures | Post-Pandemic Libraries&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Futures are not a destination, but a medium for imaginative thought&amp;rdquo; - Anthony Dunne &amp;amp; Fiona Raby&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We might consider post-pandemic libraries to be behind us, or immediately facing us; or, perhaps they&amp;rsquo;re far beyond any near-term horizon. Remote, distant, or extending through centuries into a yet-unimagined future. &amp;lsquo;Post-pandemic&amp;rsquo; is an intentionally nebulous frame of reference, affording almost instantaneous, molecular futures, while simultaneously opening a fissure in contemporary reality: an opportunity for the as-of-yet-unthought-of to be released unto the world.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/dzoladz/tedsig-futures/blob/master/futures_cone.png?raw=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+  Attribution: &lt;a href=&#34;https://thevoroscope.com/2017/02/24/the-futures-cone-use-and-history/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joseph Voros&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This call for proposals seeks submissions for a web-based publication. The finished product will be similar to walking through a curated exhibit at an art gallery, where each contribution stands on its own as a work of art, but together, create an object for reflecting upon our present-day library and information practices.&lt;/p&gt;
+&lt;p&gt;We welcome proposals from underrepresented groups, including but not limited to: women, people of color, LGBTQ+, ability/disability, and non-binary gender identities. We also invite proposals from members of underrepresented and/or marginalized groups that don&amp;rsquo;t fit into the categories listed above.&lt;/p&gt;
+&lt;p&gt;Potential contributions might include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Photoessays&lt;/li&gt;
+&lt;li&gt;Drawings/sketches&lt;/li&gt;
+&lt;li&gt;Film/trailer&lt;/li&gt;
+&lt;li&gt;Cautionary tales&lt;/li&gt;
+&lt;li&gt;Software/code&lt;/li&gt;
+&lt;li&gt;Object from the future&lt;/li&gt;
+&lt;li&gt;Postcards that travel back in time to us&lt;/li&gt;
+&lt;li&gt;Maps or other fictional cartography&lt;/li&gt;
+&lt;li&gt;Architectural designs&lt;/li&gt;
+&lt;li&gt;Dataset from the future&lt;/li&gt;
+&lt;li&gt;Short stories, theatrical spaces, movements&lt;/li&gt;
+&lt;li&gt;A manifesto&lt;/li&gt;
+&lt;li&gt;Description of an activist event/protest from the future&lt;/li&gt;
+&lt;li&gt;News of a cataclysmic event that serves as a tipping point&lt;/li&gt;
+&lt;li&gt;Reading lists for yet-to-be-written works&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;p&gt;Proposals will be accepted until &lt;strong&gt;December 7, 2020&lt;/strong&gt; and the finished exhibition is slated to be published in late &lt;strong&gt;March, 2021&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Speculative Design &amp; Libraries</title>
+      <link>https://www.derekzoladz.com/project/tedsig2020/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.derekzoladz.com/project/tedsig2020/</guid>
+      <description>&lt;p&gt;As Co-Chair of the &lt;a href=&#34;https://www.alaoweb.org/igs/tedsig/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technical, Electronic, and Digital Services Interest Group&lt;/a&gt; (TEDSIG) - a community within the Academic Library Association of Ohio (ALAO) - my professional experiences have circumvented the shared set of historical struggles that define the group&amp;rsquo;s identity.&lt;/p&gt;
+&lt;p&gt;TEDSIG was founded in 1993 as the Technical Services Interest Group (TSIG). The interest group’s name and scope was changed in June 2007 to Technical, Electronic, and Digital Services Interest Group (TEDSIG) to better reflect the evolving status of the group’s constituents in traditional and emerging technologies. By the time that I began working at Columbus State Community College in 2008, it was evidently clear that the traditional role of technical service librarians was on the decline. As a new professional with a bias towards the use of technology in day-to-day library practices, I couldn&amp;rsquo;t understand why - or how -  the technological aspects of the profession were&amp;hellip; &lt;em&gt;on the way out&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;One of the main co-chair responsibilities is to organize an annual event for members of the TEDSIG community. It&amp;rsquo;s an opportunity to contribute to both the growth, and the future direction, of the group. Pondering the overwhelming emptiness of &amp;lsquo;what to do&amp;rsquo; with this tabla rasa, I explored the confusion of my early experiences of technical work in libraries. It wasn&amp;rsquo;t that technological work in libraries was on the way out, it was that &lt;em&gt;a specific way of conducting that technical work was on the way out&lt;/em&gt;. As I&amp;rsquo;m joining the ranks of the mid-career professionals, this gave me pause. As members of Ohio&amp;rsquo;s TEDSIG community, are we actively designing a future for the next generation of library professionals to step into?&lt;/p&gt;
+&lt;p&gt;To help us explore the design implications of our current and potential library futures, John Jung was invited to speak at TEDSIG 2020.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;photo of John Jung&#34; srcset=&#34;
+               /project/tedsig2020/john_jung_hufd91de157d165f1641f4cbbbd33bd0f1_51161_13eee133118228a9ba9332cf7a773e4f.webp 400w,
+               /project/tedsig2020/john_jung_hufd91de157d165f1641f4cbbbd33bd0f1_51161_c61575761b721c1f5fdeb7d8202bc6be.webp 760w,
+               /project/tedsig2020/john_jung_hufd91de157d165f1641f4cbbbd33bd0f1_51161_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://www.derekzoladz.com/project/tedsig2020/john_jung_hufd91de157d165f1641f4cbbbd33bd0f1_51161_13eee133118228a9ba9332cf7a773e4f.webp&#34;
+               width=&#34;402&#34;
+               height=&#34;400&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;John Jung is Design Consultant at &lt;a href=&#34;https://johnjung.us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;johnjung.us&lt;/a&gt; and Programmer/Analyst at The University of Chicago. John is interested in the different ways that research and design might intersect. He has recently spoken on Speculative Design &amp;amp; Strategy at the &lt;a href=&#34;https://johnjung.us/scd_and_strategy.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symposium on the Future of Libraries&lt;/a&gt; in Seattle, Washington, as well as having lead the provocatively-titled reading group &amp;ldquo;&lt;a href=&#34;https://www.latitudechicago.org/classes-and-workshops/reading-group-design-after-the-end-of-the-world&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Design After the End of the World&lt;/a&gt;&amp;rdquo; in his hometown of Chicago. He has a degree in art from Governors State University and a degree in design methods from the IIT Institute of Design.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/nv4Frp8p8fw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Speculative and Critical Design and Libraries&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Thomas Moynihan once noted: &amp;ldquo;We perceive the world as anticipations of its future&amp;rdquo;. If nothing else, this statement gives us pause. Just enough of a delay to remove us from immediacy. Allowing us to bring our set of expectations and assumptions to the foreground and reflect upon how these projections of a near-term reality guide our decision-making in the present. As many of our existing library systems are reaching the limits of their effectiveness, the struggle is real. To avoid a future that merely recapitulates - both the positive and negative aspects of - our present solutions, we need to think critically about the design of our future. But maybe more so, we need a toolkit to problematize our present. To shake loose our assumptions, and provide just enough distance to consider alternatives.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;That&amp;rsquo;s where Speculative Design is useful. Where traditional design attempts to solve problems, speculative design attempts to open our minds to new ways of thinking and being. If it is our capacity to envision the future that propels us forward, speculative design has promise as a way to allow us to problematize our present, so as not to repeat our past, by exposing the pre-existing conditions of our current reality.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

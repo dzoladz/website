@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PALNI | Derek Zoladz</title>
+    <link>https://www.derekzoladz.com/tag/palni/</link>
+      <atom:link href="https://www.derekzoladz.com/tag/palni/index.xml" rel="self" type="application/rss+xml" />
+    <description>PALNI</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
+      <title>PALNI</title>
+      <link>https://www.derekzoladz.com/tag/palni/</link>
+    </image>
+    
+    <item>
+      <title>ezPAARSE ’em: Towards an Increasingly Refined Understanding of Activity</title>
+      <link>https://www.derekzoladz.com/publication/ezpaarse/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.derekzoladz.com/publication/ezpaarse/</guid>
+      <description>&lt;video width=&#34;520&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;assets/ezpaarse.mp4&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

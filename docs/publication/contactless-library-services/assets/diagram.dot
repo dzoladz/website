@@ -1,0 +1,101 @@
+strict digraph MobileCredentials {
+  rankdir=RL
+  splines=ortho
+  compound=true
+  concentrate=false
+  label="BW Mobile Credentials"
+  node[style="rounded,filled,bold", shape=box, fixedsize=true, width=1.6, fontname="Arial"]
+
+  // SubGraphs
+  // Note: cluster_ prefix is important
+  subgraph cluster_baldwin_wallace {
+    label="Badlwin Wallace"
+    style=rounded
+    bgcolor="#fafafa"
+    scheduler1[label="Scheduler"]
+    database1[shape=cylinder, label="Ellucian ERP", height=1.5]
+    file1[shape=note, label="TSV", URL="https://opal-libraries.org/patron-loads/profiles"]
+    database3[shape=cylinder, label="CBORD", height=1.5]
+    {
+        rank=same;
+        scheduler1,database1
+    }
+  }
+
+  subgraph cluster_ohionet {
+    label="AWS"
+    style=rounded
+    bgcolor="#fafafa"
+    pickup[label="/bw/pickup", shape=folder]
+    dropoff[label="/bw/dropoff", shape=folder]
+    cron[label="cron"]
+    dataTransformation[label="Data Transformation\nPython", width=2, height=2]
+    {
+        rank=same;
+        cron, pickup
+    }
+  }
+
+  subgraph cluster_sierra {
+      label="Sierra"
+      style=rounded
+      bgcolor=tan
+      scheduler2[label="Scheduler"]
+      api1[label="API Server"]
+      database2[shape=cylinder, label="Database"]
+      note5[style=none;shape=plaintext; label="Ingest\nvia Load Table", width=1.5]
+      {
+          rank=same;
+          scheduler2,api1,database2, note5
+      }
+  }
+
+  subgraph cluster_patron {
+      label="Library Environment"
+      style=rounded
+      bgcolor="#fafafa"
+      phone1[label="Mobile Code", width=2.5]
+      //note6[style=none, shape=plaintext, label="scans", width=1]
+  }
+
+  // Free-Floating Nodes
+  //
+  //note2[style=none;shape=plaintext; label="key-based SSH", width=1.5]
+  scanner1[label="Emitted Light Scanner", width=2.5]
+  scanner2[label="RFID Reader", width=2.5]
+  keycard1[label="Physical Building\nLocks", width=2, height=1]
+
+  // Dotted Edges | No Arrowhead
+  edge[arrowhead=none, style=dotted]
+
+  // Dotted Edges
+  edge[arrowhead=normal, style=dotted]
+
+  // Thin Edges | No Arrowhead
+  edge[arrowhead=none, width=1, style=none, shape=plaintext]
+  scheduler2 -> note5
+
+  // Blod Edges
+  edge[arrowhead=normal, style=bold]
+  file1 -> dropoff [label="Key-based SSH", minlen=2]
+
+  // Thin Edges
+  edge[arrowhead=normal, style=normal]
+  dropoff -> dataTransformation
+  dataTransformation -> pickup
+  pickup -> scheduler2
+  note5 -> database2
+  database1 -> file1
+
+  // Hashed Edges
+  edge[arrowhead=normal, style=dashed, color=red]
+  api1 -> dataTransformation [dir=both]
+  scanner1 -> phone1
+  scanner1 -> api1 [lhead=cluster_sierra]
+  scanner2 -> api1 [lhead=cluster_sierra]
+
+  // Hashed Edges | No Arroehead (control lines)
+  edge[arrowhead=none, style=dashed, penwidth=3, color=darkgreen]
+  cron -> dataTransformation
+  scheduler1 -> database1
+}

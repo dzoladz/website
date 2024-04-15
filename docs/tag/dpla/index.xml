@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dpla | Derek Zoladz</title>
+    <link>https://www.derekzoladz.com/tag/dpla/</link>
+      <atom:link href="https://www.derekzoladz.com/tag/dpla/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dpla</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Mar 2018 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
+      <title>Dpla</title>
+      <link>https://www.derekzoladz.com/tag/dpla/</link>
+    </image>
+    
+    <item>
+      <title>Ohio Digital Network Launches</title>
+      <link>https://www.derekzoladz.com/post/dpla/</link>
+      <pubDate>Fri, 02 Mar 2018 11:00:00 +0000</pubDate>
+      <guid>https://www.derekzoladz.com/post/dpla/</guid>
+      <description>&lt;p&gt;Participating in the early group for the technical infrastructure for this project - simply called &amp;lsquo;DPLA Ohio&amp;rsquo; at the time - shaped the trajectory of my career firmly towards technology. Check out the &lt;a href=&#34;https://library.ohio.gov/news/ohio-digital-network-collections-debuts-dpla/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;State Library of Ohio&amp;rsquo;s announcement&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And the, visit the &lt;a href=&#34;https://ohiodigitalnetwork.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ohio Digital Network&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

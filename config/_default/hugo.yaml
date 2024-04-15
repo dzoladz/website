@@ -5,6 +5,7 @@
 
 title: Derek Zoladz # Website name
 baseURL: 'https://www.derekzoladz.com/' # Website URL
+publishDir: docs
 
 ############################
 ## LANGUAGE
