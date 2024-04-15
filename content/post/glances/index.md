@@ -1,23 +1,23 @@
-+++
-date = "2019-11-30T11:00:00"
-draft = false
-tags = ["applications"]
-title = "Curses, It's Glances"
-math = false
-summary = "Python-based real-time system monitoring"
+---
+date: "2019-11-30T11:00:00"
+draft: false
+tags: ["applications"]
+title: "Curses, It's Glances"
+math: false
+summary: "Python-based real-time system monitoring"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = false
+image:
+   preview_only: false
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-   focal_point = "Center"
+   focal_point: "Center"
 
-+++
+---
 
 There's definitely an argument to be made for using lightweight apps that minimize installed dependencies in an effort to: (1) minimize the surface area for vulnerabilities and attack vectors, and (2) reduce application complexity for  troubleshooting purposes when something inevitably goes wrong. However, there needs to be a balance between security gains and pleasure in using an application, what's the point in installing it in the first place if you aren't going to use it?
 

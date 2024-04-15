@@ -1,35 +1,35 @@
-+++
+---
 # Date this page was created.
-date = "2016-04-27"
-#draft = true
+date: "2016-04-27"
+#draft: true
 
 # Project title.
-title = "Augmented Reality at Columbus State Library [Photo Essay]"
+title: "Augmented Reality at Columbus State Library [Photo Essay]"
 
 # Project summary to display on homepage.
-summary = "Augmented Reality Exhibit at Columbus State Community College Library"
+summary: "Augmented Reality Exhibit at Columbus State Community College Library"
 
 # Tags: can be used for filtering projects.
-tags = ["technology", "career"]
+tags: ["technology", "career"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = ""
+#external_link: ""
 
 # Does the project detail page use math formatting?
-math = false
+math: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = true
+image:
+   preview_only: true
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-#  focal_point = "Smart"
+#  focal_point: "Smart"
 
-+++
+---
 
 *Thurgood Marshall and the Supreme Court* was an interactive exhibit at the Columbus State Library in 2015. Posters were brought to life using the augmented reality app [Aurasma](https://www.aurasma.com/).
 

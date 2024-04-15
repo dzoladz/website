@@ -1,36 +1,36 @@
-+++
+---
 # Date this page was created.
-date = "2021-03-15"
-active = true
-draft = false
+date: "2021-03-15"
+active: true
+draft: false
 
 # Project title.
-title = "Speculative Library Futures"
+title: "Speculative Library Futures"
 
 # Project summary to display on homepage.
-summary = "A yearlong exploration of speculative design and libraries by TEDSIG" 
+summary: "A yearlong exploration of speculative design and libraries by TEDSIG" 
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "tedsig_futures/featured.png"
+image_preview: "tedsig_futures/featured.png"
 
 # Tags: can be used for filtering projects.
-tags = ["technology", "TEDSIG", "ALAO", "career"]
+tags: ["technology", "TEDSIG", "ALAO", "career"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = ""
+#external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = true
+image:
+   preview_only: true
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-   # focal_point = "center"
+   # focal_point: "center"
 
-+++
+---
 
 <div>
   <p style="text-align: justify;">

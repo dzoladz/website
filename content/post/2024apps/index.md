@@ -1,23 +1,23 @@
-+++
-date = "2023-12-23T11:00:00"
-draft = false
-tags = ["applications"]
-title = "Apps I'm Taking into 2024"
-math = false
-summary = "A short list of applications that I've found useful in 2023."
+---
+date: "2023-12-23T11:00:00"
+draft: false
+tags: ["applications"]
+title: "Apps I'm Taking into 2024"
+math: false
+summary: "A short list of applications that I've found useful in 2023."
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = false
+image:
+   preview_only: false
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-   focal_point = "Center"
+   focal_point: "Center"
 
-+++
+---
 
 The previous year has brought an increased focus on the Python programming language. In particular, web frameworks and 
 libraries using to facilitate full-stack application development. My day-to-day activities at OPLIN (Ohio Public 
@@ -105,17 +105,17 @@ Below is an illustrative example of a declarative mapping of a User object:
 ```python
 from sqlalchemy.orm import declarative_base
 
-Base = declarative_base()
+Base: declarative_base()
 
 class User(Base):
-  __tablename__ = "user_account"
+  __tablename__: "user_account"
   
-  id: Mapped[int] = mapped_column(primary_key=True, index=True)
-  first_name[str] = mapped_column(String(50))
-  last_name[str] = mapped_column(String(50))
-  fullname = column_property(f'{firstname} {lastname}')
-  address: Mapped['Address'] = relationship(Address, back_populates='user')
-  email: Mapped[EmailStr] = mapped_column(EmailStr)
+  id: Mapped[int]: mapped_column(primary_key=True, index=True)
+  first_name[str]: mapped_column(String(50))
+  last_name[str]: mapped_column(String(50))
+  fullname: column_property(f'{firstname} {lastname}')
+  address: Mapped['Address']: relationship(Address, back_populates='user')
+  email: Mapped[EmailStr]: mapped_column(EmailStr)
 ```
 
 As you can see, SQLAlchemy provides a Declarative Base that can be extended to define our metadata. Most often, metadata 

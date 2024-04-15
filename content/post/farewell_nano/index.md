@@ -1,24 +1,24 @@
 
-+++
-date = "2019-06-06T11:00:00"
-draft = false
-tags = ["applications"]
-title = "Farewell, Nano"
-math = false
-summary = "Time to retire the venerable command-line text editor."
+---
+date: "2019-06-06T11:00:00"
+draft: false
+tags: ["applications"]
+title: "Farewell, Nano"
+math: false
+summary: "Time to retire the venerable command-line text editor."
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = false
+image:
+   preview_only: false
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-   focal_point = "Center"
+   focal_point: "Center"
 
-+++
+---
 
 Forever, I've used `nano` as my command-line text editor. I've never had an issue with it. In fact, it's been so reliable that I've keep it around much longer than I should have. It still works well for most of my needs, but it's time to expand my suite of skills and learn something new.
 

@@ -1,23 +1,23 @@
-+++
-date = "2022-11-28T11:00:00"
-draft = false
-tags = ["career", "technology"]
-title = "Hello OPLIN! 🎉"
-math = false
-summary = "A fresh set of challenges and new opportunities to serve Ohio's public libraries"
+---
+date: "2022-11-28T11:00:00"
+draft: false
+tags: ["career", "technology"]
+title: "Hello OPLIN! 🎉"
+math: false
+summary: "A fresh set of challenges and new opportunities to serve Ohio's public libraries"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = true
+image:
+   preview_only: true
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-   focal_point = "Center"
+   focal_point: "Center"
 
-+++
+---
 <p>After six years at OhioNet, I'm thrilled to announce that I've accepted a position as Software Developer 
 at the Ohio Public Library Information Network. In this capacity, I'll be able to continue building my 
 technical skills (breadth and depth) in support of Ohio's vibrant public libraries.</p>

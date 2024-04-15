@@ -1,23 +1,23 @@
-+++
-date = "2022-11-04T11:00:00"
-draft = false
-tags = ["alao", "conferences", "technology", "career"]
-title = "Contactless Library Services & TEDDY Award"
-math = false
-summary = "A few photos from the 2022 ALAO Conference at the Nationwide Conference Center"
+---
+date: "2022-11-04T11:00:00"
+draft: false
+tags: ["alao", "conferences", "technology", "career"]
+title: "Contactless Library Services & TEDDY Award"
+math: false
+summary: "A few photos from the 2022 ALAO Conference at the Nationwide Conference Center"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = false
+image:
+   preview_only: false
 #  # Caption (optional)
-#  # caption = "The OPAL presentation crew had a lot of fun!"
+#  # caption: "The OPAL presentation crew had a lot of fun!"
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-   focal_point = "Center"
+   focal_point: "Center"
 
-+++
+---
 
 ## As you can tell, we had a lot of fun!
 

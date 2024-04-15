@@ -1,8 +1,10 @@
-public/
+# IDEs
 .idea/
-__pycache__/
-.DS_Store
-.atom
-.editorconfig
+
+# Hugo
 resources/
+public/
+jsconfig.json
+node_modules/
+go.sum
 .hugo_build.lock

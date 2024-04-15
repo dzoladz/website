@@ -1,35 +1,35 @@
-+++
+---
 # Date this page was created.
-date = "2020-07-14"
-active = true
+date: "2020-07-14"
+active: true
 
 # Project title.
-title = "Speculative Design & Libraries"
+title: "Speculative Design & Libraries"
 
 # Project summary to display on homepage.
-summary = "Where traditional design attempts to solve problems, speculative design attempts to open our minds to new ways of thinking and being."
+summary: "Where traditional design attempts to solve problems, speculative design attempts to open our minds to new ways of thinking and being."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "tedsig2020/featured.png"
+image_preview: "tedsig2020/featured.png"
 
 # Tags: can be used for filtering projects.
-tags = ["technology", "TEDSIG", "ALAO", "career"]
+tags: ["technology", "TEDSIG", "ALAO", "career"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = ""
+#external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = true
+image:
+   preview_only: true
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-   # focal_point = "center"
+   # focal_point: "center"
 
-+++
+---
 
 As Co-Chair of the [Technical, Electronic, and Digital Services Interest Group](https://www.alaoweb.org/igs/tedsig/index.html) (TEDSIG) - a community within the Academic Library Association of Ohio (ALAO) - my professional experiences have circumvented the shared set of historical struggles that define the group's identity.
 

@@ -1,33 +1,33 @@
-+++
+---
 # Date this page was created.
-date = "2016-04-27"
-active = false
-draft = true
+date: "2016-04-27"
+active: false
+draft: true
 
 # Project title.
-title = "Business Resource Tutorials"
+title: "Business Resource Tutorials"
 
 # Project summary to display on homepage.
-summary = "Archived Sample of Business Resource Tutorials at Columbus State Library"
+summary: "Archived Sample of Business Resource Tutorials at Columbus State Library"
 
 # Tags: can be used for filtering projects.
-tags = ["technology"]
+tags: ["technology"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = ""
+#external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = true
+image:
+   preview_only: true
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-#  focal_point = "Smart"
+#  focal_point: "Smart"
 
-+++
+---
 
 # Business Resource Tutorials at the Columbus State Library
 ## A small sample of early tutorials created at the Columbus State Library

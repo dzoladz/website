@@ -1,23 +1,23 @@
-+++
-date = "2020-10-28T11:00:00"
-draft = false
-tags = ["conferences", "ALAO", "career"]
-title = "2020... the year of the great learning"
-math = false
-summary = "Tools & Services for a virtual conference"
+---
+date: "2020-10-28T11:00:00"
+draft: false
+tags: ["conferences", "ALAO", "career"]
+title: "2020... the year of the great learning"
+math: false
+summary: "Tools & Services for a virtual conference"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = false
+image:
+   preview_only: false
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-   focal_point = "Center"
+   focal_point: "Center"
 
-+++
+---
 
 One upside of 2020 has been the expansion of learning opportunities. Conferences with pricey registration fees or cost-prohibitive for travel reasons have become real opportunities, as library and library-adjacent conferences and workshops transition to online delivery. I've registered for three times as many conference as I would in a typical year, but I've also not attended most of those events. When the event actually gets here, there's always other work that I find a better use my time. I guess that's a consequence of free registration - although I'm not sure how it has been possible for so many organizations to offer free registration for their online events this year. There are plenty of tangible costs associated with a delivery of a fully online conference. Anyway... that's all a divergence from the intent of this post, which is to reflect upon my work for the [2020 ALAO Conference](https://2020.alaoweb.org/)
 

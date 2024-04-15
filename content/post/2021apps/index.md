@@ -1,23 +1,23 @@
-+++
-date = "2021-01-01T11:00:00"
-draft = false
-tags = ["applications"]
-title = "Apps I'm Taking into 2021"
-math = false
-summary = "A short list of applications that I've found useful in 2020."
+---
+date: "2021-01-01T11:00:00"
+draft: false
+tags: ["applications"]
+title: "Apps I'm Taking into 2021"
+math: false
+summary: "A short list of applications that I've found useful in 2020."
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = false
+image:
+   preview_only: false
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-   focal_point = "Center"
+   focal_point: "Center"
 
-+++
+---
 While it's a major challenge to identify all of the scripts, command line tools, and web-based applications that have influenced my thoughts and workflow over the previous year,
 here's a set of applications that I'm excited to take with me into the new year.
 
@@ -72,12 +72,12 @@ It also makes it easy to drop in a Python utility script that takes the `.dot` i
 from graphviz import Source
 import os
 
-input_file = 'contextualizing-ezproxy' + '.dot'
-output_file = 'contextualizing-ezproxy' + '.png'
+input_file: 'contextualizing-ezproxy' + '.dot'
+output_file: 'contextualizing-ezproxy' + '.png'
 
 os.system('dot -Tpng ' + input_file + ' -o ' + output_file)
 
-source = Source.from_file(input_file)
+source: Source.from_file(input_file)
 source.view()
 ```
 

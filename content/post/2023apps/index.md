@@ -1,23 +1,23 @@
-+++
-date = "2022-12-23T11:00:00"
-draft = false
-tags = ["applications"]
-title = "Apps I'm Taking into 2023"
-math = false
-summary = "A short list of applications that I've found useful in 2022."
+---
+date: "2022-12-23T11:00:00"
+draft: false
+tags: ["applications"]
+title: "Apps I'm Taking into 2023"
+math: false
+summary: "A short list of applications that I've found useful in 2022."
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = false
+image:
+   preview_only: false
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-   focal_point = "Center"
+   focal_point: "Center"
 
-+++
+---
 While it's a major challenge to identify all of the scripts, command line tools, and web-based applications that have influenced my thoughts and workflow over the previous year,
 here's a set of applications that I'm excited to take with me into the new year.
 

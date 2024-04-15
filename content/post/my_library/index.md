@@ -1,23 +1,23 @@
-+++
-date = "2019-10-03T11:00:00"
-draft = false
-tags = ["applications"]
-title = "Overview of My Personal Library"
-math = false
-summary = "Building a personal library from scratch: Hardware, Networking, and ILS."
+---
+date: "2019-10-03T11:00:00"
+draft: false
+tags: ["applications"]
+title: "Overview of My Personal Library"
+math: false
+summary: "Building a personal library from scratch: Hardware, Networking, and ILS."
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = false
+image:
+   preview_only: false
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-   focal_point = "Center"
+   focal_point: "Center"
 
-+++
+---
 
 On a day-to-day basis, I work with the [Consortium of Ohio Libraries](http://info.cool-cat.org/) on their open-source ILS [Evergreen](https://evergreen-ils.org/). Whether it's configuring new circulation policies, adjusting global system settings, or writing SQL to batch update item attributes, I've explored a significant chunk of Evergreen over the last 3 years. But it's an understatment to say that Evergreen is a massive application. There's still plenty of uncharted functionality.
    

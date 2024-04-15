@@ -1,23 +1,23 @@
-+++
-date = "2020-10-22T11:00:00"
-draft = false
-tags = ["speculative", "TEDSIG", "ALAO", "career"]
-title = "Design After the End of the World"
-math = false
-summary = "Speculative Design & Climate Change"
+---
+date: "2020-10-22T11:00:00"
+draft: false
+tags: ["speculative", "TEDSIG", "ALAO", "career"]
+title: "Design After the End of the World"
+math: false
+summary: "Speculative Design & Climate Change"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = false
+image:
+   preview_only: false
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-   focal_point = "Center"
+   focal_point: "Center"
 
-+++
+---
 
 
 # Intro

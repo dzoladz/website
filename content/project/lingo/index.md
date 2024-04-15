@@ -1,35 +1,35 @@
-+++
+---
 # Date this page was created.
-date = "2013-06-23"
-draft = false
+date: "2013-06-23"
+draft: false
 
 # Project title.
-title = "Lingo"
+title: "Lingo"
 
 # Project summary to display on homepage.
-summary = "Mobile Application Developed for ILEADUSA-OHIO 2013"
+summary: "Mobile Application Developed for ILEADUSA-OHIO 2013"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "lingo/lingo-cover.png"
+image_preview: "lingo/lingo-cover.png"
 
 # Tags: can be used for filtering projects.
-tags = ["technology", "career"]
+tags: ["technology", "career"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = ""
+#external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = true
+image:
+   preview_only: true
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-#  focal_point = "Smart"
+#  focal_point: "Smart"
 
-+++
+---
 
 Ohio’s first ILEAD USA was a multi-state immersive continuing education program that develops library leaders through projects based on community needs via the application of participatory technology tools. Ohio participants joined others from Colorado, Illinois, Iowa, and Utah in this national initiative. ILEAD USA was funded by a Laura Bush 21st Century Librarian Program grant to the State Library of Illinois from the Institute of Museum and Library Services.
 

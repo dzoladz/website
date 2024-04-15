@@ -1,23 +1,23 @@
-+++
-date = "2021-12-31T11:00:00"
-draft = false
-tags = ["applications"]
-title = "2022 Apps, A Bit Differently"
-math = false
-summary = "Soft aspirations for the new year"
+---
+date: "2021-12-31T11:00:00"
+draft: false
+tags: ["applications"]
+title: "2022 Apps, A Bit Differently"
+math: false
+summary: "Soft aspirations for the new year"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = false
+image:
+   preview_only: false
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-   focal_point = "Center"
+   focal_point: "Center"
 
-+++
+---
 
 > Duane Hanson *Janitor*, sculpture at the [Milwaukee Museum of Art](https://mam.org/) (DCZ, photo taken 2021)
 

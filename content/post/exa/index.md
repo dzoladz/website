@@ -1,24 +1,24 @@
 
-+++
-date = "2019-08-09T11:00:00"
-draft = false
-tags = ["applications"]
-title = "Why ls is exa"
-math = false
-summary = "tl;dr: informative metadata at a glance"
+---
+date: "2019-08-09T11:00:00"
+draft: false
+tags: ["applications"]
+title: "Why ls is exa"
+math: false
+summary: "tl;dr: informative metadata at a glance"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = false
+image:
+   preview_only: false
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-   focal_point = "Center"
+   focal_point: "Center"
 
-+++
+---
 
 One of the most common commands that I execute in the terminal is simply to list the contents of a directory. Since I do this so often, being able to quickly and easily digest vast amounts of information about the content of the directory is essential. That's where [exa](https://the.exa.website/) shines.
 

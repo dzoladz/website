@@ -1,23 +1,23 @@
-+++
-date = "2021-03-01T11:00:00"
-draft = true
-tags = ["conferences", "Code4Lib"]
-title = "Code{4}Lib 2021 - Online"
-math = false
-summary = "Leading the Website Working Group"
+---
+date: "2021-03-01T11:00:00"
+draft: true
+tags: ["conferences", "Code4Lib"]
+title: "Code{4}Lib 2021 - Online"
+math: false
+summary: "Leading the Website Working Group"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-   preview_only = true
+image:
+   preview_only: true
 #  # Caption (optional)
-#  caption = ""
+#  caption: ""
 #
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, #Bottom, BottomRight
-   focal_point = "Center"
+   focal_point: "Center"
 
-+++
+---
 
 Our charge, for the 2021 Website Working Group, was to focus on content strategy and new feature implementations for the first fully-online Code4Lib conference; and our primary goal was straightforward: "To improve the overall experience for users (e.g., all attendees, speakers, potential sponsors, post-conference users)"  
 
