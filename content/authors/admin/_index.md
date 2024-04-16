@@ -129,7 +129,7 @@ social:
     link: https://member.acm.org/~dzoladz
   - icon: ieee
     icon_pack: ai
-    link:
+    link: https://www.ieee.org/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
