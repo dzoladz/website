@@ -72,3 +72,8 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+# Do not build RSS files
+disableRSS: false
+# maximum number of items in the RSS feed
+rssLimit: 10
