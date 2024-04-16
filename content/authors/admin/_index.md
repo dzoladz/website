@@ -112,6 +112,9 @@ social:
   - icon: images
     icon_pack: fas
     link: https://dzoladz.github.io/curiousitarium/
+  - icon: rss
+    icon_pack: fas
+    link: https://www.derekzoladz.com/index.xml
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
