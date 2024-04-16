@@ -645,50 +645,5 @@ xa=37&amp;quot;
 </description>
     </item>
     
-    <item>
-      <title>Apps I&#39;m Taking into 2019</title>
-      <link>https://www.derekzoladz.com/post/2018apps/</link>
-      <pubDate>Mon, 31 Dec 2018 11:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/post/2018apps/</guid>
-      <description>&lt;p&gt;I should probably start off with a bit of a caveat.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/TTRyEOT.jpg&#34; alt=&#34;image of Steve Jobs calling all categories of computer program an app.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Okay. Now that we have that out of the way, here are a few of the apps that I&amp;rsquo;ve discovered over the last 365 days that I&amp;rsquo;ll be taking with me into 2019.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.jetbrains.com/pycharm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyCharm&lt;/a&gt;&lt;br&gt;
-PyCharm is a Python IDE with an extensive collection of plugins. I&amp;rsquo;m using the community edition to develop Python scripts in support the Consortium of Ohio Libraries, mainly to interact with the Evergreen ILS. PyCharm includes a useful testing suite and refactoring tools, while also providing straightforward integration with GitHub and seamless implementation of pipenv virtual environments. Simple on-boarding for new python developers, but feature rich and extensible as your needs grow.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.iterm2.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTerm2&lt;/a&gt;&lt;br&gt;
-Essentially, a terminal replacement for the native terminal application that shipped with my MacBook Pro. I find the ability to split terminal panes both vertically and horizontally an advantage for different tasks. I&amp;rsquo;ve also made use of the integrated search feature quite a bit. With colorized output, it&amp;rsquo;s beautiful to use. There are also a slew of other powerful features that I rarely make use of (in 2018, at least).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.sequelpro.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sequel Pro&lt;/a&gt;&lt;br&gt;
-A MacOS native application for interacting with MySQL and MariaDB and a replacement phpMyAdmin. Enough said.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/sqlitebrowser/sqlitebrowser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DB browser for SQLite&lt;/a&gt;&lt;br&gt;
-Open source application to create and edit SQLite database files. My main use case is to import Excel worksheets and be able to execute SQL commands on the data. Maybe more importantly is the ability to import multiple Excel worksheets, join them together, and query across them. This tool said me quite a bit of time when working with the Academic Library Association of Ohio (ALAO) this past year.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://brave.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brave&lt;/a&gt;&lt;br&gt;
-A web browser built on Chromium and the Blink rendering engine, a fork of WebKit. It&amp;rsquo;s my drop-in replacement for Google Chrome at the moment.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/robbyrussell/oh-my-zsh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oh My Zsh&lt;/a&gt;&lt;br&gt;
-I&amp;rsquo;ve abandoned Bash and began using the Z shell on my MacBook Pro. I&amp;rsquo;m a very big fan of the available themes, which have assisted with git workflow and generally made working in the terminal a much more pleasant and enjoyable experience. Highly recommended.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/berick/pysip2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PySip2&lt;/a&gt;&lt;br&gt;
-A Python-based SIP 2 client that has been invaluable this year. I&amp;rsquo;ve used this tool for testing SIP connectivity during the statewide implementation of Lynda.com, while establishing authentication for the Ohio Digital Library, for new subscriptions to Hoopla, and also while implementing a PC management system at one on the COOL libraries. Outstanding little application.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
