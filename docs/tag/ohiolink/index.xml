@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OhioLINK | Derek Zoladz</title>
-    <link>http://localhost:1313/tag/ohiolink/</link>
-      <atom:link href="http://localhost:1313/tag/ohiolink/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.derekzoladz.com/tag/ohiolink/</link>
+      <atom:link href="https://www.derekzoladz.com/tag/ohiolink/index.xml" rel="self" type="application/rss+xml" />
     <description>OhioLINK</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
       <title>OhioLINK</title>
-      <link>http://localhost:1313/tag/ohiolink/</link>
+      <link>https://www.derekzoladz.com/tag/ohiolink/</link>
     </image>
     
     <item>
       <title>Contextualizing EZproxy for Improved Troubleshooting and Problem Reports</title>
-      <link>http://localhost:1313/publication/contextualizing_ezproxy/</link>
+      <link>https://www.derekzoladz.com/publication/contextualizing_ezproxy/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/contextualizing_ezproxy/</guid>
+      <guid>https://www.derekzoladz.com/publication/contextualizing_ezproxy/</guid>
       <description></description>
     </item>
     
