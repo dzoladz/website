@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speculative | Derek Zoladz</title>
-    <link>https://www.derekzoladz.com/tag/speculative/</link>
-      <atom:link href="https://www.derekzoladz.com/tag/speculative/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/speculative/</link>
+      <atom:link href="http://localhost:1313/tag/speculative/index.xml" rel="self" type="application/rss+xml" />
     <description>Speculative</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Oct 2020 11:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
       <title>Speculative</title>
-      <link>https://www.derekzoladz.com/tag/speculative/</link>
+      <link>http://localhost:1313/tag/speculative/</link>
     </image>
     
     <item>
       <title>Design After the End of the World</title>
-      <link>https://www.derekzoladz.com/post/latitude_reading_group/</link>
+      <link>http://localhost:1313/post/latitude_reading_group/</link>
       <pubDate>Thu, 22 Oct 2020 11:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/post/latitude_reading_group/</guid>
+      <guid>http://localhost:1313/post/latitude_reading_group/</guid>
       <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
 &lt;p&gt;After the success of &lt;a href=&#34;https://tedsig.alaoweb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TEDSIG|2020&lt;/a&gt;, TEDSIG membership was invited to participate in a speculative design reading group. Lead by &lt;a href=&#34;https://www.reneelynn.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renee Albrecht-Mallinger&lt;/a&gt; - a design strategist, storyteller, educator, and futurist useing human-centered design methods to address problems of all sizes - and &lt;a href=&#34;https://johnjung.us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Jung&lt;/a&gt; - a computer programmer and design methods workshop facilitator, the &amp;ldquo;Design After the End of the World: Speculative Design and Climate Reading Group&amp;rdquo; was opened for registration. In partnership with &lt;a href=&#34;https://www.latitudechicago.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LATITUDE&lt;/a&gt;, a nonprofit community digital lab in Chicago, the 10 person reading group meet each Thursday, from 6:30-8:30pm CT, between September 3rd and October 22nd to discuss the weekly readings.&lt;/p&gt;
 &lt;h1 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h1&gt;

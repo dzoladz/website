@@ -2,21 +2,408 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Applications | Derek Zoladz</title>
-    <link>https://www.derekzoladz.com/tag/applications/</link>
-      <atom:link href="https://www.derekzoladz.com/tag/applications/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/applications/</link>
+      <atom:link href="http://localhost:1313/tag/applications/index.xml" rel="self" type="application/rss+xml" />
     <description>Applications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Dec 2023 11:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 11:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
       <title>Applications</title>
-      <link>https://www.derekzoladz.com/tag/applications/</link>
+      <link>http://localhost:1313/tag/applications/</link>
     </image>
     
     <item>
+      <title>Jonas N.T. Becker - Blank Topographies</title>
+      <link>http://localhost:1313/post/2024becker/</link>
+      <pubDate>Sat, 01 Jun 2024 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024becker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DrupalCon 2024: Portland, Oregon</title>
+      <link>http://localhost:1313/post/drupalcon2024/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/drupalcon2024/</guid>
+      <description>&lt;p&gt;Getting back to somewhat of a normal afternoon, I decided to take a look at my &lt;a href=&#34;https://events.drupal.org/portland2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DrupalCon 2024&lt;/a&gt; notes. There
+has been a lot of discussion around generative AI, both at the conference and in the OPLIN office, so I thought I&amp;rsquo;d
+let ChatGPT take a crack at generating the introductory paragraph about DrupalCon 2024. Based upon my session note
+files currently open in my IDE (Integrated Development Environment), here is the result&amp;hellip;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt;DrupalCon 2024 is the best DrupalCon ever! It&#39;s the first DrupalCon to be held on 
+the moon, and it&#39;s the first DrupalCon to be held in space. The moon is a great 
+place to hold a conference because it&#39;s a lot quieter than Earth. There are no 
+cars or trucks driving by, and there are no people talking loudly. The moon is 
+also a great place to hold a conference because it&#39;s a lot cooler than Earth. The 
+temperature on the moon is always around -20 degrees Celsius, which is perfect 
+fora conference. The moon is also a great place to hold a conference because it&#39;s
+a lot cleaner than Earth. There is no pollution on the moon, so the air is always 
+fresh and clean. The moon is also a great place to hold a conference because it&#39;s 
+a lot safer than Earth. There are no criminals on the moon, so you don&#39;t have to 
+worry about getting mugged or robbed. The moon is also a great place to hold a 
+conference because it&#39;s a lot more fun than Earth. There are no boring office 
+buildings or crowded streets on the moon. Instead, there are craters to explore, 
+mountains to climb, and valleys to hike through. DrupalCon 2024 is going to be 
+the best DrupalCon ever, and you won&#39;t want to miss it!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr/&gt;
+&lt;p&gt;Exploring the craters on the moon does sound like a lot of fun!&lt;/p&gt;
+&lt;p&gt;Back here on planet Earth, we like to call Portland, Oregon the location of DrupalCon 2024.
+The conference was held at the Oregon Convention Center from May 6-9, 2024; requiring travel
+through the John Glenn Columbus International Airport (CMH), Dallas Love Field (DAL), Portland
+International Airport (PDX), and Denver International Airport (DEN).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-4683-miles-travelled-for-drupalcon-2024&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;map of the united states indicating the geographic location of traveled airports&#34; srcset=&#34;
+               /post/drupalcon2024/flight-map_hu32c05291598800cbb82a059df5963ebc_407545_ec56904b76c8ba339419e2584bce9a1b.webp 400w,
+               /post/drupalcon2024/flight-map_hu32c05291598800cbb82a059df5963ebc_407545_71d45e4eb0bd0ae1c900920532190982.webp 760w,
+               /post/drupalcon2024/flight-map_hu32c05291598800cbb82a059df5963ebc_407545_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/drupalcon2024/flight-map_hu32c05291598800cbb82a059df5963ebc_407545_ec56904b76c8ba339419e2584bce9a1b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;394&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      4,683 miles travelled for DrupalCon 2024
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;day-1-may-6-2024&#34;&gt;Day 1: May 6, 2024&lt;/h1&gt;
+&lt;h2 id=&#34;driesnote&#34;&gt;Driesnote&lt;/h2&gt;
+&lt;p&gt;Dries Buytaert, the founder of Drupal, gave the keynote address at DrupalCon 2024. He talked about the history of
+Drupal and how it has evolved over the years. He also discussed the future of Drupal and what we can expect in the
+coming years. One of the big announcements was the launch of &lt;a href=&#34;https://www.drupal.org/starshot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Starshot&lt;/a&gt;, a
+new initiative to create an out-of-the-box CMS (Content Management System) experience for Drupal that includes the
+latest features of Drupal Code combined with a curated suite of best-in-class community contributed modules for
+common features. An unstated goal of this effort would be to for the Drupal community to have a competitive product
+to the Wordpress experience.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dri.es/files/state-of-drupal-may-2024.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Presentation slides are available&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe 
+  width=&#34;625&#34; height=&#34;350&#34;
+  style=&#34;margin: 0 auto; display: block;&#34; 
+  src=&#34;https://www.youtube.com/embed/I95hSyocMlg?si=d8BswF9XPr249Y50&amp;amp;start=1185&#34;
+  frameborder=&#34;0&#34;
+  allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;h2 id=&#34;birds-of-a-feather-drupal4lib&#34;&gt;Birds of a Feather: Drupal4Lib&lt;/h2&gt;
+&lt;p&gt;The Drupal4Lib Birds of a Feather session was a great opportunity for librarians and cultural heritage professionals
+to connect and share their experiences using Drupal. The session covered topics like the
+&lt;a href=&#34;https://www.drupal.org/project/eca&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Event - Condition - Action&lt;/a&gt; (ECA) module and &lt;a href=&#34;https://www.islandora.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Islandora&lt;/a&gt;
+, an open-source digital asset management system built on top of Drupal Core. If you&amp;rsquo;re a librarian interested in Drupal
+, be sure to join the &lt;a href=&#34;https://www.drupal.org/slack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drupal4Lib Slack channel&lt;/a&gt; and search for other folks in the
+&lt;code&gt;drupal4lib&lt;/code&gt; community.&lt;/p&gt;
+&lt;h2 id=&#34;config-validation&#34;&gt;Config Validation&lt;/h2&gt;
+&lt;p&gt;Wil Leers gave a presentation on config validation in Drupal 10.2. He discussed how Drupal 8.4 laid the foundations for
+config validation and how it has evolved in Drupal 9.4. He demonstrated how modules can adopt config validation using
+&lt;code&gt;#config_target&lt;/code&gt; and how this can make Drupal more reliable. Because validating configuration in Drupal is a vast topic,
+I&amp;rsquo;ve linked Wil&amp;rsquo;s presentation from last year&amp;rsquo;s DrupalCon Pittsburgh.&lt;/p&gt;
+&lt;iframe 
+  width=&#34;625&#34; height=&#34;350&#34;
+  style=&#34;margin: 0 auto; display: block;&#34;
+  src=&#34;https://www.youtube.com/embed/mat99-lWA_U?si=_0EiKC4ZS2TTdsgp&#34;
+  frameborder=&#34;0&#34;
+  allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;h2 id=&#34;project-browser&#34;&gt;Project Browser&lt;/h2&gt;
+&lt;p&gt;The Project Browser session was a deep dive into the new features of the Drupal
+&lt;a href=&#34;https://www.drupal.org/project/project_browser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Browser&lt;/a&gt; initiative. Project Browser makes it easy for site
+builders to find modules. Once the modules is installed, the project browser lives inside the Drupal site itself and
+provides a marketplace-like experience for modules.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-project-browser-design-sets&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;current figma designs for the minimum viable product&#34; srcset=&#34;
+               /post/drupalcon2024/project_browser_hu5bcbc0eb841aa4e529eec8a863327356_465497_3d37c12caf75140762e231db8b7cf973.webp 400w,
+               /post/drupalcon2024/project_browser_hu5bcbc0eb841aa4e529eec8a863327356_465497_5d57be5a8e5384794f791eff866cca8c.webp 760w,
+               /post/drupalcon2024/project_browser_hu5bcbc0eb841aa4e529eec8a863327356_465497_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/drupalcon2024/project_browser_hu5bcbc0eb841aa4e529eec8a863327356_465497_3d37c12caf75140762e231db8b7cf973.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;362&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Project Browser design sets
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;day-2-may-7-2024&#34;&gt;Day 2: May 7, 2024&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-portlanders-have-you-been-waiting-a-long-time&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://www.burgerville.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img alt=&#34;Portlanders, have you been waiting a long time?&#34; srcset=&#34;
+               /post/drupalcon2024/asparagus_hu02aa61ae1d9de35cbe238d2676170cb9_393485_109fc738459ab78f51d570aefbe34853.webp 400w,
+               /post/drupalcon2024/asparagus_hu02aa61ae1d9de35cbe238d2676170cb9_393485_9f2a1e341252ebe9c9db60788d5df3e1.webp 760w,
+               /post/drupalcon2024/asparagus_hu02aa61ae1d9de35cbe238d2676170cb9_393485_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/drupalcon2024/asparagus_hu02aa61ae1d9de35cbe238d2676170cb9_393485_109fc738459ab78f51d570aefbe34853.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;573&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Portlanders, have you been waiting a long time?
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;mcgill-university&#34;&gt;McGill University&lt;/h2&gt;
+&lt;p&gt;McGill University gave a presentation on how they manage, test, and deploy 1,000 Drupal websites using Ansible and
+Gitlab CI. The best way to understand the gist of this presentation is to peruse the
+&lt;a href=&#34;mcgill_ansible_gitlab.pdf&#34;&gt;presentation slides&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-screenshot-of-thomas-flines-slides&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;mcgill_ansible_gitlab.pdf&#34; &gt;&lt;img alt=&#34;Screenshot of Thomas Fline&amp;#39;s Slides&#34; srcset=&#34;
+               /post/drupalcon2024/mcgill_hu140a138097a547e0ca0c3499cbb1bed6_621864_31ab4d2e858817d6389cd516980cb862.webp 400w,
+               /post/drupalcon2024/mcgill_hu140a138097a547e0ca0c3499cbb1bed6_621864_32748c26ff766eaf2d469830ba0209fb.webp 760w,
+               /post/drupalcon2024/mcgill_hu140a138097a547e0ca0c3499cbb1bed6_621864_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/drupalcon2024/mcgill_hu140a138097a547e0ca0c3499cbb1bed6_621864_31ab4d2e858817d6389cd516980cb862.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;429&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Screenshot of Thomas Fline&amp;rsquo;s Slides
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;stopped-here-----------------&#34;&gt;STOPPED HERE &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/h1&gt;
+&lt;h2 id=&#34;drupal-11-whats-new&#34;&gt;Drupal 11: What&amp;rsquo;s New&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://git.drupalcode.org/goba&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gábor Hojtsy&lt;/a&gt; led this session discussing the upcoming features of Drupal 11. While
+features are always welcome, the key takeaway from this session is a rethinking of Drupal Core. Core will become the
+foundational engine that supports &amp;ldquo;ecosystems&amp;rdquo;, refining the focus of Core to be a platform for modules. Drupal Core
+will get smaller and smaller, as one-off modules intended to provide functionality, not support entire ecosystems of
+modules, are removed from Core and shifting into community contributions.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.drupal.org/project/book&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book Module&lt;/a&gt; is an example of a module - used by OPLIN Webkits to provide
+hierarchical structure of nodes - scheduled to be removed from Core ore in the Drupal 11 release  after 22 years.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Release Date&lt;/th&gt;
+&lt;th&gt;Version&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;July 29, 2024&lt;/td&gt;
+&lt;td&gt;Drupal 11&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Late 2024&lt;/td&gt;
+&lt;td&gt;Drupal 10.4 LTS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;July 2026&lt;/td&gt;
+&lt;td&gt;Drupal 12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Long-Term Support (LTS) releases of Drupal Core are available. I was familiar with LTS releases in the Debian space, but
+I was not aware of LTS releases of Drupal Core. LTS offers and additional 2 years of support. The end-of-life (EOL) of
+Drupal 10.x is slated for mid-late 2026.&lt;/p&gt;
+&lt;h2 id=&#34;from-drupal-7-to-drupal-10&#34;&gt;From Drupal 7 to Drupal 10&lt;/h2&gt;
+&lt;p&gt;Drupal 7 will be end-of-life in January 2025. Performing a migration from Drupal 7 to modern Drupal was a topic sitting
+behind almost every presentation at the conference. This session put some hard data behind the community&amp;rsquo;s obvious
+concerns. As of January 2024, nearly 43% of the entire Drupal community is running on Drupal 7 with EOL roughly 6 months
+out. The main point of this session was to announce that &lt;a href=&#34;https://www.acquia.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acquia&lt;/a&gt; recently open sourced their
+migration automation tool, Acquia Migrate: Accelerate (AM:A) to help the community migrate away from Drupal 7 with
+confidence.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.drupal.org/u/mikemadison&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mike Madison&amp;rsquo;s&lt;/a&gt; Recommended Links&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.herodevs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Herodevs: Drupal 7 forever&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.drupal.org/project/acquia_migrate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acquia Migrate: Accelerate (AM:A)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.drupal.org/project/upgrade_status&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Upgrade Status&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drupal-entity-generator.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drupal Entity Generator (DEG)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.drupal.org/project/rector&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drupal Rector&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.acquia.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acquia Developer Portal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And with the anxiety surrounding the migration from Drupal 7 to Drupal 10, it&amp;rsquo;s worth noting an earlier session on the
+first day of the conference announcing &lt;a href=&#34;https://retrofit-drupal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RetroFit&lt;/a&gt;. RetroFit provides several compatibility
+layers that will allow Drupal 7 code to run within a Drupal 10 environemnt.&lt;/p&gt;
+&lt;iframe 
+  width=&#34;625&#34; height=&#34;350&#34;
+  style=&#34;margin: 0 auto; display: block;&#34;
+  src=&#34;https://www.youtube.com/embed/C92LWKVhLmI?si=_lRDSGu446Traqwi&#34;
+  frameborder=&#34;0&#34;
+  allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;h1 id=&#34;day-3-may-8-2024&#34;&gt;Day 3: May 8, 2024&lt;/h1&gt;
+&lt;h2 id=&#34;drupal-project-initiatives-keynote&#34;&gt;Drupal Project Initiatives Keynote&lt;/h2&gt;
+&lt;h3 id=&#34;drupalizeme&#34;&gt;Drupalize.me&lt;/h3&gt;
+&lt;p&gt;(1) Issue Queues
+&lt;a href=&#34;https://drupalize.me/blog/dcpdx-2024-iq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://drupalize.me/blog/dcpdx-2024-iq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Contributions linked to Drupal.org User Profile
+&lt;a href=&#34;https://www.drupal.org/u/dzoladz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.drupal.org/u/dzoladz&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;gander&#34;&gt;Gander&lt;/h3&gt;
+&lt;p&gt;Performance Testing&lt;/p&gt;
+&lt;p&gt;tag1.com/gander/ten-percent-faster&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/tag1consulting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/tag1consulting&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;gitlab-ci&#34;&gt;Gitlab CI&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://project.pages.drupalcode.org/gitlab_templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://project.pages.drupalcode.org/gitlab_templates/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;automatic-updates&#34;&gt;Automatic Updates&lt;/h3&gt;
+&lt;p&gt;drupal.org/projects/automatic_updates&lt;/p&gt;
+&lt;h3 id=&#34;eca&#34;&gt;ECA&lt;/h3&gt;
+&lt;p&gt;Drupal Project
+&lt;a href=&#34;https://www.drupal.org/project/eca&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.drupal.org/project/eca&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;UI
+&lt;a href=&#34;https://bpmn.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bpmn.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Guide
+&lt;a href=&#34;https://ecaguide.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ecaguide.org/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;new-navigation&#34;&gt;New Navigation&lt;/h3&gt;
+&lt;p&gt;Left sidebar navigation, i.e., modern navigation patterns&lt;/p&gt;
+&lt;p&gt;uses layout builder to &amp;ldquo;drag and drop&amp;rdquo; navigation components&lt;/p&gt;
+&lt;p&gt;navigation.module -&amp;gt; in core&lt;/p&gt;
+&lt;h3 id=&#34;single-directory-components&#34;&gt;Single directory components&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;site building&amp;rdquo; ?&lt;/p&gt;
+&lt;h2 id=&#34;first-contribution-workshop&#34;&gt;First Contribution Workshop&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.drupal.org/documentation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drupal Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.drupal.org/project/issues/search/drupal?issue_tags=Novice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Novice Issue Queue for Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;drupal.org/tools&#34;&gt;Setting Up a Development Environment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;downtown-portland&#34;&gt;Downtown Portland&lt;/h2&gt;
+&lt;p&gt;TriMet system&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Portland still has amazing food culture&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Vegan magic box (Black Water is 100% Vegan) &lt;a href=&#34;https://bar.blackwaterpdx.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bar.blackwaterpdx.com/&lt;/a&gt;
+Naan N Curry (Southern Indian) &lt;a href=&#34;https://www.naancurrypdx.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.naancurrypdx.com/&lt;/a&gt;
+Hibabi (Syrian/Lebanese) &lt;a href=&#34;https://www.habibirestaurantmenu.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.habibirestaurantmenu.com/&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Powell&amp;rsquo;s Bookstore is a must&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The small press section is unique. It&amp;rsquo;s a very rare occurance to be able to physically browse materials
+published by a wide spectrum of small publishers in a single location. I could spend many days in this store.&lt;/p&gt;
+&lt;h1 id=&#34;day-4-may-9-2024&#34;&gt;Day 4: May 9, 2024&lt;/h1&gt;
+&lt;p&gt;The Government Summit was in the morning.&lt;/p&gt;
+&lt;h1 id=&#34;types-of-ai&#34;&gt;Types of AI&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Generative AI&lt;/li&gt;
+&lt;li&gt;Speech Recognition&lt;/li&gt;
+&lt;li&gt;Optical Character Recognition&lt;/li&gt;
+&lt;li&gt;Predictive AI&lt;/li&gt;
+&lt;li&gt;Recommendation AI&lt;/li&gt;
+&lt;li&gt;Sentiment Analysis&lt;/li&gt;
+&lt;li&gt;Image Recognition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Multnomah County Library -&amp;gt; Drupal Library
+&lt;a href=&#34;https://multcolib.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://multcolib.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://groups.drupal.org/libraries/resources&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drupal Resources for Public Libraries&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://architecture.lullabot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lullabot - Architectural Decision Records&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;practical-digital-first-design-systems&#34;&gt;Practical, Digital-First Design Systems&lt;/h2&gt;
+&lt;p&gt;Website modernization (21st Centruy Integrated Digital Experience Act)
+&lt;a href=&#34;https://digital.gov/resources/delivering-digital-first-public-experience/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://digital.gov/resources/delivering-digital-first-public-experience/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;USWDS maturity model
+&lt;a href=&#34;https://designsystem.digital.gov/maturity-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://designsystem.digital.gov/maturity-model/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;bixal--uswds&#34;&gt;Bixal + USWDS&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://designsystem.digital.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://designsystem.digital.gov/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;USWDB implementation for the bixal theme&lt;/p&gt;
+&lt;p&gt;Component Guide? Implementations in Drupal?
+&lt;a href=&#34;https://storybook.js.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://storybook.js.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Storybook components into Drupal namespace&lt;/p&gt;
+&lt;p&gt;New Bixal Preview&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://preview.bixal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://preview.bixal.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;F18
+&lt;a href=&#34;https://18f.gsa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://18f.gsa.gov/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cloud Pages
+&lt;a href=&#34;https://cloud.gov/pages/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cloud.gov/pages/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;promet-source&#34;&gt;Promet Source&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.prometsource.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.prometsource.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;llm-rag&#34;&gt;LLM RAG&lt;/h3&gt;
+&lt;p&gt;Retrieval Augmented Generation (RAG) for LLMs&lt;/p&gt;
+&lt;p&gt;RAG is an architectural approach that improves the efficacy of large language model (LLM) applications by
+leveraging custom data. Promet Source uses a Solr index of the library&amp;rsquo;s website to provide contextual data to
+clarify the customers request.&lt;/p&gt;
+&lt;h2 id=&#34;la-water&#34;&gt;LA Water&lt;/h2&gt;
+&lt;p&gt;User Journey&lt;/p&gt;
+&lt;h1 id=&#34;fin---key-takeaways&#34;&gt;Fin - Key Takeaways&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Drupal as a &amp;ldquo;digital experience builder&amp;rdquo;, not merely a CMS&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Coming into the conference, my experience with Drupal was limited to about 20 hours of targeted
+troubleshooting for Laura Solomon.&lt;/p&gt;
+&lt;p&gt;Extending core with modules, and now with recipes, etc&amp;hellip;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Leaving ready to contribute&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There are several requirements that must be met to participate in the development of Drupal.
+First, you need to have a Drupal.org user account and it &lt;em&gt;must&lt;/em&gt; be confirmed.
+Second, you need to familiarize yourself with the codebase, issues, and general working preferences of the Drupal community.
+Third, you need to medium to discuss day-to-day Drupal and potential solutions with the community for feedback and best practices.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Learning the terminology used by &amp;ldquo;Site Builders&amp;rdquo; is a must&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It&amp;rsquo;s the only way to bridge the gap between developers and the intricate needs to &amp;ldquo;site builders&amp;rdquo;
+for custom code to support customer needs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Apps I&#39;m Taking into 2024</title>
-      <link>https://www.derekzoladz.com/post/2024apps/</link>
+      <link>http://localhost:1313/post/2024apps/</link>
       <pubDate>Sat, 23 Dec 2023 11:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/post/2024apps/</guid>
+      <guid>http://localhost:1313/post/2024apps/</guid>
       <description>&lt;p&gt;The previous year has brought an increased focus on the Python programming language. In particular, web frameworks and
 libraries using to facilitate full-stack application development. My day-to-day activities at OPLIN (Ohio Public
 Library Information Network) involve the creation, maintenance, and implementation of new features for a suite of
@@ -189,9 +576,9 @@ div#table2024 &gt; table {
     
     <item>
       <title>Apps I&#39;m Taking into 2023</title>
-      <link>https://www.derekzoladz.com/post/2023apps/</link>
+      <link>http://localhost:1313/post/2023apps/</link>
       <pubDate>Fri, 23 Dec 2022 11:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/post/2023apps/</guid>
+      <guid>http://localhost:1313/post/2023apps/</guid>
       <description>&lt;p&gt;While it&amp;rsquo;s a major challenge to identify all of the scripts, command line tools, and web-based applications that have influenced my thoughts and workflow over the previous year,
 here&amp;rsquo;s a set of applications that I&amp;rsquo;m excited to take with me into the new year.&lt;/p&gt;
 &lt;h3 id=&#34;d2httpsd2langcomtourintro&#34;&gt;&lt;a href=&#34;https://d2lang.com/tour/intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;D2&lt;/a&gt;&lt;/h3&gt;
@@ -247,9 +634,9 @@ here&amp;rsquo;s a set of applications that I&amp;rsquo;m excited to take with m
     
     <item>
       <title>2022 Apps, A Bit Differently</title>
-      <link>https://www.derekzoladz.com/post/2022apps/</link>
+      <link>http://localhost:1313/post/2022apps/</link>
       <pubDate>Fri, 31 Dec 2021 11:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/post/2022apps/</guid>
+      <guid>http://localhost:1313/post/2022apps/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Duane Hanson &lt;em&gt;Janitor&lt;/em&gt;, sculpture at the &lt;a href=&#34;https://mam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Milwaukee Museum of Art&lt;/a&gt; (DCZ, photo taken 2021)&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -290,9 +677,9 @@ the tools that I&amp;rsquo;ll be &amp;rsquo;taking with me into the new year&#39
     
     <item>
       <title>Apps I&#39;m Taking into 2021</title>
-      <link>https://www.derekzoladz.com/post/2021apps/</link>
+      <link>http://localhost:1313/post/2021apps/</link>
       <pubDate>Fri, 01 Jan 2021 11:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/post/2021apps/</guid>
+      <guid>http://localhost:1313/post/2021apps/</guid>
       <description>&lt;p&gt;While it&amp;rsquo;s a major challenge to identify all of the scripts, command line tools, and web-based applications that have influenced my thoughts and workflow over the previous year,
 here&amp;rsquo;s a set of applications that I&amp;rsquo;m excited to take with me into the new year.&lt;/p&gt;
 &lt;h3 id=&#34;waxhttpsgithubcomminicompwax&#34;&gt;&lt;a href=&#34;https://github.com/minicomp/wax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wax&lt;/a&gt;&lt;/h3&gt;
@@ -422,9 +809,9 @@ source.view()
     
     <item>
       <title>code{4}lib - Pittsburgh, PA</title>
-      <link>https://www.derekzoladz.com/post/2020code4lib/</link>
+      <link>http://localhost:1313/post/2020code4lib/</link>
       <pubDate>Sat, 14 Mar 2020 11:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/post/2020code4lib/</guid>
+      <guid>http://localhost:1313/post/2020code4lib/</guid>
       <description>&lt;h3 id=&#34;lots-of-firsts-at-code4lib-2020&#34;&gt;Lots of Firsts at Code{4}lib 2020&lt;/h3&gt;
 &lt;p&gt;Code{4}lib is the only major conference that I&amp;rsquo;ve attend with a single track. Most conferences are multi-track. At a multi-track conference, attendees gather for a keynote presentation to kick-off the event. But after that collective experience, everyone develops a self-selected path through simultaneously occurring presentations and activities. At Code{4}lib, all attendees experience the same sequence of sessions, lightning talks, breakouts, and keynotes presentations. There&amp;rsquo;s a definitively stronger sense of community that emerges with a single-track conference. As attendees discuss sessions - through the filters of their own local context and professional focus - a richer understanding of each topic develops.&lt;/p&gt;
 &lt;p&gt;This conference also marks the first time that I&amp;rsquo;ve worked on a committee for a national conference. All of my previous conference planning experiences have been either at the state, regional, or institutional-level. As a member of the Website Working Group for the &lt;a href=&#34;https://2020.code4lib.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 conference&lt;/a&gt;, our team focused mainly on content strategy for web properties and improving the overall experience for on-site and remote attendees, speakers, sponsors, and a host of other interested parties that will stumble upon the content in the coming weeks and months. Our team contributed a number of significant improvements to the overall accessibility of the conference website, including: (1) multiple adjustments to the document structure, (2) removing situations of skipped heading to ease screenreader traversal, and whenever possible (3) swapping static content with variable references, so that next year&amp;rsquo;s working group will be able to customize the conference website more fully by simply updating the content in the site&amp;rsquo;s &lt;code&gt;data.yml&lt;/code&gt; file.&lt;/p&gt;
@@ -483,7 +870,7 @@ source.view()
 
 &lt;figure  id=&#34;figure-hexagon-shaped-sticker-showing-hyku-for-consortia-logo&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.derekzoladz.com/website/post/2020code4lib/hyku_for_consortia.png&#34; alt=&#34;Hexagon-shaped sticker showing Hyku for Consortia logo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/website/post/2020code4lib/hyku_for_consortia.png&#34; alt=&#34;Hexagon-shaped sticker showing Hyku for Consortia logo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Hexagon-shaped sticker showing Hyku for Consortia logo
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -507,9 +894,9 @@ An alternative to &lt;a href=&#34;https://www.selenium.dev/&#34; target=&#34;_bl
     
     <item>
       <title>Apps I&#39;m Taking into 2020</title>
-      <link>https://www.derekzoladz.com/post/2019apps/</link>
+      <link>http://localhost:1313/post/2019apps/</link>
       <pubDate>Mon, 30 Dec 2019 11:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/post/2019apps/</guid>
+      <guid>http://localhost:1313/post/2019apps/</guid>
       <description>&lt;p&gt;While it&amp;rsquo;s a major challenge to identify all of the scripts, command line tools, and web-based applications that have influenced my thoughts and workflow over the previous year,
 here&amp;rsquo;s a set of applications that I&amp;rsquo;m excited to take with me into the new year.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/laurent22/joplin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joplin&lt;/a&gt;&lt;br&gt;
@@ -529,9 +916,9 @@ According to the project website, &amp;ldquo;GitLab is a complete DevOps platfor
     
     <item>
       <title>Curses, It&#39;s Glances</title>
-      <link>https://www.derekzoladz.com/post/glances/</link>
+      <link>http://localhost:1313/post/glances/</link>
       <pubDate>Sat, 30 Nov 2019 11:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/post/glances/</guid>
+      <guid>http://localhost:1313/post/glances/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s definitely an argument to be made for using lightweight apps that minimize installed dependencies in an effort to: (1) minimize the surface area for vulnerabilities and attack vectors, and (2) reduce application complexity for  troubleshooting purposes when something inevitably goes wrong. However, there needs to be a balance between security gains and pleasure in using an application, what&amp;rsquo;s the point in installing it in the first place if you aren&amp;rsquo;t going to use it?&lt;/p&gt;
 &lt;p&gt;An application that sits in the sweet spot is &lt;a href=&#34;https://nicolargo.github.io/glances/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Glances&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Glances uses a plugin archiecture. The documentation contains a &lt;a href=&#34;https://glances.readthedocs.io/en/stable/aoa/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;current list of available plugins&lt;/a&gt;. One of the plugins that deserves highlighting is the AMP (Application Monitoring Process) plugin. AMPs are simple regex statements written into the Glances main &lt;code&gt;glances.conf&lt;/code&gt; configuration file that allow the user to monitor any running processes. Glances configuration file is written in the human readable INI format.&lt;/p&gt;
@@ -563,9 +950,9 @@ According to the project website, &amp;ldquo;GitLab is a complete DevOps platfor
     
     <item>
       <title>Overview of My Personal Library</title>
-      <link>https://www.derekzoladz.com/post/my_library/</link>
+      <link>http://localhost:1313/post/my_library/</link>
       <pubDate>Thu, 03 Oct 2019 11:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/post/my_library/</guid>
+      <guid>http://localhost:1313/post/my_library/</guid>
       <description>&lt;p&gt;On a day-to-day basis, I work with the &lt;a href=&#34;http://info.cool-cat.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consortium of Ohio Libraries&lt;/a&gt; on their open-source ILS &lt;a href=&#34;https://evergreen-ils.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evergreen&lt;/a&gt;. Whether it&amp;rsquo;s configuring new circulation policies, adjusting global system settings, or writing SQL to batch update item attributes, I&amp;rsquo;ve explored a significant chunk of Evergreen over the last 3 years. But it&amp;rsquo;s an understatment to say that Evergreen is a massive application. There&amp;rsquo;s still plenty of uncharted functionality.&lt;/p&gt;
 &lt;p&gt;Evergreen&amp;rsquo;s architecture is designed for multi-tenancy out-of-the-box and built to scale to very large consortia. In the United States, it&amp;rsquo;s the platform for a number of large public library consortia. For a personal library, it&amp;rsquo;s overkill. Developing a personal library is also an opportunity to explore the setup and administer another ILS.&lt;/p&gt;
 &lt;p&gt;For these reasons, I chose another well-known open source ILS used most often by stand-alone public libraries as the foundation for my personal library: &lt;a href=&#34;https://koha-community.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koha&lt;/a&gt;.&lt;/p&gt;
@@ -577,71 +964,7 @@ According to the project website, &amp;ldquo;GitLab is a complete DevOps platfor
 &lt;li&gt;Design and build ILS infrastructure and networking from scratch&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I&amp;rsquo;ll be cataloging my personal collection of library-related books on my local network using the following hardware.
-&lt;video controls src=&#34;https://www.derekzoladz.com/post/my_library/koha_server.mp4&#34;&gt;&lt;/video&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why ls is exa</title>
-      <link>https://www.derekzoladz.com/post/exa/</link>
-      <pubDate>Fri, 09 Aug 2019 11:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/post/exa/</guid>
-      <description>&lt;p&gt;One of the most common commands that I execute in the terminal is simply to list the contents of a directory. Since I do this so often, being able to quickly and easily digest vast amounts of information about the content of the directory is essential. That&amp;rsquo;s where &lt;a href=&#34;https://the.exa.website/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;exa&lt;/a&gt; shines.&lt;/p&gt;
-&lt;p&gt;Out-of-the-box, the default color scheme of &lt;code&gt;exa&lt;/code&gt; is finely tuned. I found the intricate use of subtle color distinctions distracting, rather than informative. As such, I would need to modify the color definitions to suit my personal goals of: (1) being able to easily differentiate between directory content that my current user owns or is a member of the assigned group, (2) rapidly distinguish between files and directories, and (3) generally list common metadata elements that experiencing has shown to be frequently useful in troubleshooting an issue.&lt;/p&gt;
-&lt;p&gt;For the moment, here&amp;rsquo;s what I&amp;rsquo;m using:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# ------------------------------
-# exa - Color Scheme Definitions
-# ------------------------------
-
-export EXA_COLORS=&amp;quot;\
-da=38;5;245:\
-di=38;5;14:\
-sn=38;5;28:\
-sb=38;5;28:\
-uu=38;5;40:\
-un=38;5;160:\
-gu=38;5;40:\
-gn=38:5:160:\
-bl=38;5;220:\
-ur=37:\
-uw=37:\
-ux=37:\
-ue=37:\
-gr=37:\
-gw=37:\
-gx=37:\
-tr=37:\
-tw=37:\
-tx=37:\
-su=37:\
-sf=37:\
-xa=37&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;code&gt;exa&lt;/code&gt; has a wide range of configurable settings and features. After barely scratching the surface of exa&amp;rsquo;s functionality, I&amp;rsquo;ve configured a tool that lists directory contents in a clear, and highly meaningful way, that fits my workflow. &lt;a href=&#34;https://the.exa.website/features&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;exa&amp;rsquo;s documentation&lt;/a&gt; provides adequate description to customize output to fix various use cases. For example, I&amp;rsquo;m not using any of the git integration, extended attributes, or unix-like tree expansion of the file system.&lt;/p&gt;
-&lt;p&gt;So, what am I using? Well&amp;hellip; it&amp;rsquo;s spelled out in the &lt;code&gt;ls&lt;/code&gt; alias in my &lt;code&gt;.zshrc&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;alias ls=&amp;quot;exa --long --header --links  --inode --blocks --accessed --modified --created --group --all --sort=.name  --group-directories-first&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;That&amp;rsquo;s it!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Farewell, Nano</title>
-      <link>https://www.derekzoladz.com/post/farewell_nano/</link>
-      <pubDate>Thu, 06 Jun 2019 11:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/post/farewell_nano/</guid>
-      <description>&lt;p&gt;Forever, I&amp;rsquo;ve used &lt;code&gt;nano&lt;/code&gt; as my command-line text editor. I&amp;rsquo;ve never had an issue with it. In fact, it&amp;rsquo;s been so reliable that I&amp;rsquo;ve keep it around much longer than I should have. It still works well for most of my needs, but it&amp;rsquo;s time to expand my suite of skills and learn something new.&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s why I&amp;rsquo;m switching to &lt;code&gt;vim&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Out-of-the-box, &lt;code&gt;vim&lt;/code&gt; is a &lt;em&gt;tabula rasa&lt;/em&gt;, a blank slate, and it feels oddly empty. To fill this vacuum, my first step in making the transition was to explore plugin managers. Of course, this is following an introductory period to learn the basics. If I was going to successfully make the switch, I was going to need to first personalize my instance &lt;code&gt;vim&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;I selected Tim Pope&amp;rsquo;s &lt;a href=&#34;https://github.com/tpope/vim-pathogen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pathogen.vim&lt;/a&gt; as my plugin manager. &lt;code&gt;pathogen.vim&lt;/code&gt; allows for each plugin to be placed into its own version-controlled directory and loaded at runtime. Installing a plugin is straightforward: &lt;code&gt;git clone&lt;/code&gt; into &lt;code&gt;~/.vim/bundle/&lt;/code&gt;. Simple, maintainable, elegant.&lt;/p&gt;
-&lt;p&gt;Here are a few of the plugins that comprise my base:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/nanotech/jellybeans.vim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jellybeans.vim&lt;/a&gt;: Because everyone needs a cheerful, dark-mode enabled, color scheme.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/scrooloose/nerdtree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nerdtree.vim&lt;/a&gt;: If you&amp;rsquo;re going to be using &lt;code&gt;vim&lt;/code&gt; for any amount of time, you&amp;rsquo;ll want to have a file explorer.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tpope/vim-fugitive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fugitive.vim&lt;/a&gt;: A way more advanced git wrapper than I currently need, but a rich avenue for exploration and growth. I&amp;rsquo;m basically using this plugin to display git information in the &lt;code&gt;&#39;statusline&#39;&lt;/code&gt; via&amp;hellip;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/itchyny/lightline.vim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lightline.vim&lt;/a&gt;: In a nutshell, an easy to use and highly configurable &lt;code&gt;&#39;statusline&#39;&lt;/code&gt; plugin.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Feel free to take &lt;a href=&#34;https://github.com/dzoladz/.vim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my initial configuration&lt;/a&gt; for a spin!&lt;/p&gt;
+&lt;video controls src=&#34;http://localhost:1313/post/my_library/koha_server.mp4&#34;&gt;&lt;/video&gt;&lt;/p&gt;
 </description>
     </item>
     

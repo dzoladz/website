@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy | Derek Zoladz</title>
+    <link>http://localhost:1313/tag/philosophy/</link>
+      <atom:link href="http://localhost:1313/tag/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philosophy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
+      <title>Philosophy</title>
+      <link>http://localhost:1313/tag/philosophy/</link>
+    </image>
+    
+    <item>
+      <title>Blank Topographies</title>
+      <link>http://localhost:1313/post/2024becker/</link>
+      <pubDate>Sat, 01 Jun 2024 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024becker/</guid>
+      <description>&lt;p&gt;Jonas N.T. Becker&amp;rsquo;s series &lt;strong&gt;Blank Topographies&lt;/strong&gt; (2017–present) is currently on view at the
+&lt;a href=&#34;https://wexarts.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wexner Center for the Arts&lt;/a&gt;. This work is a brilliant illustration of the process of
+exformation, the removal of signifiers from an object to make it less informative.&lt;/p&gt;
+&lt;p&gt;Blank Topographies is a series of pre-formed topographic relief maps. Each map contains the most expensive mountain
+real estate in the year that it was created. The maps are painted to match the color of the display wall on which they
+are mounted, retaining only the relations of the topographic textures themselves. By removing the common markers of
+value (such as roads, location names, natural resources, and other cultural landmarks), the systems of symbolic
+value have been extracted from the landscape; thus, reducing the informative references of both the map and terrain.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jonas N.T. Becker: A Hole is not a Void&lt;/strong&gt; is organized by the Wexner Center for the Arts,
+curated by Head of Exhibitions Kelly Kivland and Curator Lucy I. Zimmerman.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,191 +2,203 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.derekzoladz.com/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/tag/applications/</loc>
+    <loc>http://localhost:1313/tag/applications/</loc>
+    <lastmod>2024-06-01T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/2024becker/</loc>
+    <lastmod>2024-06-01T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-06-01T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-01T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/conferences/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/drupal/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/drupalcon2024/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/2024apps/</loc>
     <lastmod>2023-12-23T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/post/2024apps/</loc>
-    <lastmod>2023-12-23T11:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.derekzoladz.com/post/</loc>
-    <lastmod>2023-12-23T11:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.derekzoladz.com/tags/</loc>
-    <lastmod>2023-12-23T11:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.derekzoladz.com/post/2023apps/</loc>
+    <loc>http://localhost:1313/post/2023apps/</loc>
     <lastmod>2022-12-23T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/tag/career/</loc>
+    <loc>http://localhost:1313/tag/career/</loc>
     <lastmod>2022-11-28T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/post/oplin/</loc>
+    <loc>http://localhost:1313/post/oplin/</loc>
     <lastmod>2022-11-28T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/tag/technology/</loc>
+    <loc>http://localhost:1313/tag/technology/</loc>
     <lastmod>2022-11-28T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/tag/alao/</loc>
+    <loc>http://localhost:1313/tag/alao/</loc>
     <lastmod>2022-11-04T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/tag/conferences/</loc>
+    <loc>http://localhost:1313/post/2022alao/</loc>
     <lastmod>2022-11-04T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/post/2022alao/</loc>
-    <lastmod>2022-11-04T11:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.derekzoladz.com/publication/contactless-library-services/</loc>
+    <loc>http://localhost:1313/publication/contactless-library-services/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/publication-type/speech/</loc>
+    <loc>http://localhost:1313/publication-type/speech/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/post/2022apps/</loc>
+    <loc>http://localhost:1313/post/2022apps/</loc>
     <lastmod>2021-12-31T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/project/tedsig_futures/</loc>
+    <loc>http://localhost:1313/project/tedsig_futures/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/tag/tedsig/</loc>
+    <loc>http://localhost:1313/tag/tedsig/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/post/2021apps/</loc>
+    <loc>http://localhost:1313/post/2021apps/</loc>
     <lastmod>2021-01-01T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/post/2020alao/</loc>
+    <loc>http://localhost:1313/post/2020alao/</loc>
     <lastmod>2020-10-28T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/post/latitude_reading_group/</loc>
+    <loc>http://localhost:1313/post/latitude_reading_group/</loc>
     <lastmod>2020-10-22T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/tag/speculative/</loc>
+    <loc>http://localhost:1313/tag/speculative/</loc>
     <lastmod>2020-10-22T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/publication/ezpaarse/</loc>
+    <loc>http://localhost:1313/publication/ezpaarse/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/tag/palni/</loc>
+    <loc>http://localhost:1313/tag/palni/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/publication/contextualizing_ezproxy/</loc>
+    <loc>http://localhost:1313/publication/contextualizing_ezproxy/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/tag/ohiolink/</loc>
+    <loc>http://localhost:1313/tag/ohiolink/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/project/tedsig2020/</loc>
+    <loc>http://localhost:1313/project/tedsig2020/</loc>
     <lastmod>2020-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/post/2020code4lib/</loc>
+    <loc>http://localhost:1313/post/2020code4lib/</loc>
     <lastmod>2020-03-14T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/tag/code4lib/</loc>
+    <loc>http://localhost:1313/tag/code4lib/</loc>
     <lastmod>2020-03-14T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/post/2019apps/</loc>
+    <loc>http://localhost:1313/post/2019apps/</loc>
     <lastmod>2019-12-30T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/post/glances/</loc>
+    <loc>http://localhost:1313/post/glances/</loc>
     <lastmod>2019-11-30T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/post/my_library/</loc>
+    <loc>http://localhost:1313/post/my_library/</loc>
     <lastmod>2019-10-03T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/post/exa/</loc>
+    <loc>http://localhost:1313/post/exa/</loc>
     <lastmod>2019-08-09T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/post/farewell_nano/</loc>
+    <loc>http://localhost:1313/post/farewell_nano/</loc>
     <lastmod>2019-06-06T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/post/2018apps/</loc>
+    <loc>http://localhost:1313/post/2018apps/</loc>
     <lastmod>2018-12-31T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/tag/dpla/</loc>
+    <loc>http://localhost:1313/tag/dpla/</loc>
     <lastmod>2018-03-02T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/post/dpla/</loc>
+    <loc>http://localhost:1313/post/dpla/</loc>
     <lastmod>2018-03-02T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/publication/rightclick2017/</loc>
+    <loc>http://localhost:1313/publication/rightclick2017/</loc>
     <lastmod>2017-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/tag/olc/</loc>
+    <loc>http://localhost:1313/tag/olc/</loc>
     <lastmod>2017-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/project/thurgood/</loc>
+    <loc>http://localhost:1313/project/thurgood/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/tag/ilead/</loc>
+    <loc>http://localhost:1313/tag/ilead/</loc>
     <lastmod>2015-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/publication/know-the-lingo/</loc>
+    <loc>http://localhost:1313/publication/know-the-lingo/</loc>
     <lastmod>2015-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/project/lingo/</loc>
+    <loc>http://localhost:1313/project/lingo/</loc>
     <lastmod>2013-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.derekzoladz.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

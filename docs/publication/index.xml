@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Derek Zoladz</title>
-    <link>https://www.derekzoladz.com/publication/</link>
-      <atom:link href="https://www.derekzoladz.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://www.derekzoladz.com/publication/</link>
+      <link>http://localhost:1313/publication/</link>
     </image>
     
     <item>
       <title>Contactless Library Service: Case Studies from Ohio&#39;s Private Academic Libraries</title>
-      <link>https://www.derekzoladz.com/publication/contactless-library-services/</link>
+      <link>http://localhost:1313/publication/contactless-library-services/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/publication/contactless-library-services/</guid>
+      <guid>http://localhost:1313/publication/contactless-library-services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ezPAARSE ’em: Towards an Increasingly Refined Understanding of Activity</title>
-      <link>https://www.derekzoladz.com/publication/ezpaarse/</link>
+      <link>http://localhost:1313/publication/ezpaarse/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/publication/ezpaarse/</guid>
+      <guid>http://localhost:1313/publication/ezpaarse/</guid>
       <description>&lt;video width=&#34;520&#34; height=&#34;240&#34; controls&gt;
   &lt;source src=&#34;assets/ezpaarse.mp4&#34; type=&#34;video/mp4&#34;&gt;
 Your browser does not support the video tag.
@@ -34,25 +34,25 @@ Your browser does not support the video tag.
     
     <item>
       <title>Contextualizing EZproxy for Improved Troubleshooting and Problem Reports</title>
-      <link>https://www.derekzoladz.com/publication/contextualizing_ezproxy/</link>
+      <link>http://localhost:1313/publication/contextualizing_ezproxy/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/publication/contextualizing_ezproxy/</guid>
+      <guid>http://localhost:1313/publication/contextualizing_ezproxy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beam Me Up, Scotty: Migrating into an Evergreen Consortium</title>
-      <link>https://www.derekzoladz.com/publication/rightclick2017/</link>
+      <link>http://localhost:1313/publication/rightclick2017/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/publication/rightclick2017/</guid>
+      <guid>http://localhost:1313/publication/rightclick2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Know the Lingo: How ILEAD Ohio Influenced Library Collaboration and Discovery for Patrons</title>
-      <link>https://www.derekzoladz.com/publication/know-the-lingo/</link>
+      <link>http://localhost:1313/publication/know-the-lingo/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.derekzoladz.com/publication/know-the-lingo/</guid>
+      <guid>http://localhost:1313/publication/know-the-lingo/</guid>
       <description></description>
     </item>
     
