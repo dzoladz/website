@@ -2,27 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drupal | Derek Zoladz</title>
-    <link>http://localhost:1313/tag/drupal/</link>
-      <atom:link href="http://localhost:1313/tag/drupal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.derekzoladz.com/tag/drupal/</link>
+      <atom:link href="https://www.derekzoladz.com/tag/drupal/index.xml" rel="self" type="application/rss+xml" />
     <description>Drupal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.derekzoladz.com/media/icon_hu1efd8f6f495040e8e1031572b668117b_2834_512x512_fill_lanczos_center_3.png</url>
       <title>Drupal</title>
-      <link>http://localhost:1313/tag/drupal/</link>
+      <link>https://www.derekzoladz.com/tag/drupal/</link>
     </image>
     
     <item>
       <title>DrupalCon 2024: Portland, Oregon</title>
-      <link>http://localhost:1313/post/drupalcon2024/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/drupalcon2024/</guid>
+      <link>https://www.derekzoladz.com/post/drupalcon2024/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.derekzoladz.com/post/drupalcon2024/</guid>
       <description>&lt;p&gt;Getting back to somewhat of a normal afternoon, I decided to take a look at my &lt;a href=&#34;https://events.drupal.org/portland2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DrupalCon 2024&lt;/a&gt; notes. There
 has been a lot of discussion around generative AI, both at the conference and in the OPLIN office, so I thought I&amp;rsquo;d
 let ChatGPT take a crack at generating the introductory paragraph about DrupalCon 2024. Based upon my session note
 files currently open in my IDE (Integrated Development Environment), here is the result&amp;hellip;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt;DrupalCon 2024 is the best DrupalCon ever! It&#39;s the first DrupalCon to be held on 
+&lt;div style=&#34;display: block;&#34;&gt;
+&lt;div style=&#34; padding: 1em; margin: 1em; font-family: monospace; font-size: 14px;&#34;&gt;
+DrupalCon 2024 is the best DrupalCon ever! It&#39;s the first DrupalCon to be held on 
 the moon, and it&#39;s the first DrupalCon to be held in space. The moon is a great 
 place to hold a conference because it&#39;s a lot quieter than Earth. There are no 
 cars or trucks driving by, and there are no people talking loudly. The moon is 
@@ -37,8 +38,8 @@ conference because it&#39;s a lot more fun than Earth. There are no boring offic
 buildings or crowded streets on the moon. Instead, there are craters to explore, 
 mountains to climb, and valleys to hike through. DrupalCon 2024 is going to be 
 the best DrupalCon ever, and you won&#39;t want to miss it!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr/&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Exploring the craters on the moon does sound like a lot of fun!&lt;/p&gt;
 &lt;p&gt;Back here on planet Earth, we like to call Portland, Oregon the location of DrupalCon 2024.
 The conference was held at the Oregon Convention Center from May 6-9, 2024; requiring travel
@@ -68,7 +69,7 @@ International Airport (PDX), and Denver International Airport (DEN).&lt;/p&gt;
                /post/drupalcon2024/flight-map_hu32c05291598800cbb82a059df5963ebc_407545_ec56904b76c8ba339419e2584bce9a1b.webp 400w,
                /post/drupalcon2024/flight-map_hu32c05291598800cbb82a059df5963ebc_407545_71d45e4eb0bd0ae1c900920532190982.webp 760w,
                /post/drupalcon2024/flight-map_hu32c05291598800cbb82a059df5963ebc_407545_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/drupalcon2024/flight-map_hu32c05291598800cbb82a059df5963ebc_407545_ec56904b76c8ba339419e2584bce9a1b.webp&#34;
+               src=&#34;https://www.derekzoladz.com/post/drupalcon2024/flight-map_hu32c05291598800cbb82a059df5963ebc_407545_ec56904b76c8ba339419e2584bce9a1b.webp&#34;
                width=&#34;760&#34;
                height=&#34;394&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -76,7 +77,11 @@ International Airport (PDX), and Denver International Airport (DEN).&lt;/p&gt;
       4,683 miles travelled for DrupalCon 2024
     &lt;/figcaption&gt;&lt;/figure&gt;
 
+&lt;div style=&#34;height: 0.5em; display: block;&#34;&gt;&lt;/div&gt;
+&lt;hr/&gt;
 &lt;h1 id=&#34;day-1-may-6-2024&#34;&gt;Day 1: May 6, 2024&lt;/h1&gt;
+&lt;hr/&gt;
+&lt;div style=&#34;height: 0.5em; display: block;&#34;&gt;&lt;/div&gt;
 &lt;h2 id=&#34;driesnote&#34;&gt;Driesnote&lt;/h2&gt;
 &lt;p&gt;Dries Buytaert, the founder of Drupal, gave the keynote address at DrupalCon 2024. He talked about the history of
 Drupal and how it has evolved over the years. He also discussed the future of Drupal and what we can expect in the
@@ -93,6 +98,7 @@ to the Wordpress experience.&lt;/p&gt;
   frameborder=&#34;0&#34;
   allowfullscreen&gt;
 &lt;/iframe&gt;
+&lt;br/&gt;
 &lt;h2 id=&#34;birds-of-a-feather-drupal4lib&#34;&gt;Birds of a Feather: Drupal4Lib&lt;/h2&gt;
 &lt;p&gt;The Drupal4Lib Birds of a Feather session was a great opportunity for librarians and cultural heritage professionals
 to connect and share their experiences using Drupal. The session covered topics like the
@@ -100,6 +106,7 @@ to connect and share their experiences using Drupal. The session covered topics 
 , an open-source digital asset management system built on top of Drupal Core. If you&amp;rsquo;re a librarian interested in Drupal
 , be sure to join the &lt;a href=&#34;https://www.drupal.org/slack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drupal4Lib Slack channel&lt;/a&gt; and search for other folks in the
 &lt;code&gt;drupal4lib&lt;/code&gt; community.&lt;/p&gt;
+&lt;div style=&#34;height: 0.5em; display: block;&#34;&gt;&lt;/div&gt;
 &lt;h2 id=&#34;config-validation&#34;&gt;Config Validation&lt;/h2&gt;
 &lt;p&gt;Wil Leers gave a presentation on config validation in Drupal 10.2. He discussed how Drupal 8.4 laid the foundations for
 config validation and how it has evolved in Drupal 9.4. He demonstrated how modules can adopt config validation using
@@ -112,6 +119,7 @@ I&amp;rsquo;ve linked Wil&amp;rsquo;s presentation from last year&amp;rsquo;s Dr
   frameborder=&#34;0&#34;
   allowfullscreen&gt;
 &lt;/iframe&gt;
+&lt;br/&gt;
 &lt;h2 id=&#34;project-browser&#34;&gt;Project Browser&lt;/h2&gt;
 &lt;p&gt;The Project Browser session was a deep dive into the new features of the Drupal
 &lt;a href=&#34;https://www.drupal.org/project/project_browser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Browser&lt;/a&gt; initiative. Project Browser makes it easy for site
@@ -141,7 +149,7 @@ provides a marketplace-like experience for modules.&lt;/p&gt;
                /post/drupalcon2024/project_browser_hu5bcbc0eb841aa4e529eec8a863327356_465497_3d37c12caf75140762e231db8b7cf973.webp 400w,
                /post/drupalcon2024/project_browser_hu5bcbc0eb841aa4e529eec8a863327356_465497_5d57be5a8e5384794f791eff866cca8c.webp 760w,
                /post/drupalcon2024/project_browser_hu5bcbc0eb841aa4e529eec8a863327356_465497_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/drupalcon2024/project_browser_hu5bcbc0eb841aa4e529eec8a863327356_465497_3d37c12caf75140762e231db8b7cf973.webp&#34;
+               src=&#34;https://www.derekzoladz.com/post/drupalcon2024/project_browser_hu5bcbc0eb841aa4e529eec8a863327356_465497_3d37c12caf75140762e231db8b7cf973.webp&#34;
                width=&#34;760&#34;
                height=&#34;362&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -149,39 +157,11 @@ provides a marketplace-like experience for modules.&lt;/p&gt;
       Project Browser design sets
     &lt;/figcaption&gt;&lt;/figure&gt;
 
+&lt;div style=&#34;height: 0.5em; display: block;&#34;&gt;&lt;/div&gt;
+&lt;hr/&gt;
 &lt;h1 id=&#34;day-2-may-7-2024&#34;&gt;Day 2: May 7, 2024&lt;/h1&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-portlanders-have-you-been-waiting-a-long-time&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://www.burgerville.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img alt=&#34;Portlanders, have you been waiting a long time?&#34; srcset=&#34;
-               /post/drupalcon2024/asparagus_hu02aa61ae1d9de35cbe238d2676170cb9_393485_109fc738459ab78f51d570aefbe34853.webp 400w,
-               /post/drupalcon2024/asparagus_hu02aa61ae1d9de35cbe238d2676170cb9_393485_9f2a1e341252ebe9c9db60788d5df3e1.webp 760w,
-               /post/drupalcon2024/asparagus_hu02aa61ae1d9de35cbe238d2676170cb9_393485_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/drupalcon2024/asparagus_hu02aa61ae1d9de35cbe238d2676170cb9_393485_109fc738459ab78f51d570aefbe34853.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;573&#34;
-               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Portlanders, have you been waiting a long time?
-    &lt;/figcaption&gt;&lt;/figure&gt;
-
+&lt;hr/&gt;
+&lt;div style=&#34;height: 0.5em; display: block;&#34;&gt;&lt;/div&gt;
 &lt;h2 id=&#34;mcgill-university&#34;&gt;McGill University&lt;/h2&gt;
 &lt;p&gt;McGill University gave a presentation on how they manage, test, and deploy 1,000 Drupal websites using Ansible and
 Gitlab CI. The best way to understand the gist of this presentation is to peruse the
@@ -207,10 +187,10 @@ Gitlab CI. The best way to understand the gist of this presentation is to peruse
 &lt;figure  id=&#34;figure-screenshot-of-thomas-flines-slides&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;mcgill_ansible_gitlab.pdf&#34; &gt;&lt;img alt=&#34;Screenshot of Thomas Fline&amp;#39;s Slides&#34; srcset=&#34;
-               /post/drupalcon2024/mcgill_hu140a138097a547e0ca0c3499cbb1bed6_621864_31ab4d2e858817d6389cd516980cb862.webp 400w,
+               /post/drupalcon2024/mcgill_hu140a138097a547e0ca0c3499cbb1bed6_621864_801607d2a746b51c1f9766587c02c0a0.webp 400w,
                /post/drupalcon2024/mcgill_hu140a138097a547e0ca0c3499cbb1bed6_621864_32748c26ff766eaf2d469830ba0209fb.webp 760w,
                /post/drupalcon2024/mcgill_hu140a138097a547e0ca0c3499cbb1bed6_621864_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/drupalcon2024/mcgill_hu140a138097a547e0ca0c3499cbb1bed6_621864_31ab4d2e858817d6389cd516980cb862.webp&#34;
+               src=&#34;https://www.derekzoladz.com/post/drupalcon2024/mcgill_hu140a138097a547e0ca0c3499cbb1bed6_621864_801607d2a746b51c1f9766587c02c0a0.webp&#34;
                width=&#34;760&#34;
                height=&#34;429&#34;
                loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
@@ -218,15 +198,17 @@ Gitlab CI. The best way to understand the gist of this presentation is to peruse
       Screenshot of Thomas Fline&amp;rsquo;s Slides
     &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;h1 id=&#34;stopped-here-----------------&#34;&gt;STOPPED HERE &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/h1&gt;
+&lt;div style=&#34;height: 0.5em; display: block;&#34;&gt;&lt;/div&gt;
 &lt;h2 id=&#34;drupal-11-whats-new&#34;&gt;Drupal 11: What&amp;rsquo;s New&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://git.drupalcode.org/goba&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gábor Hojtsy&lt;/a&gt; led this session discussing the upcoming features of Drupal 11. While
-features are always welcome, the key takeaway from this session is a rethinking of Drupal Core. Core will become the
-foundational engine that supports &amp;ldquo;ecosystems&amp;rdquo;, refining the focus of Core to be a platform for modules. Drupal Core
-will get smaller and smaller, as one-off modules intended to provide functionality, not support entire ecosystems of
-modules, are removed from Core and shifting into community contributions.&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;https://www.drupal.org/project/book&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book Module&lt;/a&gt; is an example of a module - used by OPLIN Webkits to provide
-hierarchical structure of nodes - scheduled to be removed from Core ore in the Drupal 11 release  after 22 years.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://git.drupalcode.org/goba&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gábor Hojtsy&lt;/a&gt; led a session discussing the upcoming features of Drupal 11. While new features are always welcome,
+the key takeaway from this session is a complete rethinking of the function of Drupal Core. Core will become a
+foundational engine that supports &amp;ldquo;ecosystems&amp;rdquo;; thus, refining the focus of Drupal Core to be a platform for modules
+rather than a storehouse for the best modules in the Drupal community. As a result, Drupal Core will get smaller and
+smaller as one-off modules providing unique functionality (i.e., not in support of entire ecosystems of
+modules) are removed from the core and shifted into the community contributions space.&lt;/p&gt;
+&lt;p&gt;Used by OPLIN Webkits to provide hierarchical structure of nodes, the &lt;a href=&#34;https://www.drupal.org/project/book&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book Module&lt;/a&gt; is an example of a module
+scheduled to be removed from core in the Drupal 11 release. It has been a core module for 22 years.&lt;/p&gt;
+&lt;p&gt;For reference, here is the upcoming release schedule:&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -249,28 +231,30 @@ hierarchical structure of nodes - scheduled to be removed from Core ore in the D
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Long-Term Support (LTS) releases of Drupal Core are available. I was familiar with LTS releases in the Debian space, but
-I was not aware of LTS releases of Drupal Core. LTS offers and additional 2 years of support. The end-of-life (EOL) of
-Drupal 10.x is slated for mid-late 2026.&lt;/p&gt;
+&lt;p&gt;I was familiar with LTS (Long-Term Support) releases from the Ubuntu linux space, but I did not know that LTS releases
+of Drupal Core were available. LTS releases of Drupal Core offer an additional 2 years of support, which extends the
+end-of-life (EOL) of Drupal 10.x into late 2026.&lt;/p&gt;
+&lt;div style=&#34;height: 0.5em; display: block;&#34;&gt;&lt;/div&gt;
 &lt;h2 id=&#34;from-drupal-7-to-drupal-10&#34;&gt;From Drupal 7 to Drupal 10&lt;/h2&gt;
-&lt;p&gt;Drupal 7 will be end-of-life in January 2025. Performing a migration from Drupal 7 to modern Drupal was a topic sitting
-behind almost every presentation at the conference. This session put some hard data behind the community&amp;rsquo;s obvious
-concerns. As of January 2024, nearly 43% of the entire Drupal community is running on Drupal 7 with EOL roughly 6 months
-out. The main point of this session was to announce that &lt;a href=&#34;https://www.acquia.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acquia&lt;/a&gt; recently open sourced their
-migration automation tool, Acquia Migrate: Accelerate (AM:A) to help the community migrate away from Drupal 7 with
-confidence.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.drupal.org/u/mikemadison&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mike Madison&amp;rsquo;s&lt;/a&gt; Recommended Links&lt;/p&gt;
+&lt;p&gt;Performing a migration from Drupal 7 to a modern version of Drupal was a recurring topic at the conference. It was rare
+for a session &lt;strong&gt;not&lt;/strong&gt; to mention that Drupal 7 will be end-of-life in January 2025. This session put some hard data
+behind the community&amp;rsquo;s obvious concerns. As of January 2024, nearly 43% of the entire Drupal community was running
+Drupal 7. That&amp;rsquo;s a large percentage of the community running production applications on top of a release with an
+end-of-life that&amp;rsquo;s roughly 6 months away.&lt;/p&gt;
+&lt;p&gt;The main point of &lt;a href=&#34;https://www.drupal.org/u/mikemadison&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mike Madison&amp;rsquo;s&lt;/a&gt; session was to announce that
+&lt;a href=&#34;https://www.acquia.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acquia&lt;/a&gt; recently open sourced their automated migration toolkit. &lt;a href=&#34;https://www.drupal.org/project/acquia_migrate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acquia Migrate: Accelerate (AM:A)&lt;/a&gt;
+was make available to help the Drupal community migrate away from Drupal 7 with confidence.&lt;/p&gt;
+&lt;p&gt;Other Recommended Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.herodevs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Herodevs: Drupal 7 forever&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.drupal.org/project/acquia_migrate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acquia Migrate: Accelerate (AM:A)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.drupal.org/project/upgrade_status&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Upgrade Status&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://drupal-entity-generator.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drupal Entity Generator (DEG)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.drupal.org/project/rector&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drupal Rector&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://dev.acquia.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acquia Developer Portal&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;And with the anxiety surrounding the migration from Drupal 7 to Drupal 10, it&amp;rsquo;s worth noting an earlier session on the
-first day of the conference announcing &lt;a href=&#34;https://retrofit-drupal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RetroFit&lt;/a&gt;. RetroFit provides several compatibility
-layers that will allow Drupal 7 code to run within a Drupal 10 environemnt.&lt;/p&gt;
+&lt;p&gt;And with the anxiety surrounding a migration from Drupal 7 to Drupal 10, it&amp;rsquo;s worth noting an earlier session
+on the first day of the conference announcing &lt;a href=&#34;https://retrofit-drupal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RetroFit&lt;/a&gt;. RetroFit provides several compatibility
+layers that will allow Drupal 7 code to run within a Drupal 10 environment.&lt;/p&gt;
 &lt;iframe 
   width=&#34;625&#34; height=&#34;350&#34;
   style=&#34;margin: 0 auto; display: block;&#34;
@@ -278,116 +262,73 @@ layers that will allow Drupal 7 code to run within a Drupal 10 environemnt.&lt;/
   frameborder=&#34;0&#34;
   allowfullscreen&gt;
 &lt;/iframe&gt;
+&lt;br/&gt;
+&lt;hr/&gt;
 &lt;h1 id=&#34;day-3-may-8-2024&#34;&gt;Day 3: May 8, 2024&lt;/h1&gt;
-&lt;h2 id=&#34;drupal-project-initiatives-keynote&#34;&gt;Drupal Project Initiatives Keynote&lt;/h2&gt;
-&lt;h3 id=&#34;drupalizeme&#34;&gt;Drupalize.me&lt;/h3&gt;
-&lt;p&gt;(1) Issue Queues
-&lt;a href=&#34;https://drupalize.me/blog/dcpdx-2024-iq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://drupalize.me/blog/dcpdx-2024-iq&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Contributions linked to Drupal.org User Profile
-&lt;a href=&#34;https://www.drupal.org/u/dzoladz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.drupal.org/u/dzoladz&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;gander&#34;&gt;Gander&lt;/h3&gt;
-&lt;p&gt;Performance Testing&lt;/p&gt;
-&lt;p&gt;tag1.com/gander/ten-percent-faster&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/tag1consulting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/tag1consulting&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;gitlab-ci&#34;&gt;Gitlab CI&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://project.pages.drupalcode.org/gitlab_templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://project.pages.drupalcode.org/gitlab_templates/&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;automatic-updates&#34;&gt;Automatic Updates&lt;/h3&gt;
-&lt;p&gt;drupal.org/projects/automatic_updates&lt;/p&gt;
-&lt;h3 id=&#34;eca&#34;&gt;ECA&lt;/h3&gt;
-&lt;p&gt;Drupal Project
-&lt;a href=&#34;https://www.drupal.org/project/eca&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.drupal.org/project/eca&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;UI
-&lt;a href=&#34;https://bpmn.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bpmn.io/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Guide
-&lt;a href=&#34;https://ecaguide.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ecaguide.org/&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;new-navigation&#34;&gt;New Navigation&lt;/h3&gt;
-&lt;p&gt;Left sidebar navigation, i.e., modern navigation patterns&lt;/p&gt;
-&lt;p&gt;uses layout builder to &amp;ldquo;drag and drop&amp;rdquo; navigation components&lt;/p&gt;
-&lt;p&gt;navigation.module -&amp;gt; in core&lt;/p&gt;
-&lt;h3 id=&#34;single-directory-components&#34;&gt;Single directory components&lt;/h3&gt;
-&lt;p&gt;&amp;ldquo;site building&amp;rdquo; ?&lt;/p&gt;
+&lt;hr/&gt;
+&lt;div style=&#34;height: 0.5em; display: block;&#34;&gt;&lt;/div&gt;
+&lt;p&gt;The morning keynote provided an update on the Drupal Project Initiatives. Being as this is my first Drupal conference,
+my knowledge of each initiative is negligible. A link to each project initiative is provided below for future
+reference:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://drupalize.me/blog/dcpdx-2024-iq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drupalize.me&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Development of issue queues linked to a Drupal Association user. A &lt;a href=&#34;https://drupalize.me/blog/dcpdx-2024-iq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;
+from the Portland DrupalCon is available.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.drupal.org/docs/develop/automated-testing/performance-tests&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gander&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Performance Testing for Drupal applications, lead by &lt;a href=&#34;https://github.com/tag1consulting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tag1 Consulting&lt;/a&gt;.
+A blog post from initial tests indicate a &lt;a href=&#34;tag1.com/gander/ten-percent-faster&#34;&gt;ten percent speed improvement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://project.pages.drupalcode.org/gitlab_templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gitlab CI Templates&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The GitLab Templates project drives the GitLab CI integration for all Drupal contrib modules.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.drupal.org/about/starshot/initiatives/automatic-updates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automatic Updates&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Automatically install updates in Drupal to: (1) lower the total cost of ownership of maintaining a Drupal site, (2)
+improve the security of Drupal sites in the wild, and (3) lower the barrier to entry to using Drupal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.drupal.org/project/eca&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECA (Event-Condition-Action)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ECA gets triggered on every Drupal event, allowing for the creation of rules to trigger related
+actions. ECA requires a business process model and notation front-end (e.g., &lt;a href=&#34;https://bpmn.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BPMN&lt;/a&gt;) to design
+rules and workflows. An &lt;a href=&#34;https://ecaguide.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECA Guide&lt;/a&gt; is available for perusal.&lt;/p&gt;
+&lt;p&gt;Additional discussion of single directory components, left sidebar navigation, and using layout builder to enable
+&amp;ldquo;drag and drop&amp;rdquo; components into a layout rounded out the morning keynote.&lt;/p&gt;
+&lt;div style=&#34;height: 0.5em; display: block;&#34;&gt;&lt;/div&gt;
 &lt;h2 id=&#34;first-contribution-workshop&#34;&gt;First Contribution Workshop&lt;/h2&gt;
+&lt;p&gt;During the workshop, I was able to have my Drupal.org account verified. Once verified, I was able to create a user
+profile (&lt;a href=&#34;https://www.drupal.org/u/dzoladz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dzoladz&lt;/a&gt;) and establish an organizational entity for the Ohio Public
+Library Information Network (&lt;a href=&#34;https://www.drupal.org/ohio-public-library-information-network&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OPLIN&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Other Recommended Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.drupal.org/documentation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drupal Documentation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.drupal.org/project/issues/search/drupal?issue_tags=Novice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Novice Issue Queue for Core&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;drupal.org/tools&#34;&gt;Setting Up a Development Environment&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;div style=&#34;height: 0.5em; display: block;&#34;&gt;&lt;/div&gt;
 &lt;h2 id=&#34;downtown-portland&#34;&gt;Downtown Portland&lt;/h2&gt;
-&lt;p&gt;TriMet system&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Portland still has amazing food culture&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Vegan magic box (Black Water is 100% Vegan) &lt;a href=&#34;https://bar.blackwaterpdx.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bar.blackwaterpdx.com/&lt;/a&gt;
-Naan N Curry (Southern Indian) &lt;a href=&#34;https://www.naancurrypdx.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.naancurrypdx.com/&lt;/a&gt;
-Hibabi (Syrian/Lebanese) &lt;a href=&#34;https://www.habibirestaurantmenu.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.habibirestaurantmenu.com/&lt;/a&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Powell&amp;rsquo;s Bookstore is a must&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The small press section is unique. It&amp;rsquo;s a very rare occurance to be able to physically browse materials
-published by a wide spectrum of small publishers in a single location. I could spend many days in this store.&lt;/p&gt;
+&lt;p&gt;The TriMet system is easy to navigate, the food culture is amazing (e.g, &lt;a href=&#34;https://bar.blackwaterpdx.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Black Water&lt;/a&gt;),
+and &lt;a href=&#34;https://www.powells.com/locations/powells-city-of-books&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Powell&amp;rsquo;s City of Books&lt;/a&gt; is an absolute must. The small
+press section is extremely unique. It&amp;rsquo;s a very rare occurrence to be able to physically browse materials published by
+a wide spectrum of small publishers in a single location. I could spend many days in this store.&lt;/p&gt;
+&lt;div style=&#34;height: 0.5em; display: block;&#34;&gt;&lt;/div&gt;
+&lt;hr/&gt;
 &lt;h1 id=&#34;day-4-may-9-2024&#34;&gt;Day 4: May 9, 2024&lt;/h1&gt;
-&lt;p&gt;The Government Summit was in the morning.&lt;/p&gt;
-&lt;h1 id=&#34;types-of-ai&#34;&gt;Types of AI&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Generative AI&lt;/li&gt;
-&lt;li&gt;Speech Recognition&lt;/li&gt;
-&lt;li&gt;Optical Character Recognition&lt;/li&gt;
-&lt;li&gt;Predictive AI&lt;/li&gt;
-&lt;li&gt;Recommendation AI&lt;/li&gt;
-&lt;li&gt;Sentiment Analysis&lt;/li&gt;
-&lt;li&gt;Image Recognition&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Multnomah County Library -&amp;gt; Drupal Library
-&lt;a href=&#34;https://multcolib.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://multcolib.org/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://groups.drupal.org/libraries/resources&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drupal Resources for Public Libraries&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://architecture.lullabot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lullabot - Architectural Decision Records&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;div style=&#34;height: 0.5em; display: block;&#34;&gt;&lt;/div&gt;
+&lt;p&gt;The Government Summit was in the morning. I learned that the &lt;a href=&#34;https://multcolib.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multnomah County Public Library&lt;/a&gt;
+uses Drupal in production for their public-facing web presence. I also discovered that there are a wide array of
+available resources related to Drupal and public libraries: &lt;a href=&#34;https://groups.drupal.org/libraries/resources&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drupal Resources for Public Libraries&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;By this time in the conference, I was not in the mood to hear anything else about artificial intelligence or ChatGPT in
+particular. So when the discussion once again moved to classifications of AI (i.e., Generative AI , Speech Recognition,
+Optical Character Recognition, Predictive AI, Recommendation AI, Sentiment Analysis, and Image Recognition), I elected
+to review &lt;a href=&#34;https://architecture.lullabot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lullabot&amp;rsquo;s Architectural Decision Records&lt;/a&gt;.&lt;/p&gt;
+&lt;div style=&#34;height: 0.5em; display: block;&#34;&gt;&lt;/div&gt;
 &lt;h2 id=&#34;practical-digital-first-design-systems&#34;&gt;Practical, Digital-First Design Systems&lt;/h2&gt;
-&lt;p&gt;Website modernization (21st Centruy Integrated Digital Experience Act)
-&lt;a href=&#34;https://digital.gov/resources/delivering-digital-first-public-experience/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://digital.gov/resources/delivering-digital-first-public-experience/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;USWDS maturity model
-&lt;a href=&#34;https://designsystem.digital.gov/maturity-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://designsystem.digital.gov/maturity-model/&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;bixal--uswds&#34;&gt;Bixal + USWDS&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://designsystem.digital.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://designsystem.digital.gov/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;USWDB implementation for the bixal theme&lt;/p&gt;
-&lt;p&gt;Component Guide? Implementations in Drupal?
-&lt;a href=&#34;https://storybook.js.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://storybook.js.org/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Storybook components into Drupal namespace&lt;/p&gt;
-&lt;p&gt;New Bixal Preview&lt;/p&gt;
+&lt;p&gt;Alright, I&amp;rsquo;m getting tired to writing this summary. I&amp;rsquo;m dropping these links here to explore at a future date.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://preview.bixal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://preview.bixal.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cio.gov/policies-and-priorities/21st-century-IDEA-act/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;21st Century Integrated Digital Experience Act&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://digital.gov/resources/delivering-digital-first-public-experience/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital-First Design Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://designsystem.digital.gov/maturity-model/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;United States Web Design System maturity model&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://storybook.js.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Storybook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://preview.bixal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bixal Theme - Preview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://18f.gsa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;F18&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.gov/pages/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloud Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.prometsource.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Promet Source&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;F18
-&lt;a href=&#34;https://18f.gsa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://18f.gsa.gov/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Cloud Pages
-&lt;a href=&#34;https://cloud.gov/pages/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cloud.gov/pages/&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;promet-source&#34;&gt;Promet Source&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.prometsource.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.prometsource.com/&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;llm-rag&#34;&gt;LLM RAG&lt;/h3&gt;
-&lt;p&gt;Retrieval Augmented Generation (RAG) for LLMs&lt;/p&gt;
-&lt;p&gt;RAG is an architectural approach that improves the efficacy of large language model (LLM) applications by
-leveraging custom data. Promet Source uses a Solr index of the library&amp;rsquo;s website to provide contextual data to
-clarify the customers request.&lt;/p&gt;
-&lt;h2 id=&#34;la-water&#34;&gt;LA Water&lt;/h2&gt;
-&lt;p&gt;User Journey&lt;/p&gt;
-&lt;h1 id=&#34;fin---key-takeaways&#34;&gt;Fin - Key Takeaways&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;Drupal as a &amp;ldquo;digital experience builder&amp;rdquo;, not merely a CMS&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Coming into the conference, my experience with Drupal was limited to about 20 hours of targeted
-troubleshooting for Laura Solomon.&lt;/p&gt;
-&lt;p&gt;Extending core with modules, and now with recipes, etc&amp;hellip;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Leaving ready to contribute&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;There are several requirements that must be met to participate in the development of Drupal.
-First, you need to have a Drupal.org user account and it &lt;em&gt;must&lt;/em&gt; be confirmed.
-Second, you need to familiarize yourself with the codebase, issues, and general working preferences of the Drupal community.
-Third, you need to medium to discuss day-to-day Drupal and potential solutions with the community for feedback and best practices.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Learning the terminology used by &amp;ldquo;Site Builders&amp;rdquo; is a must&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;It&amp;rsquo;s the only way to bridge the gap between developers and the intricate needs to &amp;ldquo;site builders&amp;rdquo;
-for custom code to support customer needs.&lt;/p&gt;
 </description>
     </item>
     
